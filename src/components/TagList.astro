@@ -1,0 +1,4 @@
+---
+const { tags } = Astro.props as { tags: string[] };
+---
+{tags.length > 0 && <ul class="topic-row" aria-label="Temas">{tags.map((tag) => <li class="topic">{tag}</li>)}</ul>}

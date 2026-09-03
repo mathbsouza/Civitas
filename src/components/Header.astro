@@ -1,0 +1,47 @@
+---
+import { SITE, withBase } from "../lib/site";
+
+const currentPath = Astro.url.pathname;
+const links = [
+  { href: "/", label: "Início", icon: "home" },
+  { href: "/posts", label: "Arquivo", icon: "archive" },
+  { href: "/sobre", label: "Sobre", icon: "info" }
+];
+---
+
+<header class="site-header">
+  <nav class="nav-shell" aria-label="Navegação principal">
+    <a href={withBase("/")} class="brand-mark" aria-label={`${SITE.name} — início`} title="Civitas">
+      <span aria-hidden="true">C</span>
+    </a>
+
+    <div class="nav-actions">
+      {links.map((link) => {
+        const isActive = link.href === "/"
+          ? currentPath === withBase("/")
+          : currentPath.startsWith(withBase(link.href));
+
+        return (
+          <a href={withBase(link.href)} class:list={["icon-button", isActive && "is-active"]} aria-label={link.label} title={link.label}>
+            {link.icon === "home" && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5M5.5 9v11h13V9" /></svg>}
+            {link.icon === "archive" && <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16v13H4zM3 3h18v4H3zM9 11h6" /></svg>}
+            {link.icon === "info" && <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 11v6M12 7.5v.01" /></svg>}
+          </a>
+        );
+      })}
+      <span class="nav-divider" aria-hidden="true"></span>
+      <button class="icon-button" id="theme-toggle" type="button" aria-label="Alternar tema" title="Alternar tema">
+        <svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41" /></svg>
+        <svg class="moon-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 15.5A8.5 8.5 0 0 1 8.5 3.5a8.5 8.5 0 1 0 12 12Z" /></svg>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.querySelector<HTMLButtonElement>("#theme-toggle")?.addEventListener("click", () => {
+    const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem("civitas-theme", next);
+  });
+</script>

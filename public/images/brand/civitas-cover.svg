@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#111"/>
+  <g fill="none" stroke="#f5f5f2" stroke-width="2" opacity=".86">
+    <circle cx="800" cy="450" r="255"/>
+    <circle cx="800" cy="450" r="305" opacity=".34"/>
+    <path d="M560 624h480M590 586h420M635 348h330M660 325h280M680 348v238M748 348v238M852 348v238M920 348v238"/>
+    <path d="m635 325 165-95 165 95M620 624h360"/>
+  </g>
+  <text x="800" y="740" fill="#f5f5f2" font-family="Georgia,serif" font-size="54" text-anchor="middle" letter-spacing="18">CIVITAS</text>
+</svg>

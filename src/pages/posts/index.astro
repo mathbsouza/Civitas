@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../../components/BaseLayout.astro";
+import PostExplorer from "../../components/PostExplorer";
+import { getPostCover, getPostPath, getPublishedPosts, toPostSummary } from "../../lib/posts";
+import { withBase } from "../../lib/site";
+
+const posts = await getPublishedPosts();
+const summaries = posts.map((post) => toPostSummary(post, withBase(getPostCover(post)), withBase(getPostPath(post))));
+---
+
+<BaseLayout title="Arquivo" description="Arquivo de textos da Civitas.">
+  <section class="page-shell">
+    <h1 class="page-heading">Arquivo</h1>
+    <PostExplorer client:load posts={summaries} />
+  </section>
+</BaseLayout>

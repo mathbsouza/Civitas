@@ -1,0 +1,21 @@
+---
+import type { PostEntry } from "../lib/posts";
+import { formatDate, getExcerpt, getPostPath, getReadingTime } from "../lib/posts";
+import { withBase } from "../lib/site";
+
+type Props = { post: PostEntry; index?: number };
+const { post, index = 1 } = Astro.props;
+---
+
+<article class="post-card">
+  <div>
+    <span class="post-index">{String(index).padStart(2, "0")}</span>
+    <h2 class="post-title"><a href={withBase(getPostPath(post))}>{post.data.title}</a></h2>
+    <p class="post-excerpt">{getExcerpt(post, 175)}</p>
+    <div class="topic-row">{post.data.tags.slice(0, 3).map((tag) => <span class="topic">{tag}</span>)}</div>
+  </div>
+  <div class="post-foot">
+    <span>{formatDate(post.data.date)} · {getReadingTime(post.body)} min</span>
+    <a class="arrow-mark" href={withBase(getPostPath(post))} aria-label={`Ler ${post.data.title}`}>↗</a>
+  </div>
+</article>

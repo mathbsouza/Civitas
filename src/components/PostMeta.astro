@@ -1,0 +1,7 @@
+---
+type Props = { author: string; dateTime: string; displayDate: string; readingTime: number };
+const { author, dateTime, displayDate, readingTime } = Astro.props;
+---
+<div class="article-kicker">
+  <span>{author}</span><span aria-hidden="true">—</span><time datetime={dateTime}>{displayDate}</time><span aria-hidden="true">—</span><span>{readingTime} min</span>
+</div>
