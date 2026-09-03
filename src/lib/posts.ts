@@ -97,7 +97,7 @@ export function toPostSummary(post: PostEntry, cover: string, url: string): Post
   const slug = getPostSlug(post);
   const segments = slug.split("/");
   const folder = segments.length > 1
-    ? segments.slice(0, -1).map((segment) => segment.replace(/-/g, " ")).join(" / ")
+    ? segments.slice(0, -1).map((segment) => segment.replace(/[-_]+/g, " ")).join(" / ")
     : "geral";
 
   return {

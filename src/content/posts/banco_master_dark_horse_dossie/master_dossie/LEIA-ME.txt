@@ -1,0 +1,12 @@
+DOSSIÊ BANCO MASTER / DARK HORSE
+Atualizado em 03/09/2026 às 16h (Brasília).
+
+Arquivos:
+- dossie_banco_master_dark_horse.md: ensaio principal, com notas de rodapé e trechos-chave de todas as fontes utilizadas.
+- cronologia_master_dark_horse.csv: linha do tempo estruturada para reutilização em roteiro, planilha ou visualização.
+
+Critério editorial:
+- Diferencia relação, benefício, indício, inferência e imputação criminal.
+- Usa linguagem condicional para acusações ainda sob investigação.
+- Inclui versões/defesas quando materialmente relevantes.
+- As citações literais nas notas foram mantidas curtas; o restante é paráfrase.
