@@ -283,8 +283,33 @@ body { padding: 4.5rem 0 0; }
 .article-content .footnotes { overflow-wrap: anywhere; }
 .article-content .footnotes ol { margin-bottom: 0; }
 
+.article-content > ul a[href^="http"],
+.article-content > ol a[href^="http"] {
+  display: inline-flex;
+  align-items: center;
+  margin-left: .35rem;
+  padding: .16rem .48rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font: 500 .65rem/1.35 Arial, sans-serif;
+  text-decoration: none;
+  vertical-align: .12em;
+  white-space: nowrap;
+  transition: border-color .18s ease, color .18s ease, background .18s ease;
+}
+
+.article-content > ul a[href^="http"]:hover,
+.article-content > ol a[href^="http"]:hover {
+  border-color: var(--ink);
+  background: var(--soft);
+  color: var(--ink);
+}
+
 @media (max-width: 760px) {
   .article-content ul:not(.topic-row) { gap: .75rem; }
   .article-content ul:not(.topic-row) > li { padding-left: 1.15rem; }
   .article-content th, .article-content td { min-width: 7.5rem; padding: .6rem; }
+  .article-content > ul a[href^="http"],
+  .article-content > ol a[href^="http"] { margin-top: .35rem; margin-left: 0; white-space: normal; }
 }

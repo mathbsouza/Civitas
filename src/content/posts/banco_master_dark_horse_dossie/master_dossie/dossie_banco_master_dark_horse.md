@@ -14,76 +14,76 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 1. Antes da política: que banco era o Master?
 
-- Para entender por que Daniel Vorcaro precisava de relações políticas tão amplas, é preciso começar pelo desenho econômico do banco.
+- Para entender por que Daniel Vorcaro precisava de relações políticas tão amplas, é preciso começar pelo desenho econômico do banco. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-- Vorcaro assumiu o controle do antigo Banco Máxima em 2019 e o rebatizou como Banco Master em 2022. O crescimento posterior foi agressivo. Uma das principais ferramentas de captação eram CDBs com remuneração muito acima do padrão de bancos comparáveis. Reportagens registraram papéis chegando a **140% do CDI**, enquanto outros bancos médios ofereciam em torno de 115%.[^1]
+- Vorcaro assumiu o controle do antigo Banco Máxima em 2019 e o rebatizou como Banco Master em 2022. O crescimento posterior foi agressivo. Uma das principais ferramentas de captação eram CDBs com remuneração muito acima do padrão de bancos comparáveis. Reportagens registraram papéis chegando a **140% do CDI**, enquanto outros bancos médios ofereciam em torno de 115%.[^1] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-- Isso, por si só, não é crime. Bancos pequenos e arriscados precisam pagar mais para captar dinheiro. O problema aparece quando se combina:
+- Isso, por si só, não é crime. Bancos pequenos e arriscados precisam pagar mais para captar dinheiro. O problema aparece quando se combina: [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-1. captação muito cara;
-2. ativos de longo prazo, ilíquidos ou de avaliação difícil;
-3. crescimento rápido;
-4. e a percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**.
+    1. captação muito cara; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    2. ativos de longo prazo, ilíquidos ou de avaliação difícil; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    3. crescimento rápido; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    4. e a percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-- O FGC não é dinheiro orçamentário da União, mas um fundo privado financiado pelas instituições participantes do sistema. Ainda assim, ele altera os incentivos econômicos. Se um investidor aceita um CDB de um banco muito arriscado porque sabe que até R$ 250 mil existe cobertura, o banco consegue captar recursos em volume muito maior do que conseguiria apenas com sua reputação. No caso Master, distribuidores e assessores chegaram a usar explicitamente a combinação “rentabilidade alta + cobertura do FGC” como argumento comercial.[^2]
+- O FGC não é dinheiro orçamentário da União, mas um fundo privado financiado pelas instituições participantes do sistema. Ainda assim, ele altera os incentivos econômicos. Se um investidor aceita um CDB de um banco muito arriscado porque sabe que até R$ 250 mil existe cobertura, o banco consegue captar recursos em volume muito maior do que conseguiria apenas com sua reputação. No caso Master, distribuidores e assessores chegaram a usar explicitamente a combinação “rentabilidade alta + cobertura do FGC” como argumento comercial.[^2] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/apos-master-bc-quer-deixar-mais-clara-remuneracao-de-corretoras-na-venda-de-cdbs.shtml)
 
-- A consequência é um problema clássico de **risco moral**: quem decide emprestar dinheiro ao banco pode ter menos incentivo para avaliar a qualidade dos ativos porque acredita estar protegido pelo fundo. Para o emissor, isso cria espaço para captar a taxas elevadas e tentar compensar o custo investindo em operações igualmente mais arriscadas.
+- A consequência é um problema clássico de **risco moral**: quem decide emprestar dinheiro ao banco pode ter menos incentivo para avaliar a qualidade dos ativos porque acredita estar protegido pelo fundo. Para o emissor, isso cria espaço para captar a taxas elevadas e tentar compensar o custo investindo em operações igualmente mais arriscadas. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-- Quando o Banco Central decretou a liquidação do conglomerado em 18 de novembro de 2025, afirmou oficialmente que a medida foi motivada por **grave crise de liquidez**, comprometimento significativo da situação econômico-financeira e graves violações às normas do Sistema Financeiro Nacional.[^3] Estimativas posteriores apontaram que as liquidações do conglomerado poderiam gerar cerca de **R$ 51,8 bilhões** em ressarcimentos pelo FGC — o maior desembolso da história do fundo.[^4]
+- Quando o Banco Central decretou a liquidação do conglomerado em 18 de novembro de 2025, afirmou oficialmente que a medida foi motivada por **grave crise de liquidez**, comprometimento significativo da situação econômico-financeira e graves violações às normas do Sistema Financeiro Nacional.[^3] [Banco Central do Brasil ↗](https://www.bcb.gov.br/detalhenoticia/20936/nota) Estimativas posteriores apontaram que as liquidações do conglomerado poderiam gerar cerca de **R$ 51,8 bilhões** em ressarcimentos pelo FGC — o maior desembolso da história do fundo.[^4] [DIEESE ↗](https://www.dieese.org.br/notatecnica/2026/notaTec291BancoMaster/index.html)
 
-- Esse ponto é decisivo: o Master não era apenas um banco com bons contatos. Era uma instituição cujo modelo econômico dependia de confiança contínua, captação permanente e capacidade de convencer investidores e autoridades de que seus ativos valiam o que os balanços afirmavam que valiam.
+- Esse ponto é decisivo: o Master não era apenas um banco com bons contatos. Era uma instituição cujo modelo econômico dependia de confiança contínua, captação permanente e capacidade de convencer investidores e autoridades de que seus ativos valiam o que os balanços afirmavam que valiam. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
 ---
 
 ## 2. O BRB: a tentativa de transformar um problema privado em solução institucional
 
-- Em março de 2025, o Banco de Brasília — BRB, controlado pelo governo do Distrito Federal — anunciou um acordo para adquirir **58% do capital total do Banco Master**, por uma operação estimada em cerca de R$ 2 bilhões.[^5]
+- Em março de 2025, o Banco de Brasília — BRB, controlado pelo governo do Distrito Federal — anunciou um acordo para adquirir **58% do capital total do Banco Master**, por uma operação estimada em cerca de R$ 2 bilhões.[^5] [Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
 
-- A transação era potencialmente salvadora para o Master. Um banco público capitalizado absorveria parte importante da estrutura e daria ao grupo de Vorcaro um novo eixo de estabilidade. O problema é que o Banco Central já examinava operações envolvendo carteiras de crédito negociadas entre Master e BRB.
+- A transação era potencialmente salvadora para o Master. Um banco público capitalizado absorveria parte importante da estrutura e daria ao grupo de Vorcaro um novo eixo de estabilidade. O problema é que o Banco Central já examinava operações envolvendo carteiras de crédito negociadas entre Master e BRB. [Contexto: Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
 
-- A investigação que depois originou a Operação Compliance Zero passou a trabalhar com a suspeita de que o Master teria produzido ou adquirido **carteiras de crédito consignado sem lastro**, compostas por tomadores inexistentes, e repassado esses ativos ao BRB. Em novembro de 2025, a estimativa divulgada era de **R$ 12,2 bilhões** em carteiras de crédito inexistentes vendidas ao banco público.[^6]
+- A investigação que depois originou a Operação Compliance Zero passou a trabalhar com a suspeita de que o Master teria produzido ou adquirido **carteiras de crédito consignado sem lastro**, compostas por tomadores inexistentes, e repassado esses ativos ao BRB. Em novembro de 2025, a estimativa divulgada era de **R$ 12,2 bilhões** em carteiras de crédito inexistentes vendidas ao banco público.[^6] [UOL ↗](https://www.bol.uol.com.br/noticias/2025/11/18/documentos-falsos-e-fraude-de-r-122-bi-o-que-bc-mpf-e-pf-acharam-sobre-master-e-brb.htm)
 
-- Segundo investigadores, a eventual incorporação do Master pelo BRB teria um efeito adicional: os ativos problemáticos poderiam se misturar ao balanço maior do banco público, dificultando a identificação do buraco como uma carteira específica.[^7]
+- Segundo investigadores, a eventual incorporação do Master pelo BRB teria um efeito adicional: os ativos problemáticos poderiam se misturar ao balanço maior do banco público, dificultando a identificação do buraco como uma carteira específica.[^7] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/investigacao-aponta-que-master-usou-negocio-com-brb-para-esconder-carteira-falsa-de-consignado.shtml)
 
-- O Banco Central rejeitou a compra em **3 de setembro de 2025**.[^8] Pouco mais de dois meses depois, Vorcaro foi preso e o Master foi liquidado.
+- O Banco Central rejeitou a compra em **3 de setembro de 2025**.[^8] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb) Pouco mais de dois meses depois, Vorcaro foi preso e o Master foi liquidado.
 
-- A sequência temporal importa porque mostra que 2024 e 2025 foram anos em que Vorcaro tinha enorme incentivo para mobilizar acesso político, reputacional e institucional. Não é necessário pressupor uma grande conspiração coordenada. Para um banqueiro enfrentando risco regulatório, o simples fato de conhecer ministros, senadores, governadores, dirigentes partidários, ex-presidentes, membros do Judiciário e pessoas próximas ao Banco Central já tem valor econômico.
+- A sequência temporal importa porque mostra que 2024 e 2025 foram anos em que Vorcaro tinha enorme incentivo para mobilizar acesso político, reputacional e institucional. Não é necessário pressupor uma grande conspiração coordenada. Para um banqueiro enfrentando risco regulatório, o simples fato de conhecer ministros, senadores, governadores, dirigentes partidários, ex-presidentes, membros do Judiciário e pessoas próximas ao Banco Central já tem valor econômico. [Contexto: Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
 
-- É nesse cenário que a política deixa de ser uma história lateral e passa a fazer parte do caso.
+- É nesse cenário que a política deixa de ser uma história lateral e passa a fazer parte do caso. [Contexto: Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
 
 ---
 
 ## 3. O que a Compliance Zero passou a investigar
 
-- A Operação Compliance Zero começou em novembro de 2025 com foco em fraudes contra o sistema financeiro, especialmente emissão e negociação de títulos de crédito falsos. Em fases posteriores, o escopo cresceu para corrupção, lavagem, organização criminosa, obtenção de informações sigilosas, invasões de dispositivos e intimidação de pessoas consideradas obstáculos aos interesses do grupo.[^9]
+- A Operação Compliance Zero começou em novembro de 2025 com foco em fraudes contra o sistema financeiro, especialmente emissão e negociação de títulos de crédito falsos. Em fases posteriores, o escopo cresceu para corrupção, lavagem, organização criminosa, obtenção de informações sigilosas, invasões de dispositivos e intimidação de pessoas consideradas obstáculos aos interesses do grupo.[^9] [Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
-- Isso ajuda a separar duas perguntas que frequentemente são misturadas:
+- Isso ajuda a separar duas perguntas que frequentemente são misturadas: [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
-- **O banco fraudou ou mascarou ativos?** Esse é o núcleo financeiro da investigação.
-- **O banco pagava, presenteava ou contratava pessoas influentes para obter proteção ou decisões favoráveis?** Esse é o núcleo político-institucional.
+    - **O banco fraudou ou mascarou ativos?** Esse é o núcleo financeiro da investigação. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
+    - **O banco pagava, presenteava ou contratava pessoas influentes para obter proteção ou decisões favoráveis?** Esse é o núcleo político-institucional. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
-- A existência de contratos ou relações com políticos não demonstra automaticamente corrupção. Empresas contratam ex-ministros, advogados e consultores. Políticos participam de eventos e empresários financiam projetos privados. O salto jurídico ocorre quando aparece **vantagem indevida vinculada a um ato funcional**, promessa de influência, intermediação ilícita ou ocultação da verdadeira finalidade de um pagamento.
+- A existência de contratos ou relações com políticos não demonstra automaticamente corrupção. Empresas contratam ex-ministros, advogados e consultores. Políticos participam de eventos e empresários financiam projetos privados. O salto jurídico ocorre quando aparece **vantagem indevida vinculada a um ato funcional**, promessa de influência, intermediação ilícita ou ocultação da verdadeira finalidade de um pagamento. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
-- No caso Master, alguns núcleos têm apenas proximidade ou contratos declarados; outros já apresentam mensagens em que os investigadores dizem enxergar uma contrapartida concreta.
+- No caso Master, alguns núcleos têm apenas proximidade ou contratos declarados; outros já apresentam mensagens em que os investigadores dizem enxergar uma contrapartida concreta. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
 ---
 
 ## 4. A melhor maneira de entender Vorcaro: não como “banqueiro de um partido”, mas como investidor em acesso
 
-- Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10]
+- Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Esse dado muda a leitura do caso. O padrão não é ideológico. É de **diversificação de acesso**.
+- Esse dado muda a leitura do caso. O padrão não é ideológico. É de **diversificação de acesso**. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Um banqueiro pode querer portas abertas em quatro lugares diferentes ao mesmo tempo:
+- Um banqueiro pode querer portas abertas em quatro lugares diferentes ao mesmo tempo: [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- governo federal;
-- Congresso;
-- governos locais e bancos públicos;
-- Judiciário e sistema de Justiça.
+    - governo federal; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+    - Congresso; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+    - governos locais e bancos públicos; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+    - Judiciário e sistema de Justiça. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Se uma relação falha, outra pode funcionar. Se muda o governo, a rede continua útil. Isso explica por que tentar reduzir o Master a “caso do PT” ou “caso do bolsonarismo” é analiticamente pobre. Há relações relevantes com ambos — e com o Centrão, o MDB, o União Brasil, o PSDB e integrantes do Judiciário.
+- Se uma relação falha, outra pode funcionar. Se muda o governo, a rede continua útil. Isso explica por que tentar reduzir o Master a “caso do PT” ou “caso do bolsonarismo” é analiticamente pobre. Há relações relevantes com ambos — e com o Centrão, o MDB, o União Brasil, o PSDB e integrantes do Judiciário. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- A questão correta é: **qual foi a natureza de cada relação e existe evidência de contrapartida?**
+- A questão correta é: **qual foi a natureza de cada relação e existe evidência de contrapartida?** [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
 ---
 
@@ -91,94 +91,94 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 5. Lula recebeu Vorcaro no Planalto fora da agenda
 
-- Em **4 de dezembro de 2024**, Lula recebeu Daniel Vorcaro no Palácio do Planalto em uma reunião que não constava da agenda oficial. Vorcaro foi levado pelo ex-ministro **Guido Mantega**; também participou Gabriel Galípolo, então indicado para assumir a presidência do Banco Central.[^11]
+- Em **4 de dezembro de 2024**, Lula recebeu Daniel Vorcaro no Palácio do Planalto em uma reunião que não constava da agenda oficial. Vorcaro foi levado pelo ex-ministro **Guido Mantega**; também participou Gabriel Galípolo, então indicado para assumir a presidência do Banco Central.[^11] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
-- A reunião é politicamente relevante por três motivos.
+- A reunião é politicamente relevante por três motivos. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
-- Primeiro, porque demonstra acesso ao nível máximo do Executivo. Segundo, porque o encontro ocorreu quando o Master já buscava soluções para sua situação financeira. Terceiro, porque a presença de Galípolo colocava na sala o futuro chefe da autoridade monetária responsável por supervisionar o banco.
+- Primeiro, porque demonstra acesso ao nível máximo do Executivo. Segundo, porque o encontro ocorreu quando o Master já buscava soluções para sua situação financeira. Terceiro, porque a presença de Galípolo colocava na sala o futuro chefe da autoridade monetária responsável por supervisionar o banco. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
-- Mas o que a reunião **prova**?
+- Mas o que a reunião **prova**? [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
-- Prova que Vorcaro teve acesso a Lula e Galípolo. Não prova, sozinha, que Lula interveio em favor do banco. A versão divulgada pelo governo foi justamente a contrária: Lula teria ouvido Vorcaro e afirmado que as questões eram técnicas e deveriam ser tratadas pelo Banco Central.[^12]
+- Prova que Vorcaro teve acesso a Lula e Galípolo. Não prova, sozinha, que Lula interveio em favor do banco. A versão divulgada pelo governo foi justamente a contrária: Lula teria ouvido Vorcaro e afirmado que as questões eram técnicas e deveriam ser tratadas pelo Banco Central.[^12] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/lula-esteve-com-vorcaro-em-encontro-fora-da-agenda-em-dezembro-de-2024/)
 
-- Mensagens posteriores atribuídas a Vorcaro mostram que ele considerou o encontro “ótimo” e relatou à namorada que Lula chamou Galípolo e ministros para a conversa.[^13] Isso mostra a percepção de Vorcaro de que a reunião foi positiva; não demonstra que tenha obtido uma decisão ilegal.
+- Mensagens posteriores atribuídas a Vorcaro mostram que ele considerou o encontro “ótimo” e relatou à namorada que Lula chamou Galípolo e ministros para a conversa.[^13] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/amp/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml) Isso mostra a percepção de Vorcaro de que a reunião foi positiva; não demonstra que tenha obtido uma decisão ilegal.
 
-- Portanto, essa ponta deve ser classificada como **acesso político relevante, mas sem contrapartida ilícita demonstrada até o corte deste texto**.
+- Portanto, essa ponta deve ser classificada como **acesso político relevante, mas sem contrapartida ilícita demonstrada até o corte deste texto**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
 ---
 
 ## 6. Guido Mantega: R$ 14 milhões em consultoria e a ponte com Lula
 
-- A relação com Mantega é mais concreta financeiramente. Dados fiscais divulgados pela imprensa indicam que o Master pagou **R$ 14 milhões** à Pollaris Consultoria, empresa do ex-ministro da Fazenda, entre 2024 e 2025.[^10]
+- A relação com Mantega é mais concreta financeiramente. Dados fiscais divulgados pela imprensa indicam que o Master pagou **R$ 14 milhões** à Pollaris Consultoria, empresa do ex-ministro da Fazenda, entre 2024 e 2025.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Mantega afirma que prestou consultoria econômico-financeira e que não tinha conhecimento de irregularidades no banco. A contratação privada, isoladamente, é lícita.
+- Mantega afirma que prestou consultoria econômico-financeira e que não tinha conhecimento de irregularidades no banco. A contratação privada, isoladamente, é lícita. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- O que torna o episódio politicamente relevante é a combinação de duas funções exercidas por Mantega:
+- O que torna o episódio politicamente relevante é a combinação de duas funções exercidas por Mantega: [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-1. ele era consultor remunerado do Master;
-2. foi ele quem levou Vorcaro ao encontro com Lula.
+    1. ele era consultor remunerado do Master; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+    2. foi ele quem levou Vorcaro ao encontro com Lula. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Essa combinação não prova tráfico de influência. Para isso seria necessário demonstrar que o pagamento tinha como finalidade remunerar a influência de Mantega sobre agentes públicos ou obter ato funcional específico. Mas ela produz uma pergunta legítima: **a consultoria era apenas econômica ou o valor do ex-ministro também estava em sua capacidade de abrir portas?**
+- Essa combinação não prova tráfico de influência. Para isso seria necessário demonstrar que o pagamento tinha como finalidade remunerar a influência de Mantega sobre agentes públicos ou obter ato funcional específico. Mas ela produz uma pergunta legítima: **a consultoria era apenas econômica ou o valor do ex-ministro também estava em sua capacidade de abrir portas?** [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Até agora, o que existe publicamente sustenta a pergunta, não uma conclusão penal.
+- Até agora, o que existe publicamente sustenta a pergunta, não uma conclusão penal. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
 ---
 
 ## 7. Ricardo Lewandowski: contrato com o escritório e conflito institucional
 
-- O Banco Master manteve contrato com o escritório da família de **Ricardo Lewandowski** de 2023 a agosto de 2025. Reportagens indicam remuneração de **R$ 250 mil mensais** e pelo menos R$ 6,1 milhões pagos ao escritório.[^14]
+- O Banco Master manteve contrato com o escritório da família de **Ricardo Lewandowski** de 2023 a agosto de 2025. Reportagens indicam remuneração de **R$ 250 mil mensais** e pelo menos R$ 6,1 milhões pagos ao escritório.[^14] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml)
 
-- Lewandowski deixou formalmente a banca ao assumir o Ministério da Justiça em fevereiro de 2024, suspendendo sua inscrição profissional. O escritório permaneceu sob comando de sua mulher e de seu filho e continuou atendendo o Master. Isso é relevante porque a **Polícia Federal é subordinada administrativamente ao Ministério da Justiça**, embora possua autonomia investigativa e não receba ordens ministeriais sobre inquéritos específicos.
+- Lewandowski deixou formalmente a banca ao assumir o Ministério da Justiça em fevereiro de 2024, suspendendo sua inscrição profissional. O escritório permaneceu sob comando de sua mulher e de seu filho e continuou atendendo o Master. Isso é relevante porque a **Polícia Federal é subordinada administrativamente ao Ministério da Justiça**, embora possua autonomia investigativa e não receba ordens ministeriais sobre inquéritos específicos. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml)
 
-- Há aqui um potencial conflito de aparência: a família do ministro recebia dinheiro de um banco que posteriormente se tornaria alvo de investigação da PF. Mas aparência de conflito não equivale a prova de interferência.
+- Há aqui um potencial conflito de aparência: a família do ministro recebia dinheiro de um banco que posteriormente se tornaria alvo de investigação da PF. Mas aparência de conflito não equivale a prova de interferência. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml)
 
-- Uma representação ao Tribunal de Contas da União pediu apuração do contrato. A área técnica do TCU recomendou o arquivamento por entender que não havia indícios suficientes de irregularidade dentro da competência do tribunal.[^15]
+- Uma representação ao Tribunal de Contas da União pediu apuração do contrato. A área técnica do TCU recomendou o arquivamento por entender que não havia indícios suficientes de irregularidade dentro da competência do tribunal.[^15] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/tcu-rejeita-investigacao-sobre-contrato-do-master-com-escritorio-de-lewandowski.shtml)
 
-- Outro detalhe relevante: segundo a Folha, **Jaques Wagner** foi quem indicou Lewandowski ao banco quando Vorcaro procurava um jurista.[^14] Assim, a conexão entre Master e Lewandowski também passa por um dos principais líderes do PT no Senado.
+- Outro detalhe relevante: segundo a Folha, **Jaques Wagner** foi quem indicou Lewandowski ao banco quando Vorcaro procurava um jurista.[^14] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml) Assim, a conexão entre Master e Lewandowski também passa por um dos principais líderes do PT no Senado.
 
 ---
 
 ## 8. Jaques Wagner: o núcleo petista que ultrapassa simples proximidade
 
-- A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^16]
+- A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^16] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
-- Segundo a investigação, estruturas ligadas ao Master teriam proporcionado ao senador:
+- Segundo a investigação, estruturas ligadas ao Master teriam proporcionado ao senador: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
-- apartamento em Salvador avaliado em aproximadamente R$ 2,5 milhões;
-- voos em aeronaves ligadas a Augusto Lima, ex-sócio de Vorcaro;
-- estadias e viagens;
-- ingressos de alto valor para show internacional;
-- e cerca de R$ 3,5 milhões destinados a empresa ligada à família.[^16]
+    - apartamento em Salvador avaliado em aproximadamente R$ 2,5 milhões; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
+    - voos em aeronaves ligadas a Augusto Lima, ex-sócio de Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
+    - estadias e viagens; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
+    - ingressos de alto valor para show internacional; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
+    - e cerca de R$ 3,5 milhões destinados a empresa ligada à família.[^16] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
-- Relatórios posteriores detalharam, por exemplo, viagem à chamada Ilha da Paixão e ingressos para Taylor Swift.[^17]
+- Relatórios posteriores detalharam, por exemplo, viagem à chamada Ilha da Paixão e ingressos para Taylor Swift.[^17] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/de-voo-a-ilha-a-ingresso-para-show-pf-detalha-benesses-do-master-a-jaques/)
 
-- Wagner nega irregularidades e já afirmou que sua relação com Vorcaro seria “praticamente zero”. Seu depoimento à PF foi adiado em agosto a pedido da defesa, que afirmou ainda não ter tido acesso integral ao material da investigação.[^18]
+- Wagner nega irregularidades e já afirmou que sua relação com Vorcaro seria “praticamente zero”. Seu depoimento à PF foi adiado em agosto a pedido da defesa, que afirmou ainda não ter tido acesso integral ao material da investigação.[^18] [UOL/Agência Estado ↗](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/07/depoimento-de-jaques-wagner-a-pf-no-caso-master-e-adiado-a-pedido-da-defesa.amp.htm)
 
-- Aqui a distinção jurídica é fundamental. Se os benefícios existiram, ainda é preciso responder: **qual era a contrapartida?** A corrupção não se completa apenas com um empresário pagando algo a um político; é preciso vincular a vantagem ao exercício da função pública, ainda que o ato pretendido não chegue a ser praticado.
+- Aqui a distinção jurídica é fundamental. Se os benefícios existiram, ainda é preciso responder: **qual era a contrapartida?** A corrupção não se completa apenas com um empresário pagando algo a um político; é preciso vincular a vantagem ao exercício da função pública, ainda que o ato pretendido não chegue a ser praticado. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
-- A investigação, portanto, está em um estágio mais grave do que o caso Lula/Vorcaro ou a consultoria de Mantega, mas ainda não equivale a condenação.
+- A investigação, portanto, está em um estágio mais grave do que o caso Lula/Vorcaro ou a consultoria de Mantega, mas ainda não equivale a condenação. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
 ---
 
 ## 9. A empresa da nora de Wagner
 
-- Documentos fiscais também registraram cerca de **R$ 12 milhões** pagos entre 2022 e 2025 à BN Financeira, empresa de Bonnie Bonilha, nora de Jaques Wagner.[^10]
+- Documentos fiscais também registraram cerca de **R$ 12 milhões** pagos entre 2022 e 2025 à BN Financeira, empresa de Bonnie Bonilha, nora de Jaques Wagner.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- A empresa afirma que prestou serviços de prospecção e indicação de operações e convênios de crédito público e privado, com emissão de nota fiscal, e nega qualquer irregularidade. Wagner também apareceu nos dados com R$ 289 mil como pessoa física, valor que disse corresponder a rendimento de aplicação financeira, e não pagamento do banco.[^10]
+- A empresa afirma que prestou serviços de prospecção e indicação de operações e convênios de crédito público e privado, com emissão de nota fiscal, e nega qualquer irregularidade. Wagner também apareceu nos dados com R$ 289 mil como pessoa física, valor que disse corresponder a rendimento de aplicação financeira, e não pagamento do banco.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Esse dado deve ser tratado como **relação comercial documentada**, não como prova de corrupção. Ele ganha importância apenas quando colocado ao lado das demais suspeitas envolvendo o senador e sua família.
+- Esse dado deve ser tratado como **relação comercial documentada**, não como prova de corrupção. Ele ganha importância apenas quando colocado ao lado das demais suspeitas envolvendo o senador e sua família. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
 ---
 
 ## 10. Então o Master era “do PT”?
 
-- Não.
+- Não. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Existe uma **relação documentada com figuras centrais do campo petista e do governo Lula**: encontro com Lula; contrato milionário com Mantega; contrato com escritório da família Lewandowski durante parte do período em que ele era ministro; indicação de Lewandowski por Wagner; investigação sobre vantagens a Wagner; pagamentos a empresa de sua nora.
+- Existe uma **relação documentada com figuras centrais do campo petista e do governo Lula**: encontro com Lula; contrato milionário com Mantega; contrato com escritório da família Lewandowski durante parte do período em que ele era ministro; indicação de Lewandowski por Wagner; investigação sobre vantagens a Wagner; pagamentos a empresa de sua nora. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Isso é suficiente para rejeitar a narrativa de que o caso “não chega ao PT”. Chega.
+- Isso é suficiente para rejeitar a narrativa de que o caso “não chega ao PT”. Chega. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-- Mas é insuficiente para afirmar que **“o PT comandava o esquema do Master”** ou que Lula participou de fraude bancária. Essa afirmação exigiria evidências de coordenação, benefício partidário ou decisões públicas tomadas em troca de vantagens. O material público disponível até 3 de setembro de 2026 não autoriza esse salto.
+- Mas é insuficiente para afirmar que **“o PT comandava o esquema do Master”** ou que Lula participou de fraude bancária. Essa afirmação exigiria evidências de coordenação, benefício partidário ou decisões públicas tomadas em troca de vantagens. O material público disponível até 3 de setembro de 2026 não autoriza esse salto. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
 ---
 
@@ -186,131 +186,131 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 11. A relação começa antes do filme: doações e aviões
 
-- O ecossistema Vorcaro já alcançava o bolsonarismo em 2022.
+- O ecossistema Vorcaro já alcançava o bolsonarismo em 2022. [Contexto: CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
 
-- **Fabiano Zettel**, cunhado de Daniel Vorcaro e apontado em investigações como operador financeiro do grupo, doou **R$ 3 milhões** para a campanha presidencial de Jair Bolsonaro e **R$ 2 milhões** para Tarcísio de Freitas em 2022.[^19]
+- **Fabiano Zettel**, cunhado de Daniel Vorcaro e apontado em investigações como operador financeiro do grupo, doou **R$ 3 milhões** para a campanha presidencial de Jair Bolsonaro e **R$ 2 milhões** para Tarcísio de Freitas em 2022.[^19] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
 
-- Doação eleitoral declarada é legal. O dado demonstra proximidade financeira com o campo político, não compra de decisão.
+- Doação eleitoral declarada é legal. O dado demonstra proximidade financeira com o campo político, não compra de decisão. [Contexto: CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
 
-- No mesmo ciclo eleitoral, **Nikolas Ferreira** utilizou durante cerca de dez dias um jato ligado a Vorcaro em uma caravana de apoio à reeleição de Bolsonaro, passando por capitais do Nordeste, Brasília e Minas Gerais.[^20]
+- No mesmo ciclo eleitoral, **Nikolas Ferreira** utilizou durante cerca de dez dias um jato ligado a Vorcaro em uma caravana de apoio à reeleição de Bolsonaro, passando por capitais do Nordeste, Brasília e Minas Gerais.[^20] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/nikolas-ferreira-viajou-em-jato-de-vorcaro-na-campanha-de-2022)
 
-- Em 2026, mensagens divulgadas pelo ICL e repercutidas por UOL e Folha trouxeram uma frase atribuída a Vorcaro sobre o deputado: **“Esse Nikolas, eu banquei todos os voos dele”**.[^21] Nikolas admite ter usado a aeronave, mas afirma que não sabia que ela era ligada ao banqueiro e nega ter recebido dinheiro.
+- Em 2026, mensagens divulgadas pelo ICL e repercutidas por UOL e Folha trouxeram uma frase atribuída a Vorcaro sobre o deputado: **“Esse Nikolas, eu banquei todos os voos dele”**.[^21] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/vorcaro-nikolas-ferreira-mensagens-voos.ghtm) Nikolas admite ter usado a aeronave, mas afirma que não sabia que ela era ligada ao banqueiro e nega ter recebido dinheiro.
 
-- O caso ganhou nova dimensão porque, em março de 2025, Nikolas enviou áudio a Vorcaro pedindo ajuda para um amigo e ex-assessor em um negócio envolvendo um **ativo minerário**.[^22] Não há confirmação pública de que o pedido tenha sido atendido nem demonstração de ato público praticado por Nikolas em contrapartida.
+- O caso ganhou nova dimensão porque, em março de 2025, Nikolas enviou áudio a Vorcaro pedindo ajuda para um amigo e ex-assessor em um negócio envolvendo um **ativo minerário**.[^22] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-ajuda-a-vorcaro-para-liberar-minerio-e-banqueiro-afirmou-bancar-voos-dele-diz-site.shtml) Não há confirmação pública de que o pedido tenha sido atendido nem demonstração de ato público praticado por Nikolas em contrapartida.
 
-- A relevância é outra: o deputado que aparecia publicamente criticando eventos patrocinados pelo Master tinha, segundo as mensagens, uma relação privada suficientemente próxima para pedir ajuda ao banqueiro.
+- A relevância é outra: o deputado que aparecia publicamente criticando eventos patrocinados pelo Master tinha, segundo as mensagens, uma relação privada suficientemente próxima para pedir ajuda ao banqueiro. [Contexto: CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
 
 ---
 
 ## 12. Dark Horse: a conexão financeira mais direta com a família Bolsonaro
 
-- O núcleo *Dark Horse* é diferente de quase todas as outras relações políticas porque há documentação de **negociação direta de financiamento**, cronograma de desembolsos, comprovante de remessa e cobranças feitas por Flávio Bolsonaro.
+- O núcleo *Dark Horse* é diferente de quase todas as outras relações políticas porque há documentação de **negociação direta de financiamento**, cronograma de desembolsos, comprovante de remessa e cobranças feitas por Flávio Bolsonaro. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
-- O filme é uma cinebiografia internacional de Jair Bolsonaro. Documentos obtidos pelo Intercept indicam orçamento na faixa de **US$ 23 milhões a US$ 26 milhões**.[^23]
+- O filme é uma cinebiografia internacional de Jair Bolsonaro. Documentos obtidos pelo Intercept indicam orçamento na faixa de **US$ 23 milhões a US$ 26 milhões**.[^23] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
-- A relação com Vorcaro começou, segundo as mensagens, no fim de 2024.
+- A relação com Vorcaro começou, segundo as mensagens, no fim de 2024. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
-- Em **8 de dezembro de 2024**, o empresário Thiago Miranda organizou um encontro entre Flávio Bolsonaro e Vorcaro para tratar do “filme do presidente”. Em 11 de dezembro, Mario Frias enviou a Vorcaro mensagem agradecendo pelo apoio ao projeto.[^24]
+- Em **8 de dezembro de 2024**, o empresário Thiago Miranda organizou um encontro entre Flávio Bolsonaro e Vorcaro para tratar do “filme do presidente”. Em 11 de dezembro, Mario Frias enviou a Vorcaro mensagem agradecendo pelo apoio ao projeto.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- No início de 2025, as tratativas se transformaram em cobrança operacional. Em janeiro, mensagens mostram pressão para destravar contratos e iniciar aportes. Vorcaro passou a acompanhar o cronograma pessoalmente e classificou o pagamento do filme como **“o mais importante disparado”**.[^25]
+- No início de 2025, as tratativas se transformaram em cobrança operacional. Em janeiro, mensagens mostram pressão para destravar contratos e iniciar aportes. Vorcaro passou a acompanhar o cronograma pessoalmente e classificou o pagamento do filme como **“o mais importante disparado”**.[^25] [Intercept Brasil ↗](https://www.intercept.com.br/2026/06/02/mais-importante-disparado-vorcaro-bolsonaro/)
 
-- O valor negociado por Flávio com Vorcaro foi de aproximadamente **US$ 24 milhões**, então cerca de **R$ 134 milhões**.[^24]
+- O valor negociado por Flávio com Vorcaro foi de aproximadamente **US$ 24 milhões**, então cerca de **R$ 134 milhões**.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Esse é o primeiro ponto que precisa ficar cristalino: não se trata de um banqueiro que espontaneamente comprou ingressos ou patrocinou um evento. Há evidência de uma **captação conduzida por Flávio Bolsonaro** para financiar um projeto diretamente ligado à imagem política de seu pai.
+- Esse é o primeiro ponto que precisa ficar cristalino: não se trata de um banqueiro que espontaneamente comprou ingressos ou patrocinou um evento. Há evidência de uma **captação conduzida por Flávio Bolsonaro** para financiar um projeto diretamente ligado à imagem política de seu pai. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
 ---
 
 ## 13. Para onde o dinheiro foi?
 
-- As primeiras revelações documentaram pelo menos **US$ 10,6 milhões** — aproximadamente R$ 61 milhões à época — transferidos entre fevereiro e maio de 2025 em seis operações.[^24]
+- As primeiras revelações documentaram pelo menos **US$ 10,6 milhões** — aproximadamente R$ 61 milhões à época — transferidos entre fevereiro e maio de 2025 em seis operações.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- O dinheiro chegou ao **Havengate Development Fund LP**, fundo registrado no Texas e administrado por pessoas ligadas a Eduardo Bolsonaro, entre elas o advogado Paulo Calixto.[^26]
+- O dinheiro chegou ao **Havengate Development Fund LP**, fundo registrado no Texas e administrado por pessoas ligadas a Eduardo Bolsonaro, entre elas o advogado Paulo Calixto.[^26] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/05/fundo-nos-eua-do-caso-dark-horse-e-controlado-por-aliados-de-eduardo-bolsonaro.shtml)
 
-- Parte das remessas passou pela **Entre Investimentos e Participações**. Em setembro de 2026, a PGR firmou acordo de colaboração premiada com Antônio Carlos Freixo Júnior, o “Mineiro”, dono de empresa apontada pela PF como braço operacional de Vorcaro e envolvida em transferências ao Havengate.[^27]
+- Parte das remessas passou pela **Entre Investimentos e Participações**. Em setembro de 2026, a PGR firmou acordo de colaboração premiada com Antônio Carlos Freixo Júnior, o “Mineiro”, dono de empresa apontada pela PF como braço operacional de Vorcaro e envolvida em transferências ao Havengate.[^27] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/09/pgr-fecha-delacao-com-empresario-que-fez-pagamentos-a-fundo-que-financiaria-dark-horse.shtml)
 
-- A estrutura é importante porque coloca três camadas entre o banqueiro e a produção:
+- A estrutura é importante porque coloca três camadas entre o banqueiro e a produção: [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- **Vorcaro / empresas associadas → Entre → Havengate → produção do filme.**
+    - **Vorcaro / empresas associadas → Entre → Havengate → produção do filme.** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Isso não significa, por si só, lavagem de dinheiro. Fundos e veículos de investimento são comuns em produções cinematográficas internacionais. A suspeita nasce da origem do dinheiro, da situação financeira do banco, do controle do fundo por aliados dos Bolsonaro e da possível utilização para despesas diferentes do filme.
+- Isso não significa, por si só, lavagem de dinheiro. Fundos e veículos de investimento são comuns em produções cinematográficas internacionais. A suspeita nasce da origem do dinheiro, da situação financeira do banco, do controle do fundo por aliados dos Bolsonaro e da possível utilização para despesas diferentes do filme. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
 ---
 
 ## 14. Eduardo Bolsonaro não era apenas “a pessoa retratada”
 
-- Depois das primeiras reportagens, Eduardo Bolsonaro minimizou sua participação financeira no projeto. Documentos revelados posteriormente, porém, mostraram que ele assinou contrato como **produtor-executivo** e tinha responsabilidades sobre orçamento e decisões financeiras.[^23]
+- Depois das primeiras reportagens, Eduardo Bolsonaro minimizou sua participação financeira no projeto. Documentos revelados posteriormente, porém, mostraram que ele assinou contrato como **produtor-executivo** e tinha responsabilidades sobre orçamento e decisões financeiras.[^23] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
-- O contrato foi assinado por Eduardo em janeiro de 2024. Reportagens também identificaram mensagens em que ele sugeria maneiras de facilitar o envio de recursos e indicava pessoas disponíveis para reuniões sobre a operação.[^28]
+- O contrato foi assinado por Eduardo em janeiro de 2024. Reportagens também identificaram mensagens em que ele sugeria maneiras de facilitar o envio de recursos e indicava pessoas disponíveis para reuniões sobre a operação.[^28] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/05/eduardo-bolsonaro-pediu-envio-do-maximo-possivel-de-recursos-para-dark-horse-diz-site.shtml)
 
-- A PF passou então a investigar se parte do dinheiro enviado por Vorcaro ao Havengate poderia ter custeado **despesas pessoais de Eduardo nos Estados Unidos** ou outras ações de aliados de Bolsonaro junto ao governo americano.[^29]
+- A PF passou então a investigar se parte do dinheiro enviado por Vorcaro ao Havengate poderia ter custeado **despesas pessoais de Eduardo nos Estados Unidos** ou outras ações de aliados de Bolsonaro junto ao governo americano.[^29] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/06/diretor-da-pf-defende-abertura-de-novo-inquerito-para-apurar-uso-de-recursos-no-caso-dark-horse.shtml)
 
-- É crucial usar o tempo verbal correto: **a PF investiga**. Não há, até o corte deste texto, prova pública conclusiva de que dinheiro do Master tenha pago a residência ou despesas pessoais de Eduardo.
+- É crucial usar o tempo verbal correto: **a PF investiga**. Não há, até o corte deste texto, prova pública conclusiva de que dinheiro do Master tenha pago a residência ou despesas pessoais de Eduardo. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
 ---
 
 ## 15. O valor conhecido aumentou: US$ 12,3 milhões
 
-- Durante meses, o valor confirmado publicamente ficou em US$ 10,6 milhões. Isso mudou no início de setembro de 2026.
+- Durante meses, o valor confirmado publicamente ficou em US$ 10,6 milhões. Isso mudou no início de setembro de 2026. [Contexto: revista piauí ↗](https://piaui.uol.com.br/revista/240/caixa-preta-flavio-bolsonaro-vorcaro-dark-horse/)
 
-- A revista *piauí* revelou, com base em relatório do Coaf, que Vorcaro enviou **mais US$ 1.666.667 em 16 de setembro de 2025**, oito dias depois de uma cobrança de Flávio. Com essa parcela, o total documentado subiu para cerca de **US$ 12,3 milhões**, mais de R$ 65 milhões na cotação da época.[^30]
+- A revista *piauí* revelou, com base em relatório do Coaf, que Vorcaro enviou **mais US$ 1.666.667 em 16 de setembro de 2025**, oito dias depois de uma cobrança de Flávio. Com essa parcela, o total documentado subiu para cerca de **US$ 12,3 milhões**, mais de R$ 65 milhões na cotação da época.[^30] [revista piauí ↗](https://piaui.uol.com.br/revista/240/caixa-preta-flavio-bolsonaro-vorcaro-dark-horse/)
 
-- O achado é especialmente relevante porque contradiz a versão de que os repasses conhecidos haviam terminado em maio de 2025. A *piauí* também encontrou mensagem de 22 de outubro em que Thiago Miranda pergunta a Vorcaro se ele conseguiria liberar “as parcelas do filme”, sugerindo que o fluxo financeiro ainda estava ativo.[^30]
+- O achado é especialmente relevante porque contradiz a versão de que os repasses conhecidos haviam terminado em maio de 2025. A *piauí* também encontrou mensagem de 22 de outubro em que Thiago Miranda pergunta a Vorcaro se ele conseguiria liberar “as parcelas do filme”, sugerindo que o fluxo financeiro ainda estava ativo.[^30] [revista piauí ↗](https://piaui.uol.com.br/revista/240/caixa-preta-flavio-bolsonaro-vorcaro-dark-horse/)
 
-- A diferença parece pequena perto dos US$ 24 milhões prometidos, mas muda a cronologia jurídica e política: **Vorcaro continuou financiando o projeto quando a crise do Master já era pública e depois de o Banco Central ter rejeitado a venda ao BRB**.
+- A diferença parece pequena perto dos US$ 24 milhões prometidos, mas muda a cronologia jurídica e política: **Vorcaro continuou financiando o projeto quando a crise do Master já era pública e depois de o Banco Central ter rejeitado a venda ao BRB**. [Contexto: revista piauí ↗](https://piaui.uol.com.br/revista/240/caixa-preta-flavio-bolsonaro-vorcaro-dark-horse/)
 
 ---
 
 ## 16. Flávio Bolsonaro cobrava pessoalmente
 
-- Em 8 de setembro de 2025, poucos dias depois de o Banco Central vetar a compra do Master pelo BRB, Flávio enviou áudio a Vorcaro cobrando o saldo pendente e alertando que a produção poderia parar.[^24]
+- Em 8 de setembro de 2025, poucos dias depois de o Banco Central vetar a compra do Master pelo BRB, Flávio enviou áudio a Vorcaro cobrando o saldo pendente e alertando que a produção poderia parar.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Em novembro, a proximidade aparece de forma ainda mais explícita. Flávio escreveu a Vorcaro que “tudo isso só está sendo possível por causa de você” e, em 16 de novembro — um dia antes da prisão do banqueiro — enviou mensagem chamando-o de “irmão” e dizendo que estaria com ele “sempre”.[^24]
+- Em novembro, a proximidade aparece de forma ainda mais explícita. Flávio escreveu a Vorcaro que “tudo isso só está sendo possível por causa de você” e, em 16 de novembro — um dia antes da prisão do banqueiro — enviou mensagem chamando-o de “irmão” e dizendo que estaria com ele “sempre”.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Essas frases não provam corrupção. Elas provam algo anterior e necessário para qualquer análise séria: **a relação era pessoal, direta, financeira e persistente**.
+- Essas frases não provam corrupção. Elas provam algo anterior e necessário para qualquer análise séria: **a relação era pessoal, direta, financeira e persistente**. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Isso contradiz declarações anteriores de Flávio, que em março de 2026 havia afirmado que a direita estava sendo falsamente vinculada ao Master e que doações relacionadas a Zettel ocorreram sem contato ou contrapartida.[^31]
+- Isso contradiz declarações anteriores de Flávio, que em março de 2026 havia afirmado que a direita estava sendo falsamente vinculada ao Master e que doações relacionadas a Zettel ocorreram sem contato ou contrapartida.[^31] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/a-cnn-flavio-diz-que-doacao-a-campanha-ligada-a-vorcaro-foi-sem-contato/)
 
 ---
 
 ## 17. “Mas era investimento privado num filme. Onde estaria o crime?”
 
-- Esse é o melhor argumento defensivo e precisa ser levado a sério.
+- Esse é o melhor argumento defensivo e precisa ser levado a sério. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Não é ilegal um empresário investir R$ 60 milhões, R$ 100 milhões ou R$ 130 milhões em um filme sobre um ex-presidente. Também não é ilegal um senador ajudar a captar investimento privado para uma produção de sua família, desde que não use indevidamente o cargo ou ofereça contrapartida pública.
+- Não é ilegal um empresário investir R$ 60 milhões, R$ 100 milhões ou R$ 130 milhões em um filme sobre um ex-presidente. Também não é ilegal um senador ajudar a captar investimento privado para uma produção de sua família, desde que não use indevidamente o cargo ou ofereça contrapartida pública. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Portanto, **o financiamento do Dark Horse, isoladamente, não prova corrupção**.
+- Portanto, **o financiamento do Dark Horse, isoladamente, não prova corrupção**. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- O problema jurídico depende de perguntas adicionais:
+- O problema jurídico depende de perguntas adicionais: [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-1. **O dinheiro era realmente do investidor privado ou derivava de fraude bancária, desvio ou ativos sem lastro?**
-2. **O investimento tinha expectativa econômica real ou funcionava como transferência de patrimônio para beneficiar politicamente e pessoalmente os Bolsonaro?**
-3. **Flávio, Eduardo, Mario Frias ou outros agentes públicos ofereceram ou praticaram atos em favor de Vorcaro em troca do financiamento?**
-4. **Parte do dinheiro foi desviada do filme para despesas pessoais ou atividade política?**
-5. **Houve ocultação deliberada da origem, destino ou beneficiário final dos recursos?**
+    1. **O dinheiro era realmente do investidor privado ou derivava de fraude bancária, desvio ou ativos sem lastro?** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
+    2. **O investimento tinha expectativa econômica real ou funcionava como transferência de patrimônio para beneficiar politicamente e pessoalmente os Bolsonaro?** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
+    3. **Flávio, Eduardo, Mario Frias ou outros agentes públicos ofereceram ou praticaram atos em favor de Vorcaro em troca do financiamento?** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
+    4. **Parte do dinheiro foi desviada do filme para despesas pessoais ou atividade política?** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
+    5. **Houve ocultação deliberada da origem, destino ou beneficiário final dos recursos?** [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- É por isso que a expressão “foi só investimento privado” não encerra o caso. Ela responde apenas à pergunta mais superficial: **qual era a forma aparente do pagamento?** Corrupção e lavagem frequentemente usam contratos formalmente privados. O que importa é a causa real do pagamento e sua eventual contrapartida.
+- É por isso que a expressão “foi só investimento privado” não encerra o caso. Ela responde apenas à pergunta mais superficial: **qual era a forma aparente do pagamento?** Corrupção e lavagem frequentemente usam contratos formalmente privados. O que importa é a causa real do pagamento e sua eventual contrapartida. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
-- Ao mesmo tempo, também seria errado afirmar que o simples tamanho do investimento ou a amizade entre Flávio e Vorcaro já demonstra suborno.
+- Ao mesmo tempo, também seria errado afirmar que o simples tamanho do investimento ou a amizade entre Flávio e Vorcaro já demonstra suborno. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
 ---
 
 ## 18. O fundo Havengate tinha uma história anterior ao filme
 
-- Outro elemento que aumenta a necessidade de escrutínio é a história do Havengate. O fundo havia sido criado originalmente para captar recursos para um projeto imobiliário no Texas chamado **Havengate Community**, avaliado em cerca de US$ 21,1 milhões e associado à possibilidade de obtenção de green card por investidores. O projeto acabou não avançando como originalmente anunciado.[^32]
+- Outro elemento que aumenta a necessidade de escrutínio é a história do Havengate. O fundo havia sido criado originalmente para captar recursos para um projeto imobiliário no Texas chamado **Havengate Community**, avaliado em cerca de US$ 21,1 milhões e associado à possibilidade de obtenção de green card por investidores. O projeto acabou não avançando como originalmente anunciado.[^32] [Intercept Brasil ↗](https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/)
 
-- Depois, o mesmo veículo recebeu milhões de dólares relacionados a *Dark Horse*.
+- Depois, o mesmo veículo recebeu milhões de dólares relacionados a *Dark Horse*. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/)
 
-- Essa mudança de finalidade não é automaticamente irregular. Fundos podem alterar estratégias. Mas, combinada com a proximidade entre seus controladores e Eduardo Bolsonaro, ela reforça a necessidade de rastrear o caminho do dinheiro e os beneficiários finais.
+- Essa mudança de finalidade não é automaticamente irregular. Fundos podem alterar estratégias. Mas, combinada com a proximidade entre seus controladores e Eduardo Bolsonaro, ela reforça a necessidade de rastrear o caminho do dinheiro e os beneficiários finais. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/)
 
 ---
 
 ## 19. A prestação de contas continua insuficiente
 
-- Em agosto de 2026, perícia contratada pela própria produtora Go Up afirmou que o filme custou cerca de **R$ 75 milhões**, sendo aproximadamente R$ 54 milhões gastos nos Estados Unidos e R$ 20,9 milhões no Brasil. O relatório declarou que 100% do aporte teria vindo do Havengate, mas não identificou individualmente os investidores responsáveis.[^33]
+- Em agosto de 2026, perícia contratada pela própria produtora Go Up afirmou que o filme custou cerca de **R$ 75 milhões**, sendo aproximadamente R$ 54 milhões gastos nos Estados Unidos e R$ 20,9 milhões no Brasil. O relatório declarou que 100% do aporte teria vindo do Havengate, mas não identificou individualmente os investidores responsáveis.[^33] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/dark-horse-pericia-diz-que-mais-de-70-dos-recursos-foram-gastos-nos-eua/)
 
-- A Folha apontou que, meses depois das primeiras revelações, ainda não havia prestação de contas pública completa nem contrato de investimento divulgado, e que o laudo privado não detalhava fornecedores e documentos fiscais em nível suficiente para eliminar as dúvidas.[^34]
+- A Folha apontou que, meses depois das primeiras revelações, ainda não havia prestação de contas pública completa nem contrato de investimento divulgado, e que o laudo privado não detalhava fornecedores e documentos fiscais em nível suficiente para eliminar as dúvidas.[^34] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/08/dark-horse-tem-contradicoes-para-justificar-dinheiro-de-vorcaro-e-falta-de-prestacao-de-contas.shtml)
 
-- Essa é uma das razões pelas quais o caso continua aberto: a cadeia “Vorcaro → fundo → produção → destinatários finais” ainda não está integralmente transparente para o público.
+- Essa é uma das razões pelas quais o caso continua aberto: a cadeia “Vorcaro → fundo → produção → destinatários finais” ainda não está integralmente transparente para o público. [Contexto: CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/dark-horse-pericia-diz-que-mais-de-70-dos-recursos-foram-gastos-nos-eua/)
 
 ---
 
@@ -318,24 +318,24 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 20. Ciro Nogueira e a “Emenda Master”: onde a suspeita de contrapartida é muito mais concreta
 
-- O caso de **Ciro Nogueira (PP-PI)** é um dos episódios mais importantes para entender a diferença entre “relação” e “possível corrupção”.
+- O caso de **Ciro Nogueira (PP-PI)** é um dos episódios mais importantes para entender a diferença entre “relação” e “possível corrupção”. [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
-- Em 13 de agosto de 2024, Ciro apresentou a **Emenda nº 11 à PEC 65/2023**, propondo elevar a cobertura ordinária do FGC de **R$ 250 mil para R$ 1 milhão**.[^35]
+- Em 13 de agosto de 2024, Ciro apresentou a **Emenda nº 11 à PEC 65/2023**, propondo elevar a cobertura ordinária do FGC de **R$ 250 mil para R$ 1 milhão**.[^35] [Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
-- A medida beneficiaria especialmente bancos pequenos e médios que captavam agressivamente via CDB coberto pelo fundo — exatamente o modelo do Master.
+- A medida beneficiaria especialmente bancos pequenos e médios que captavam agressivamente via CDB coberto pelo fundo — exatamente o modelo do Master. [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
-- Em maio de 2026, a Polícia Federal afirmou ter encontrado no celular de Vorcaro mensagens indicando que a **assessoria do próprio Banco Master redigiu o texto da emenda**, que teria sido impresso, colocado em envelope e enviado ao endereço de Ciro. Depois que o texto foi apresentado, Vorcaro escreveu que a proposta havia saído “exatamente como mandei”.[^36]
+- Em maio de 2026, a Polícia Federal afirmou ter encontrado no celular de Vorcaro mensagens indicando que a **assessoria do próprio Banco Master redigiu o texto da emenda**, que teria sido impresso, colocado em envelope e enviado ao endereço de Ciro. Depois que o texto foi apresentado, Vorcaro escreveu que a proposta havia saído “exatamente como mandei”.[^36] [UOL/Agência Estado ↗](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/07/pf-vorcaro-entregou-envelope-para-ciro-nogueira-com-texto-de-emenda-para-favorecer-master.amp.htm)
 
-- A investigação acrescenta um segundo elemento: mensagens sobre pagamentos mensais de **R$ 300 mil a R$ 500 mil** ligados a uma estrutura entre empresas das famílias de Vorcaro e de Ciro. A PF apura cerca de **R$ 18 milhões** em suposta propina.[^37]
+- A investigação acrescenta um segundo elemento: mensagens sobre pagamentos mensais de **R$ 300 mil a R$ 500 mil** ligados a uma estrutura entre empresas das famílias de Vorcaro e de Ciro. A PF apura cerca de **R$ 18 milhões** em suposta propina.[^37] [UOL ↗](https://noticias.uol.com.br/colunas/fabio-serapiao/2026/05/07/500k-ou-pago-300k-veja-mensagens-sobre-propina-para-ciro-nogueira.htm)
 
-- Ciro nega ter recebido pagamentos ilícitos e nega que a proposta tenha sido redigida pelo banco; chegou a dizer que pretendia reapresentar a ideia por considerá-la benéfica aos depositantes.[^38]
+- Ciro nega ter recebido pagamentos ilícitos e nega que a proposta tenha sido redigida pelo banco; chegou a dizer que pretendia reapresentar a ideia por considerá-la benéfica aos depositantes.[^38] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/05/ciro-nogueira-nega-que-emenda-master-tenha-sido-redigida-por-banco-e-diz-que-vai-reapresentar-proposta.shtml)
 
-- Este núcleo é qualitativamente diferente do encontro de Lula com Vorcaro ou da contratação de Mantega. Aqui os investigadores afirmam possuir os dois lados que uma hipótese de corrupção precisa procurar:
+- Este núcleo é qualitativamente diferente do encontro de Lula com Vorcaro ou da contratação de Mantega. Aqui os investigadores afirmam possuir os dois lados que uma hipótese de corrupção precisa procurar: [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
-- **vantagem econômica**;
-- **ato parlamentar concretamente alinhado ao interesse privado**.
+    - **vantagem econômica**; [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
+    - **ato parlamentar concretamente alinhado ao interesse privado**. [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
-- Ainda falta julgamento e contraditório completo. Mas, como estrutura probatória, é uma das pontas mais fortes do caso.
+- Ainda falta julgamento e contraditório completo. Mas, como estrutura probatória, é uma das pontas mais fortes do caso. [Contexto: Senado Federal ↗](https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268)
 
 ---
 
@@ -343,36 +343,36 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 21. Alexandre de Moraes: contratos, encontros e mensagens
 
-- Em 2026, o caso Master atingiu também o STF. O escritório de **Viviane Barci de Moraes**, esposa do ministro Alexandre de Moraes, tinha contrato milionário com o banco. Reportagens e relatório policial apontaram que um contrato previa pagamentos de cerca de **R$ 3 milhões mensais**, e metadados de arquivos indicaram que o próprio ministro teria editado versão de uma minuta.[^39]
+- Em 2026, o caso Master atingiu também o STF. O escritório de **Viviane Barci de Moraes**, esposa do ministro Alexandre de Moraes, tinha contrato milionário com o banco. Reportagens e relatório policial apontaram que um contrato previa pagamentos de cerca de **R$ 3 milhões mensais**, e metadados de arquivos indicaram que o próprio ministro teria editado versão de uma minuta.[^39] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O escritório afirma que consultou Moraes apenas sobre impedimentos legais e que o ministro nunca julgou processos envolvendo o Master.
+- O escritório afirma que consultou Moraes apenas sobre impedimentos legais e que o ministro nunca julgou processos envolvendo o Master. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A situação tornou-se muito mais grave quando mensagens extraídas do celular de Vorcaro passaram a ser interpretadas pela PF como comunicações dirigidas ao ministro. Segundo a investigação, Vorcaro buscava informação e ajuda para conter investigações da PF e da PGR, perguntando inclusive, dias antes de ser preso, se deveria deixar o país.[^40]
+- A situação tornou-se muito mais grave quando mensagens extraídas do celular de Vorcaro passaram a ser interpretadas pela PF como comunicações dirigidas ao ministro. Segundo a investigação, Vorcaro buscava informação e ajuda para conter investigações da PF e da PGR, perguntando inclusive, dias antes de ser preso, se deveria deixar o país.[^40] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-vorcaro-moraes.ghtm)
 
-- A PF identificou referências a pelo menos seis encontros entre ambos desde 2023 e investiga se houve tentativa de interferência em órgãos públicos.[^41]
+- A PF identificou referências a pelo menos seis encontros entre ambos desde 2023 e investiga se houve tentativa de interferência em órgãos públicos.[^41] [UOL ↗](https://noticias.uol.com.br/colunas/artur-rodrigues/2026/09/01/mencoes-a-encontros-entre-moraes-e-vorcaro-vao-de-2023-a-vespera-da-prisao.ghtm)
 
-- Essas mensagens não equivalem automaticamente a prova de que Moraes efetivamente interferiu. A própria discussão processual sobre a validade do relatório e a forma como André Mendonça conduziu a apuração permanece aberta. Mas o conjunto — relação pessoal, contrato familiar, edição de minuta atribuída ao ministro e pedidos de ajuda de Vorcaro — cria um conflito de interesse muito mais sério do que uma relação social ordinária.
+- Essas mensagens não equivalem automaticamente a prova de que Moraes efetivamente interferiu. A própria discussão processual sobre a validade do relatório e a forma como André Mendonça conduziu a apuração permanece aberta. Mas o conjunto — relação pessoal, contrato familiar, edição de minuta atribuída ao ministro e pedidos de ajuda de Vorcaro — cria um conflito de interesse muito mais sério do que uma relação social ordinária. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 22. O caso mostra uma estratégia de proximidade, não fidelidade ideológica
 
-- Quando se colocam lado a lado os eixos, aparece um padrão:
+- Quando se colocam lado a lado os eixos, aparece um padrão: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Mantega abre porta para Lula;
-- Wagner aparece como ponte para Lewandowski e depois como investigado por vantagens;
-- Ciro apresenta emenda que, segundo a PF, foi redigida pelo Master;
-- Flávio capta dezenas de milhões para o filme do pai;
-- Eduardo ocupa posição de produtor-executivo e pessoas ligadas a ele controlam o fundo receptor;
-- Nikolas utiliza aeronave ligada a Vorcaro e posteriormente pede ajuda em assunto privado;
-- ex-ministros, advogados e dirigentes de vários partidos recebem contratos;
-- Moraes e sua família mantêm relação contratual e pessoal com o banqueiro enquanto o banco enfrenta crescente pressão institucional.
+    - Mantega abre porta para Lula; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Wagner aparece como ponte para Lewandowski e depois como investigado por vantagens; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Ciro apresenta emenda que, segundo a PF, foi redigida pelo Master; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Flávio capta dezenas de milhões para o filme do pai; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Eduardo ocupa posição de produtor-executivo e pessoas ligadas a ele controlam o fundo receptor; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Nikolas utiliza aeronave ligada a Vorcaro e posteriormente pede ajuda em assunto privado; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - ex-ministros, advogados e dirigentes de vários partidos recebem contratos; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Moraes e sua família mantêm relação contratual e pessoal com o banqueiro enquanto o banco enfrenta crescente pressão institucional. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Isso é mais bem descrito como uma **estratégia de aquisição de acesso** do que como aliança partidária.
+- Isso é mais bem descrito como uma **estratégia de aquisição de acesso** do que como aliança partidária. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O banqueiro não precisava que todos os contatos praticassem crimes. Para sua posição econômica, já era valioso que dezenas de pessoas importantes o conhecessem, atendessem suas ligações, aceitassem reuniões, participassem de eventos, prestassem consultoria ou o apresentassem a outras autoridades.
+- O banqueiro não precisava que todos os contatos praticassem crimes. Para sua posição econômica, já era valioso que dezenas de pessoas importantes o conhecessem, atendessem suas ligações, aceitassem reuniões, participassem de eventos, prestassem consultoria ou o apresentassem a outras autoridades. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A influência política é muitas vezes acumulativa. Cada vínculo isolado pode ser explicável. O problema surge quando o conjunto forma uma infraestrutura informal de acesso ao Estado.
+- A influência política é muitas vezes acumulativa. Cada vínculo isolado pode ser explicável. O problema surge quando o conjunto forma uma infraestrutura informal de acesso ao Estado. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
@@ -380,55 +380,55 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 23. Fatos documentados com alto grau de segurança
 
-- Até 3 de setembro de 2026, é possível afirmar com segurança que:
+- Até 3 de setembro de 2026, é possível afirmar com segurança que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- o Master captou recursos oferecendo CDBs com remuneração muito superior à média e explorando comercialmente a cobertura do FGC;
-- o Banco Central liquidou o conglomerado por crise de liquidez, comprometimento econômico-financeiro e violações regulatórias;
-- o BRB tentou comprar 58% do capital do Master e o Banco Central vetou a operação;
-- investigações identificaram carteiras de crédito consideradas inexistentes ou sem lastro vendidas ao BRB;
-- Vorcaro manteve relações comerciais ou pessoais com agentes de vários partidos e Poderes;
-- Mantega recebeu R$ 14 milhões em consultoria e levou Vorcaro a uma reunião com Lula;
-- o escritório da família Lewandowski recebeu milhões do Master;
-- a PF investiga Jaques Wagner por supostas vantagens econômicas;
-- Flávio Bolsonaro negociou financiamento de aproximadamente US$ 24 milhões para *Dark Horse*;
-- pelo menos US$ 12,3 milhões em repasses relacionados ao projeto já foram documentados;
-- Eduardo Bolsonaro assinou contrato como produtor-executivo;
-- o Havengate, fundo receptor, é administrado por pessoas ligadas a Eduardo;
-- a PF apura se recursos foram usados para despesas pessoais ou políticas diferentes da produção;
-- a PF afirma que a emenda de Ciro Nogueira sobre o FGC foi redigida pelo Master e investiga pagamentos ao senador;
-- o escritório da esposa de Moraes recebeu pagamentos milionários do Master e a PF analisa mensagens de Vorcaro atribuídas a contatos com o ministro.
+    - o Master captou recursos oferecendo CDBs com remuneração muito superior à média e explorando comercialmente a cobertura do FGC; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o Banco Central liquidou o conglomerado por crise de liquidez, comprometimento econômico-financeiro e violações regulatórias; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o BRB tentou comprar 58% do capital do Master e o Banco Central vetou a operação; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - investigações identificaram carteiras de crédito consideradas inexistentes ou sem lastro vendidas ao BRB; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Vorcaro manteve relações comerciais ou pessoais com agentes de vários partidos e Poderes; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Mantega recebeu R$ 14 milhões em consultoria e levou Vorcaro a uma reunião com Lula; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o escritório da família Lewandowski recebeu milhões do Master; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - a PF investiga Jaques Wagner por supostas vantagens econômicas; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Flávio Bolsonaro negociou financiamento de aproximadamente US$ 24 milhões para *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - pelo menos US$ 12,3 milhões em repasses relacionados ao projeto já foram documentados; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Eduardo Bolsonaro assinou contrato como produtor-executivo; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o Havengate, fundo receptor, é administrado por pessoas ligadas a Eduardo; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - a PF apura se recursos foram usados para despesas pessoais ou políticas diferentes da produção; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - a PF afirma que a emenda de Ciro Nogueira sobre o FGC foi redigida pelo Master e investiga pagamentos ao senador; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o escritório da esposa de Moraes recebeu pagamentos milionários do Master e a PF analisa mensagens de Vorcaro atribuídas a contatos com o ministro. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 24. Indícios fortes, mas ainda dependentes de prova e julgamento
 
-- Há base relevante para investigar:
+- Há base relevante para investigar: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- se Ciro Nogueira recebeu vantagem em troca de atuação legislativa;
-- se Jaques Wagner recebeu benefícios vinculados a atos públicos favoráveis ao banco;
-- se contratos de consultoria serviam, total ou parcialmente, para comprar influência política;
-- se o financiamento de *Dark Horse* tinha finalidade econômica genuína ou funcionava como transferência de vantagem a uma família política;
-- se dinheiro do filme financiou despesas pessoais de Eduardo Bolsonaro;
-- se Alexandre de Moraes interveio em órgãos de investigação ou regulação a pedido de Vorcaro;
-- se estruturas financeiras vinculadas ao Master foram usadas para ocultar destinatários ou origem de recursos.
+    - se Ciro Nogueira recebeu vantagem em troca de atuação legislativa; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se Jaques Wagner recebeu benefícios vinculados a atos públicos favoráveis ao banco; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se contratos de consultoria serviam, total ou parcialmente, para comprar influência política; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se o financiamento de *Dark Horse* tinha finalidade econômica genuína ou funcionava como transferência de vantagem a uma família política; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se dinheiro do filme financiou despesas pessoais de Eduardo Bolsonaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se Alexandre de Moraes interveio em órgãos de investigação ou regulação a pedido de Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - se estruturas financeiras vinculadas ao Master foram usadas para ocultar destinatários ou origem de recursos. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 25. Afirmações que o material público ainda não permite fazer com responsabilidade
 
-- Não está demonstrado, apenas com o que é público, que:
+- Não está demonstrado, apenas com o que é público, que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Lula recebeu dinheiro do Master;
-- Lula ordenou ao Banco Central que favorecesse Vorcaro;
-- o PT, enquanto partido, coordenou o esquema;
-- Jair Bolsonaro recebeu pessoalmente o dinheiro de *Dark Horse*;
-- todo o dinheiro enviado ao Havengate foi desviado;
-- Eduardo Bolsonaro usou comprovadamente recursos do Master para pagar sua mansão ou custo de vida nos EUA;
-- todo contrato de consultoria do Master era falso;
-- toda autoridade que participou de evento patrocinado pelo banco foi corrompida;
-- a relação de Moraes com Vorcaro, por si só, já configura corrupção sem investigação da eventual contrapartida funcional.
+    - Lula recebeu dinheiro do Master; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Lula ordenou ao Banco Central que favorecesse Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - o PT, enquanto partido, coordenou o esquema; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Jair Bolsonaro recebeu pessoalmente o dinheiro de *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - todo o dinheiro enviado ao Havengate foi desviado; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - Eduardo Bolsonaro usou comprovadamente recursos do Master para pagar sua mansão ou custo de vida nos EUA; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - todo contrato de consultoria do Master era falso; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - toda autoridade que participou de evento patrocinado pelo banco foi corrompida; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - a relação de Moraes com Vorcaro, por si só, já configura corrupção sem investigação da eventual contrapartida funcional. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Essa lista é tão importante quanto a lista de suspeitas. Um bom dossiê não fica mais forte exagerando. Fica mais forte deixando claro onde a evidência termina.
+- Essa lista é tão importante quanto a lista de suspeitas. Um bom dossiê não fica mais forte exagerando. Fica mais forte deixando claro onde a evidência termina. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
@@ -436,115 +436,115 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ## 26. A hipótese estrutural mais plausível
 
-- O que une FGC, BRB, Dark Horse e política é a necessidade de **sustentar um sistema financeiro que dependia de confiança**.
+- O que une FGC, BRB, Dark Horse e política é a necessidade de **sustentar um sistema financeiro que dependia de confiança**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O Master captava caro. Para pagar essa captação, precisava que seus ativos rendessem muito e fossem aceitos pelo mercado e pelos reguladores. Quanto mais crescia, maior a necessidade de liquidez. Quando surgiam dúvidas sobre a qualidade dos ativos, uma solução como a venda ao BRB tornava-se existencial.
+- O Master captava caro. Para pagar essa captação, precisava que seus ativos rendessem muito e fossem aceitos pelo mercado e pelos reguladores. Quanto mais crescia, maior a necessidade de liquidez. Quando surgiam dúvidas sobre a qualidade dos ativos, uma solução como a venda ao BRB tornava-se existencial. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Nesse tipo de ambiente, acesso político vale dinheiro.
+- Nesse tipo de ambiente, acesso político vale dinheiro. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Um ex-ministro pode abrir reunião. Um senador pode propor norma. Um escritório influente pode dar prestígio e interlocução institucional. Um evento com ministros do Supremo produz reputação. Um banco público pode oferecer uma saída societária. Um projeto audiovisual ligado a uma família política pode transformar dinheiro em proximidade e gratidão.
+- Um ex-ministro pode abrir reunião. Um senador pode propor norma. Um escritório influente pode dar prestígio e interlocução institucional. Um evento com ministros do Supremo produz reputação. Um banco público pode oferecer uma saída societária. Um projeto audiovisual ligado a uma família política pode transformar dinheiro em proximidade e gratidão. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Isso não significa que cada pessoa tenha integrado uma organização criminosa. Significa que, para Vorcaro, **relações eram ativos**.
+- Isso não significa que cada pessoa tenha integrado uma organização criminosa. Significa que, para Vorcaro, **relações eram ativos**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A frase que sintetiza o caso talvez não seja “o Master comprou o PT” ou “o Master financiou Bolsonaro”. É algo mais incômodo:
+- A frase que sintetiza o caso talvez não seja “o Master comprou o PT” ou “o Master financiou Bolsonaro”. É algo mais incômodo: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 > **o Master parece ter construído um portfólio de dependências, favores, contratos e acessos distribuído por todo o sistema político.**
 
-- A investigação criminal precisa descobrir quais dessas relações eram apenas negócios, quais eram lobby, quais eram influência legítima e quais cruzaram a linha para corrupção.
+- A investigação criminal precisa descobrir quais dessas relações eram apenas negócios, quais eram lobby, quais eram influência legítima e quais cruzaram a linha para corrupção. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 27. Onde Dark Horse se encaixa nessa hipótese
 
-- *Dark Horse* é importante não porque seja a única relação política de Vorcaro, mas porque oferece uma janela rara sobre **como uma relação era construída**.
+- *Dark Horse* é importante não porque seja a única relação política de Vorcaro, mas porque oferece uma janela rara sobre **como uma relação era construída**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Há um pedido. Há um projeto que interessa pessoal e politicamente a uma família. Há cronograma. Há pressão por pagamentos. Há frases de gratidão. Há o banqueiro priorizando o desembolso. Há um fundo ligado a aliados do beneficiário. Há remessas internacionais. Há cobranças mesmo quando o banco enfrenta crise. Há contato pessoal até a véspera da prisão.
+- Há um pedido. Há um projeto que interessa pessoal e politicamente a uma família. Há cronograma. Há pressão por pagamentos. Há frases de gratidão. Há o banqueiro priorizando o desembolso. Há um fundo ligado a aliados do beneficiário. Há remessas internacionais. Há cobranças mesmo quando o banco enfrenta crise. Há contato pessoal até a véspera da prisão. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Essa sequência é muito mais informativa do que uma fotografia em jantar.
+- Essa sequência é muito mais informativa do que uma fotografia em jantar. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Ela ainda não fornece, sozinha, a peça que transformaria o caso em corrupção: **a contrapartida funcional específica**. Mas mostra com grande nitidez o tipo de vínculo que pode tornar uma contrapartida plausível e investigável.
+- Ela ainda não fornece, sozinha, a peça que transformaria o caso em corrupção: **a contrapartida funcional específica**. Mas mostra com grande nitidez o tipo de vínculo que pode tornar uma contrapartida plausível e investigável. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O caso Ciro Nogueira é justamente o contraponto: ali, segundo a PF, existe um possível pagamento e existe um ato legislativo cujo texto teria saído do próprio banco. É por isso que juridicamente o núcleo Ciro é, hoje, mais próximo de uma estrutura clássica de corrupção do que *Dark Horse* isoladamente.
+- O caso Ciro Nogueira é justamente o contraponto: ali, segundo a PF, existe um possível pagamento e existe um ato legislativo cujo texto teria saído do próprio banco. É por isso que juridicamente o núcleo Ciro é, hoje, mais próximo de uma estrutura clássica de corrupção do que *Dark Horse* isoladamente. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O núcleo *Dark Horse*, por sua vez, pode migrar de “financiamento privado politicamente problemático” para crime se a investigação demonstrar uma das seguintes pontes: origem ilícita dos recursos, desvio para benefício pessoal, ocultação, ato de ofício em favor do banco ou promessa de influência pública em troca do financiamento.
+- O núcleo *Dark Horse*, por sua vez, pode migrar de “financiamento privado politicamente problemático” para crime se a investigação demonstrar uma das seguintes pontes: origem ilícita dos recursos, desvio para benefício pessoal, ocultação, ato de ofício em favor do banco ou promessa de influência pública em troca do financiamento. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 28. E a comparação PT versus Bolsonaro?
 
-- A comparação mais rigorosa não é “quem recebeu mais dinheiro”, porque os pagamentos têm naturezas diferentes.
+- A comparação mais rigorosa não é “quem recebeu mais dinheiro”, porque os pagamentos têm naturezas diferentes. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- No **campo petista**, há:
+- No **campo petista**, há: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- acesso direto a Lula;
-- consultoria milionária de Mantega;
-- contrato da família Lewandowski;
-- suspeitas de vantagens a Jaques Wagner;
-- pagamentos a empresa de sua nora.
+    - acesso direto a Lula; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - consultoria milionária de Mantega; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - contrato da família Lewandowski; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - suspeitas de vantagens a Jaques Wagner; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - pagamentos a empresa de sua nora. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- No **campo bolsonarista**, há:
+- No **campo bolsonarista**, há: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- doação eleitoral relevante de Zettel;
-- uso de aeronave ligada a Vorcaro em campanha;
-- pedidos privados de Nikolas;
-- captação direta de dezenas de milhões por Flávio;
-- participação financeira e executiva de Eduardo em *Dark Horse*;
-- vínculos de Mario Frias e outros aliados com o projeto.
+    - doação eleitoral relevante de Zettel; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - uso de aeronave ligada a Vorcaro em campanha; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - pedidos privados de Nikolas; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - captação direta de dezenas de milhões por Flávio; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - participação financeira e executiva de Eduardo em *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - vínculos de Mario Frias e outros aliados com o projeto. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- No **Centrão e demais partidos**, aparecem Ciro Nogueira, Antônio Rueda, Michel Temer, ACM Neto, Marconi Perillo e outros.
+- No **Centrão e demais partidos**, aparecem Ciro Nogueira, Antônio Rueda, Michel Temer, ACM Neto, Marconi Perillo e outros. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- No **Judiciário e sistema de Justiça**, aparecem contratos e relações com famílias e intermediários ligados a ministros e autoridades.
+- No **Judiciário e sistema de Justiça**, aparecem contratos e relações com famílias e intermediários ligados a ministros e autoridades. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Portanto, a conclusão não é que “todos são iguais” — os fatos e a força probatória variam muito. A conclusão é que **o método de Vorcaro era transversal**.
+- Portanto, a conclusão não é que “todos são iguais” — os fatos e a força probatória variam muito. A conclusão é que **o método de Vorcaro era transversal**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 29. A pergunta que deve orientar a investigação daqui para frente
 
-- A pergunta mais útil não é “Vorcaro conhecia fulano?”. Ele conhecia muita gente.
+- A pergunta mais útil não é “Vorcaro conhecia fulano?”. Ele conhecia muita gente. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Também não basta perguntar “fulano recebeu dinheiro?”. Advogados, consultores e fornecedores recebem dinheiro legitimamente.
+- Também não basta perguntar “fulano recebeu dinheiro?”. Advogados, consultores e fornecedores recebem dinheiro legitimamente. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A pergunta decisiva é:
+- A pergunta decisiva é: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 > **qual vantagem foi dada, a quem, por qual veículo, em que momento, e qual decisão ou influência pública Vorcaro esperava receber em troca?**
 
-- Essa fórmula permite ordenar o caso.
+- Essa fórmula permite ordenar o caso. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- **Mantega:** pagamento + acesso ao presidente; falta demonstrar finalidade ilícita.
-- **Wagner:** benefícios alegados + investigação sobre favorecimento; falta fechar a contrapartida.
-- **Ciro:** pagamentos alegados + emenda alinhada ao banco; elo de contrapartida é muito mais concreto.
-- **Flávio/Dark Horse:** financiamento enorme + proximidade e cobrança; falta identificar ato público ou outra vantagem jurídica oferecida ao banqueiro.
-- **Moraes:** contrato familiar + encontros + pedidos de ajuda; falta demonstrar de forma válida e conclusiva quais pedidos foram atendidos e com que nexo financeiro.
+- **Mantega:** pagamento + acesso ao presidente; falta demonstrar finalidade ilícita. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- **Wagner:** benefícios alegados + investigação sobre favorecimento; falta fechar a contrapartida. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- **Ciro:** pagamentos alegados + emenda alinhada ao banco; elo de contrapartida é muito mais concreto. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- **Flávio/Dark Horse:** financiamento enorme + proximidade e cobrança; falta identificar ato público ou outra vantagem jurídica oferecida ao banqueiro. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- **Moraes:** contrato familiar + encontros + pedidos de ajuda; falta demonstrar de forma válida e conclusiva quais pedidos foram atendidos e com que nexo financeiro. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O mapa probatório não é uniforme. E justamente por isso deve ser lido ponta por ponta.
+- O mapa probatório não é uniforme. E justamente por isso deve ser lido ponta por ponta. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
 ## 30. O que o caso Master revela sobre corrupção contemporânea
 
-- O caso é instrutivo porque a corrupção moderna raramente se apresenta como uma mala de dinheiro entregue imediatamente antes de uma assinatura.
+- O caso é instrutivo porque a corrupção moderna raramente se apresenta como uma mala de dinheiro entregue imediatamente antes de uma assinatura. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Ela pode se esconder em zonas cinzentas:
+- Ela pode se esconder em zonas cinzentas: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- contrato de consultoria com serviço difícil de mensurar;
-- patrocínio de evento;
-- viagem em aeronave privada;
-- ingresso, hospedagem ou jantar;
-- financiamento de projeto cultural;
-- contratação de escritório de familiar;
-- fundo de investimento no exterior;
-- indicação de jurista ou consultor;
-- emenda legislativa tecnicamente defensável, mas redigida pelo interessado;
-- amizade que só adquire significado penal quando uma decisão pública aparece do outro lado.
+    - contrato de consultoria com serviço difícil de mensurar; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - patrocínio de evento; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - viagem em aeronave privada; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - ingresso, hospedagem ou jantar; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - financiamento de projeto cultural; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - contratação de escritório de familiar; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - fundo de investimento no exterior; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - indicação de jurista ou consultor; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - emenda legislativa tecnicamente defensável, mas redigida pelo interessado; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+    - amizade que só adquire significado penal quando uma decisão pública aparece do outro lado. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Por isso, duas simplificações são ruins.
+- Por isso, duas simplificações são ruins. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A primeira é dizer: **“se havia contrato, era legal”**. Contratos podem documentar uma relação legítima ou mascarar vantagem indevida; o papel não resolve a questão sozinho.
+- A primeira é dizer: **“se havia contrato, era legal”**. Contratos podem documentar uma relação legítima ou mascarar vantagem indevida; o papel não resolve a questão sozinho. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A segunda é dizer: **“se havia proximidade, era corrupção”**. Isso elimina a necessidade de demonstrar dolo, vantagem e nexo com função pública.
+- A segunda é dizer: **“se havia proximidade, era corrupção”**. Isso elimina a necessidade de demonstrar dolo, vantagem e nexo com função pública. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O caso Master é importante precisamente porque há material suficiente para investigar o que existe entre esses dois extremos.
+- O caso Master é importante precisamente porque há material suficiente para investigar o que existe entre esses dois extremos. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
@@ -579,17 +579,17 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 # Síntese final
 
-- O escândalo do Banco Master não cabe confortavelmente na guerra de narrativas entre esquerda e direita.
+- O escândalo do Banco Master não cabe confortavelmente na guerra de narrativas entre esquerda e direita. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Há material sério contra pessoas ligadas ao PT. Há material sério envolvendo o bolsonarismo. Há um núcleo muito grave no Centrão. Há relações preocupantes no Judiciário. A força das evidências, porém, é desigual.
+- Há material sério contra pessoas ligadas ao PT. Há material sério envolvendo o bolsonarismo. Há um núcleo muito grave no Centrão. Há relações preocupantes no Judiciário. A força das evidências, porém, é desigual. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O erro de um lado é usar as relações com Mantega, Wagner e Lewandowski para concluir que o Master era “um banco do PT”, ignorando Ciro, Flávio, Eduardo, Nikolas, Wajngarten e os demais. O erro do outro é usar *Dark Horse* para fingir que os vínculos com o governo Lula são irrelevantes.
+- O erro de um lado é usar as relações com Mantega, Wagner e Lewandowski para concluir que o Master era “um banco do PT”, ignorando Ciro, Flávio, Eduardo, Nikolas, Wajngarten e os demais. O erro do outro é usar *Dark Horse* para fingir que os vínculos com o governo Lula são irrelevantes. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- A leitura mais coerente é institucional: **Daniel Vorcaro construiu uma rede ampla de acesso enquanto comandava um banco cujo modelo econômico se tornava cada vez mais dependente de confiança, regulação favorável, liquidez e uma saída para ativos problemáticos.**
+- A leitura mais coerente é institucional: **Daniel Vorcaro construiu uma rede ampla de acesso enquanto comandava um banco cujo modelo econômico se tornava cada vez mais dependente de confiança, regulação favorável, liquidez e uma saída para ativos problemáticos.** [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- Em alguns pontos, essa rede pode ter sido apenas networking empresarial agressivo. Em outros, a Polícia Federal já descreve pagamentos e atos públicos que se aproximam do desenho clássico de corrupção. *Dark Horse* ocupa o meio desse espectro: o dinheiro e a proximidade estão documentados; a contrapartida pública ainda precisa ser demonstrada.
+- Em alguns pontos, essa rede pode ter sido apenas networking empresarial agressivo. Em outros, a Polícia Federal já descreve pagamentos e atos públicos que se aproximam do desenho clássico de corrupção. *Dark Horse* ocupa o meio desse espectro: o dinheiro e a proximidade estão documentados; a contrapartida pública ainda precisa ser demonstrada. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-- O caso só será compreendido por inteiro quando for possível ligar, com prova, **cada fluxo financeiro a cada decisão esperada**. Até lá, o trabalho mais sério é resistir tanto à absolvição automática (“era tudo privado”) quanto à condenação por associação (“conhecia Vorcaro, logo era corrupto”).
+- O caso só será compreendido por inteiro quando for possível ligar, com prova, **cada fluxo financeiro a cada decisão esperada**. Até lá, o trabalho mais sério é resistir tanto à absolvição automática (“era tudo privado”) quanto à condenação por associação (“conhecia Vorcaro, logo era corrupto”). [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 ---
 
