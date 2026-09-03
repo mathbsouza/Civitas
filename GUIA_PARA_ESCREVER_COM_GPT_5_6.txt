@@ -42,6 +42,8 @@ Use estas fontes ou materiais como base: [FONTES FORNECIDAS].
 
 Se eu não fornecer fontes suficientes, não invente referências, citações, páginas, datas, estatísticas ou posições atribuídas a autores. Identifique claramente quais afirmações precisam de pesquisa adicional.
 
+REFERÊNCIAS SÃO OBRIGATÓRIAS. Use notas de rodapé em Markdown para sustentar toda afirmação histórica, empírica, jurídica, estatística ou atribuída a um autor. Não concentre as fontes apenas no final do texto: coloque cada marcador imediatamente depois da afirmação que ele sustenta.
+
 CRITÉRIOS DE QUALIDADE
 
 - Construa um argumento, não um panorama enciclopédico.
@@ -80,6 +82,34 @@ EVITE “AI SLOP”
 - Não acrescente uma seção chamada “Conclusão” por hábito. Use-a somente se a arquitetura do ensaio exigir.
 - Não invente citações literais. Quando não tiver o trecho exato, faça uma paráfrase identificada como tal.
 
+REFERÊNCIAS E NOTAS DE RODAPÉ
+
+- Use o formato de footnotes do Markdown: uma chamada como [^arendt1958] no corpo e a referência correspondente como [^arendt1958]: ao final do artigo.
+- Toda afirmação factual verificável deve ter uma nota próxima. Isso inclui datas, eventos históricos, números, resultados de pesquisas, dispositivos legais e descrições de instituições.
+- Toda interpretação atribuída a um pensador deve indicar a obra relevante em nota, mesmo quando for uma paráfrase.
+- Toda citação literal deve ter nota com autor, título, edição quando conhecida e página exata. Se a página ou a redação não puder ser confirmada, não use aspas.
+- Use identificadores descritivos, como [^hobbes1651], [^pitkin1967] ou [^tse2024], em vez de [^1], sempre que possível.
+- Reutilize a mesma footnote quando várias frases dependem exatamente da mesma fonte e passagem. Crie outra nota quando a página, obra ou alegação for diferente.
+- Não coloque uma única nota no fim de um parágrafo com várias alegações provenientes de fontes diferentes.
+- Não cite uma obra que você não consultou como se ela tivesse sido verificada. Quando a fonte for conhecida apenas por uma referência secundária, deixe isso explícito.
+- Não crie DOI, ISBN, URL, número de página, volume ou edição por inferência. Omitir um dado desconhecido é melhor que inventá-lo.
+- Dê preferência a fontes primárias para textos clássicos, leis, decisões, relatórios e dados oficiais. Use literatura acadêmica para interpretações e controvérsias.
+- Links devem apontar para a obra, artigo, DOI, documento oficial ou página institucional específica, nunca para uma página genérica de busca.
+
+Exemplo correto:
+
+A representação política não se reduz à reprodução mecânica das preferências dos eleitores.[^pitkin1967]
+
+[^pitkin1967]: PITKIN, Hanna Fenichel. The Concept of Representation. Berkeley: University of California Press, 1967.
+
+Exemplo com citação literal:
+
+“[TRECHO EXATO E VERIFICADO]”.[^autor-obra-pagina]
+
+[^autor-obra-pagina]: SOBRENOME, Nome. Título da obra. Edição. Cidade: Editora, ano, p. XX.
+
+Se não houver acesso à página exata, transforme a passagem em paráfrase, retire as aspas e sinalize a necessidade de verificação.
+
 PROCESSO
 
 1. Antes do ensaio, apresente em poucas linhas:
@@ -100,6 +130,10 @@ PROCESSO
    - frases que soam prontas ou intercambiáveis com qualquer tema;
    - citações ou referências possivelmente inventadas;
    - excesso de subtítulos, listas ou simetria.
+   - marcadores de footnote sem referência correspondente;
+   - referências que não sustentam exatamente a frase à qual foram anexadas;
+   - citações literais sem página confirmada;
+   - alegações factuais importantes sem nota de rodapé.
 
 5. Reescreva os trechos problemáticos antes de entregar.
 
@@ -110,7 +144,8 @@ FORMATO DA ENTREGA
 - Resumo de até 240 caracteres.
 - Entre [NÚMERO] e [NÚMERO] palavras.
 - Corpo em Markdown compatível com a Civitas.
-- Notas de rodapé em Markdown para referências.
+- Notas de rodapé em Markdown obrigatórias para referências, com os marcadores posicionados imediatamente após as alegações sustentadas.
+- Lista completa das definições de footnotes ao final do artigo, antes de “Pontos que exigem verificação”.
 - Ao final, uma lista separada chamada “Pontos que exigem verificação”, apenas se houver alegações que não puderam ser confirmadas.
 
 ======================================================================
@@ -124,6 +159,9 @@ Não publique a primeira resposta automaticamente. Faça estas perguntas:
 - Cada seção acrescenta uma etapa do raciocínio?
 - A objeção seria reconhecida como justa por alguém que discorda?
 - Há alguma afirmação factual sem fonte?
+- Cada interpretação atribuída a um autor aponta para uma obra específica?
+- Toda citação literal possui página confirmada?
+- Cada marcador [^identificador] possui uma definição correspondente no final?
 - Alguma frase poderia aparecer, sem alterações, em um texto sobre outro assunto?
 - O texto possui ritmo excessivamente uniforme?
 - A conclusão decorre das premissas apresentadas?
