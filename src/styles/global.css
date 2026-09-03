@@ -216,3 +216,7 @@ body { padding: 4.5rem 0 0; }
   .nav-divider { width: 1px; height: 1.25rem; margin: 0 .3rem; }
   .home-shell, .page-shell { padding-top: 3.5rem; }
 }
+
+/* Reader media follows the text column */
+.article-cover { width: min(100% - 2rem, 40rem); }
+.article-content figure { width: 100%; margin: 2.5rem 0; transform: none; }
