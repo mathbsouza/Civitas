@@ -21,16 +21,16 @@ const next = posts[current - 1];
 <BaseLayout title={post.data.title} description={post.data.subtitle ?? post.data.excerpt} image={getPostCover(post)}>
   <article>
     <header class="article-header">
-      <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
+      <TagList tags={post.data.tags} />
       <h1 class="article-title">{post.data.title}</h1>
       {post.data.subtitle && <p class="article-subtitle">{post.data.subtitle}</p>}
-      <TagList tags={post.data.tags} />
+      <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
     </header>
     {post.data.cover && <figure class="article-cover"><img src={withBase(getPostCover(post))} alt="" loading="eager" /></figure>}
     <div class="article-content"><Content /></div>
   </article>
   <nav class="article-nav" aria-label="Textos adjacentes">
     {previous ? <a href={withBase(getPostPath(previous))}><small>←</small><strong>{previous.data.title}</strong></a> : <span></span>}
-    {next ? <a href={withBase(getPostPath(next))}><small>→</small><strong>{next.data.title}</strong></a> : <span></span>}
+    {next ? <a class="nav-next" href={withBase(getPostPath(next))}><small>→</small><strong>{next.data.title}</strong></a> : <span></span>}
   </nav>
 </BaseLayout>

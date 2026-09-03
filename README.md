@@ -13,7 +13,19 @@ npm run preview
 
 ## Publicar um texto
 
-Crie `src/content/posts/meu-texto/index.md`:
+Organize os textos em pastas temáticas e crie um `index.md` para cada artigo:
+
+```text
+src/content/posts/
+├── democracia/
+│   └── representacao-e-voto/index.md
+├── instituicoes/
+│   └── instituicoes-e-confianca/index.md
+└── republicanismo/
+    └── liberdade-e-limites/index.md
+```
+
+Por exemplo, crie `src/content/posts/democracia/meu-texto/index.md`:
 
 ```md
 ---

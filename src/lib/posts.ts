@@ -11,6 +11,7 @@ const postImageAssets = import.meta.glob<string>("../content/posts/**/*.{png,jpg
 
 export type PostSummary = {
   slug: string;
+  folder: string;
   url: string;
   title: string;
   subtitle?: string;
@@ -93,8 +94,15 @@ export function getExcerpt(post: PostEntry, maxLength = 180) {
 }
 
 export function toPostSummary(post: PostEntry, cover: string, url: string): PostSummary {
+  const slug = getPostSlug(post);
+  const segments = slug.split("/");
+  const folder = segments.length > 1
+    ? segments.slice(0, -1).map((segment) => segment.replace(/-/g, " ")).join(" / ")
+    : "geral";
+
   return {
-    slug: getPostSlug(post),
+    slug,
+    folder,
     url,
     title: post.data.title,
     subtitle: post.data.subtitle,

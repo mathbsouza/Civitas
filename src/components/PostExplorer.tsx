@@ -10,6 +10,13 @@ export default function PostExplorer({ posts }: { posts: PostSummary[] }) {
       : posts;
   }, [posts, query]);
 
+  const groups = useMemo(() => {
+    return filtered.reduce<Record<string, PostSummary[]>>((result, post) => {
+      (result[post.folder] ??= []).push(post);
+      return result;
+    }, {});
+  }, [filtered]);
+
   return (
     <div className="explorer">
       <label className="search-row">
@@ -19,13 +26,20 @@ export default function PostExplorer({ posts }: { posts: PostSummary[] }) {
         {query && <button className="clear-button" type="button" onClick={() => setQuery("")} aria-label="Limpar pesquisa">×</button>}
       </label>
 
-      <nav className="vertical-index" aria-label="Textos">
-        {filtered.map((post, index) => (
-          <a className="index-item" href={post.url} key={post.slug}>
-            <span className="index-number">{String(index + 1).padStart(2, "0")}</span>
-            <span className="index-title">{post.title}</span>
-            <time dateTime={post.date}>{post.formattedDate}</time>
-          </a>
+      <nav className="folder-index" aria-label="Textos por pasta">
+        {Object.entries(groups).map(([folder, entries]) => (
+          <section className="folder-group" key={folder}>
+            <h2 className="folder-name">{folder}</h2>
+            <div className="vertical-index">
+              {entries.map((post, index) => (
+                <a className="index-item" href={post.url} key={post.slug}>
+                  <span className="index-number">{String(index + 1).padStart(2, "0")}</span>
+                  <span className="index-title">{post.title}</span>
+                  <time dateTime={post.date}>{post.formattedDate}</time>
+                </a>
+              ))}
+            </div>
+          </section>
         ))}
       </nav>
 
