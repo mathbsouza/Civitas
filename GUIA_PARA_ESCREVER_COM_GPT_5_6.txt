@@ -1,0 +1,201 @@
+GUIA CIVITAS — COMO PEDIR BONS TEXTOS AO CHATGPT 5.6
+
+Este arquivo contém um briefing reutilizável para produzir ensaios político-filosóficos com voz humana, argumento claro e imagens minimalistas. Substitua os campos entre colchetes antes de enviar.
+
+======================================================================
+1. ANTES DE ESCREVER O PROMPT
+======================================================================
+
+Defina cinco coisas:
+
+1. Tema: o assunto geral do ensaio.
+2. Problema: a pergunta específica que o texto precisa resolver.
+3. Tese: a posição que será defendida.
+4. Interlocutores: autores, ideias ou argumentos com os quais o texto dialoga.
+5. Evidências: livros, artigos, documentos ou dados que podem fundamentar as afirmações.
+
+Não peça apenas “escreva um texto sobre democracia”. Isso costuma produzir introduções genéricas, enumerações escolares e conclusões vazias.
+
+Prefira algo como:
+
+“Escreva um ensaio que investigue se eleições são suficientes para caracterizar uma democracia. Defenda que eleições são necessárias, mas insuficientes, porque a democracia também depende de contestação pública, alternância real de poder e limites institucionais.”
+
+======================================================================
+2. PROMPT PRONTO PARA O CHATGPT 5.6
+======================================================================
+
+PAPEL
+
+Você é meu editor e coautor de ensaios político-filosóficos para a Civitas, um repositório de textos sobre filosofia política, instituições e vida pública.
+
+OBJETIVO
+
+Produza um ensaio autoral em português brasileiro sobre [TEMA].
+
+O problema central é: [PERGUNTA OU PROBLEMA].
+
+A tese a ser defendida é: [TESE].
+
+O texto deve dialogar com: [AUTORES, CONCEITOS, CASOS OU ARGUMENTOS].
+
+Use estas fontes ou materiais como base: [FONTES FORNECIDAS].
+
+Se eu não fornecer fontes suficientes, não invente referências, citações, páginas, datas, estatísticas ou posições atribuídas a autores. Identifique claramente quais afirmações precisam de pesquisa adicional.
+
+CRITÉRIOS DE QUALIDADE
+
+- Construa um argumento, não um panorama enciclopédico.
+- Apresente a questão concreta logo no início, sem frases universais sobre “a humanidade”, “a sociedade contemporânea” ou “desde os primórdios”.
+- Formule a tese cedo e faça cada seção contribuir para demonstrá-la.
+- Diferencie descrição, interpretação, inferência e opinião normativa.
+- Defina conceitos apenas quando a definição for necessária ao argumento.
+- Inclua pelo menos uma objeção intelectualmente forte à tese.
+- Responda à objeção sem caricaturá-la.
+- Use exemplos concretos para esclarecer abstrações, não para substituir argumentos.
+- Preserve ambiguidades reais quando elas não puderem ser resolvidas honestamente.
+- Termine mostrando o que o argumento permite concluir e o que permanece em aberto.
+
+ESTILO
+
+- Escreva com clareza, precisão e sobriedade.
+- Use prosa contínua, com variação natural no tamanho das frases e dos parágrafos.
+- Prefira verbos concretos e substantivos específicos.
+- Empregue primeira pessoa apenas quando houver uma posição autoral real a assumir.
+- Permita alguma assimetria e tensão na prosa. Não faça todos os parágrafos terem o mesmo formato.
+- Use subtítulos informativos somente quando ajudarem a progressão do argumento.
+- Preserve termos técnicos indispensáveis, explicando-os de maneira breve no próprio fluxo do texto.
+
+EVITE “AI SLOP”
+
+- Não use introduções cerimoniais ou grandiosas.
+- Não escreva “em um mundo cada vez mais complexo”, “ao longo da história”, “é importante destacar”, “vale ressaltar”, “nesse contexto”, “em última análise” ou equivalentes automáticos, salvo quando forem semanticamente indispensáveis.
+- Não use “não apenas X, mas também Y” repetidamente.
+- Não monte sequências artificiais de três itens apenas para criar ritmo.
+- Não repita a tese com palavras diferentes no fim de cada seção.
+- Não use perguntas retóricas em série.
+- Não use metáforas vagas como “tecido social”, “jornada”, “farol”, “mosaico”, “pilares” ou “dança” sem função conceitual precisa.
+- Não transforme todas as divergências em equilíbrio conciliador. Se dois argumentos forem incompatíveis, mostre a incompatibilidade.
+- Não atribua profundidade a uma frase apenas por torná-la abstrata.
+- Não use tom promocional, motivacional, professoral ou excessivamente seguro.
+- Não acrescente uma seção chamada “Conclusão” por hábito. Use-a somente se a arquitetura do ensaio exigir.
+- Não invente citações literais. Quando não tiver o trecho exato, faça uma paráfrase identificada como tal.
+
+PROCESSO
+
+1. Antes do ensaio, apresente em poucas linhas:
+   - a tese;
+   - a sequência do argumento;
+   - a objeção mais forte;
+   - as lacunas factuais ou bibliográficas existentes.
+
+2. Aguarde minha aprovação se houver uma decisão conceitual que possa alterar substancialmente a tese. Caso contrário, prossiga.
+
+3. Escreva a primeira versão.
+
+4. Faça uma revisão silenciosa procurando:
+   - afirmações sem sustentação;
+   - conceitos usados em sentidos diferentes;
+   - parágrafos que apenas repetem outros;
+   - transições genéricas;
+   - frases que soam prontas ou intercambiáveis com qualquer tema;
+   - citações ou referências possivelmente inventadas;
+   - excesso de subtítulos, listas ou simetria.
+
+5. Reescreva os trechos problemáticos antes de entregar.
+
+FORMATO DA ENTREGA
+
+- Título específico, sem fórmulas como “Reflexões sobre...” ou “Uma análise de...”.
+- Subtítulo com a pergunta ou tensão central.
+- Resumo de até 240 caracteres.
+- Entre [NÚMERO] e [NÚMERO] palavras.
+- Corpo em Markdown compatível com a Civitas.
+- Notas de rodapé em Markdown para referências.
+- Ao final, uma lista separada chamada “Pontos que exigem verificação”, apenas se houver alegações que não puderam ser confirmadas.
+
+======================================================================
+3. COMO REVISAR O RESULTADO
+======================================================================
+
+Não publique a primeira resposta automaticamente. Faça estas perguntas:
+
+- A tese pode ser expressa em uma frase clara?
+- O texto realmente demonstra a tese ou apenas fala ao redor dela?
+- Cada seção acrescenta uma etapa do raciocínio?
+- A objeção seria reconhecida como justa por alguém que discorda?
+- Há alguma afirmação factual sem fonte?
+- Alguma frase poderia aparecer, sem alterações, em um texto sobre outro assunto?
+- O texto possui ritmo excessivamente uniforme?
+- A conclusão decorre das premissas apresentadas?
+
+Prompt curto para uma segunda revisão:
+
+“Revise o ensaio como um editor cético. Corte frases genéricas, repetições, transições automáticas e abstrações sem função. Preserve a tese, os fatos, o gênero e o tamanho aproximado. Não deixe a prosa telegráfica. Aponte separadamente qualquer afirmação que precise de fonte ou qualquer citação cuja redação exata não esteja confirmada.”
+
+======================================================================
+4. IMAGENS PARA A CIVITAS
+======================================================================
+
+A imagem deve funcionar como uma composição editorial, não como uma ilustração literal de cada frase do título.
+
+DIREÇÃO VISUAL
+
+- Composição minimalista e geométrica.
+- Poucos elementos, com bastante espaço negativo.
+- Formas planas e cores sólidas.
+- Paleta curta: preto, branco e no máximo uma ou duas cores de apoio.
+- Contraste alto e hierarquia visual evidente.
+- Aparência de cartaz editorial, gravura simplificada, diagrama abstrato ou símbolo cívico.
+- Bordas limpas, textura inexistente ou muito discreta.
+- Perspectiva frontal ou ortográfica.
+- Um único conceito visual dominante.
+- Proporção recomendada para capa: 16:9, preferencialmente 1600 × 900.
+
+EVITE APARÊNCIA GENÉRICA DE IA
+
+- Não use multidões genéricas, apertos de mão, lâmpadas, cérebros, globos, balanças da justiça ou cidades futuristas como atalhos visuais.
+- Não use pessoas com feições artificiais quando uma forma abstrata puder comunicar melhor a ideia.
+- Não use brilho cinematográfico, névoa, partículas, luz volumétrica ou excesso de detalhes.
+- Não use gradientes coloridos por padrão.
+- Não use composição épica, surrealismo aleatório ou colagens de símbolos sem relação estrutural.
+- Não insira palavras, letras, legendas, títulos, números ou tipografia na imagem, salvo solicitação explícita.
+- Não gere texto falso, pseudo-latim, símbolos ilegíveis, marcas d’água ou interfaces fictícias.
+- Não tente representar cinco conceitos ao mesmo tempo.
+- Não imite o estilo identificável de um artista vivo.
+
+======================================================================
+5. PROMPT PRONTO PARA CRIAR A IMAGEM
+======================================================================
+
+Crie uma imagem editorial minimalista para um ensaio da Civitas.
+
+Tema do ensaio: [TEMA].
+Tese ou tensão central: [TESE OU CONTRASTE].
+Metáfora visual escolhida: [UMA ÚNICA METÁFORA VISUAL CONCRETA].
+
+Composição: [DESCREVA A POSIÇÃO DE DUAS OU TRÊS FORMAS].
+Paleta: fundo [COR], formas em [COR] e [COR OPCIONAL].
+Estética: formas geométricas planas, cores sólidas, contornos limpos, contraste alto, bastante espaço negativo, aparência de cartaz editorial sóbrio.
+Enquadramento frontal, composição equilibrada mas não perfeitamente simétrica, proporção 16:9.
+
+Não incluir texto, letras, números, logotipos, marcas d’água, pessoas fotorrealistas, gradientes, brilho, partículas, luz cinematográfica, textura 3D ou detalhes decorativos sem função.
+
+A imagem deve comunicar [IDEIA PRINCIPAL] por meio da relação espacial entre as formas, sem ilustrar literalmente o título.
+
+======================================================================
+6. EXEMPLO DE PROMPT VISUAL
+======================================================================
+
+Crie uma imagem editorial minimalista para um ensaio sobre limites institucionais ao poder.
+
+A tensão central é a diferença entre exercer poder e estar submetido a regras. Use como metáfora visual um grande círculo preto interrompido por uma linha branca vertical estreita. Posicione o círculo ligeiramente fora do centro, fazendo a linha atravessá-lo e continuar até as bordas superior e inferior.
+
+Fundo branco, círculo preto e um pequeno quadrado vermelho escuro no ponto de interseção. Formas geométricas planas, cores sólidas, contornos precisos, contraste alto, bastante espaço negativo e aparência de cartaz editorial sóbrio. Perspectiva frontal, proporção 16:9.
+
+Não incluir texto, letras, números, pessoas, edifícios, balanças, apertos de mão, gradientes, sombras 3D, brilho, partículas, marcas d’água ou ornamentos.
+
+======================================================================
+7. PRINCÍPIO FINAL
+======================================================================
+
+O modelo deve ajudar a tornar uma ideia mais clara, não esconder a ausência de uma ideia atrás de fluência. Um bom ensaio precisa conter uma pergunta real, uma tese contestável, razões que a sustentem e limites reconhecidos. Uma boa imagem precisa conter uma decisão visual, não uma coleção de efeitos.
