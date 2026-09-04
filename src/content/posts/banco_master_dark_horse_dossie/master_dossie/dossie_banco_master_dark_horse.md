@@ -1,86 +1,50 @@
 ---
 title: "O banco que comprava proximidade"
 subtitle: "Como o caso Banco Master conecta risco financeiro, BRB, FGC, Dark Horse e uma rede suprapartidária de influência."
-date: "2026-09-03"
+date: "2026-09-04"
 author: "Matheus Bento de Souza"
 tags: ["Banco Master", "Dark Horse", "instituições", "política brasileira"]
 published: true
 excerpt: "Um dossiê sobre a rede financeira e política construída em torno do Banco Master, distinguindo relações, benefícios, influência e suspeitas criminais."
 ---
+## Que banco era o Master antes do escândalo?
 
-> **Atualização deste dossiê:** 3 de setembro de 2026, 16h (horário de Brasília). Como o caso está em rápida evolução, fatos posteriores a esse corte não estão incorporados.
+Vorcaro assumiu o controle do antigo Banco Máxima em 2019 e o rebatizou como Banco Master em 2021. O crescimento posterior foi agressivo.[^1] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
-<aside class="case-map">
-  <span class="case-map-label">Mapa do caso</span>
-  <div class="case-map-grid">
-    <div><strong>01 · Modelo financeiro</strong><p>Captação cara, ativos difíceis de avaliar, FGC e a tentativa de venda ao BRB.</p></div>
-    <div><strong>02 · Rede de acesso</strong><p>Relações comerciais e políticas distribuídas entre partidos, governos e Poderes.</p></div>
-    <div><strong>03 · Dark Horse</strong><p>Financiamento do filme, fluxo internacional de recursos e participação da família Bolsonaro.</p></div>
-    <div><strong>04 · Grau de prova</strong><p>Separação entre fatos documentados, indícios investigados e afirmações ainda não demonstradas.</p></div>
-  </div>
-</aside>
+### CDBs e FGC
 
-<figure class="evidence-diagram flow-diagram" aria-labelledby="diagram-modelo-title">
-  <figcaption id="diagram-modelo-title">
-    <span>Diagrama 01</span>
-    <strong>Por que acesso institucional tinha valor para o banco</strong>
-  </figcaption>
-  <div class="diagram-flow" role="img" aria-label="Captação cara pressiona a liquidez, aumenta a dependência de confiança e torna saídas institucionais mais valiosas">
-    <div class="diagram-node"><small>Entrada</small><strong>CDBs caros</strong><p>Captação contínua a taxas elevadas.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node"><small>Pressão</small><strong>Liquidez</strong><p>Ativos longos e difíceis de avaliar.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node"><small>Proteção</small><strong>FGC</strong><p>Confiança do investidor na cobertura.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node"><small>Saída</small><strong>BRB + acesso</strong><p>Solução societária e interlocução pública.</p></div>
-  </div>
-  <p class="diagram-note">O fluxo resume o incentivo econômico descrito no dossiê; não representa, sozinho, prova de crime.</p>
-</figure>
+Uma das principais ferramentas de captação eram CDBs com remuneração muito acima do padrão de bancos comparáveis. Reportagens registraram papéis chegando a **140% do CDI**, enquanto outros bancos médios ofereciam em torno de 115%.[^2] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/apos-master-bc-quer-deixar-mais-clara-remuneracao-de-corretoras-na-venda-de-cdbs.shtml) Isso, por si só, não é crime. Bancos pequenos e arriscados precisam pagar mais para captar dinheiro. O problema aparece quando se combina:
 
----
-
-## Como o Banco Master se tornou dependente de acesso político?
-
-### Que banco era o Master antes do escândalo?
-
-Para entender por que Daniel Vorcaro precisava de relações políticas tão amplas, é preciso começar pelo desenho econômico do banco.
-
-Vorcaro assumiu o controle do antigo Banco Máxima em 2019 e o rebatizou como Banco Master em 2022. O crescimento posterior foi agressivo. Uma das principais ferramentas de captação eram CDBs com remuneração muito acima do padrão de bancos comparáveis. Reportagens registraram papéis chegando a **140% do CDI**, enquanto outros bancos médios ofereciam em torno de 115%.[^1] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-
-Isso, por si só, não é crime. Bancos pequenos e arriscados precisam pagar mais para captar dinheiro. O problema aparece quando se combina:
-
-- captação muito cara; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-- ativos de longo prazo, ilíquidos ou de avaliação difícil; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-- crescimento rápido; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-- percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+- captação muito cara;
+- ativos de longo prazo, ilíquidos ou de avaliação difícil;
+- crescimento rápido;
+- percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**.
 
 O FGC não é dinheiro orçamentário da União, mas um fundo privado financiado pelas instituições participantes do sistema. Ainda assim, ele altera os incentivos econômicos. Se um investidor aceita um CDB de um banco muito arriscado porque sabe que até R$ 250 mil existe cobertura, o banco consegue captar recursos em volume muito maior do que conseguiria apenas com sua reputação. No caso Master, distribuidores e assessores chegaram a usar explicitamente a combinação “rentabilidade alta + cobertura do FGC” como argumento comercial.[^2] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/apos-master-bc-quer-deixar-mais-clara-remuneracao-de-corretoras-na-venda-de-cdbs.shtml)
 
-A consequência é um problema clássico de **risco moral**: quem decide emprestar dinheiro ao banco pode ter menos incentivo para avaliar a qualidade dos ativos porque acredita estar protegido pelo fundo. Para o emissor, isso cria espaço para captar a taxas elevadas e tentar compensar o custo investindo em operações igualmente mais arriscadas.
+### Credcesta
+
+A captação por CDB era apenas um lado da expansão. **Outro motor importante do Master foi o Credcesta**, produto de crédito consignado levado ao banco por Augusto Lima. O cartão combinava crédito descontado diretamente da folha ou do benefício com serviços adicionais, como descontos em farmácias, seguro de vida e auxílio-funeral. Antes de chegar ao INSS, o produto já havia se espalhado por estados e municípios; posteriormente alcançou **24 estados e 176 municípios**.[^57] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/04/ex-socio-do-master-estrutura-fundo-para-manter-operacao-do-credcesta.shtml)
+
+O valor econômico desse negócio é fácil de entender. No crédito consignado, a parcela é descontada diretamente do salário, aposentadoria ou benefício do tomador. Isso reduz substancialmente o risco de inadimplência para a instituição financeira e permite originar grandes carteiras de crédito. Para um banco em rápida expansão, portanto, conseguir acesso a folhas de pagamento e a novos grupos de beneficiários podia valer bilhões.Foi nesse contexto que mudanças regulatórias federais em **2022**, durante o governo Jair Bolsonaro, ampliaram o mercado potencial.
+
+- A **Medida Provisória nº 1.106, de 17 de março de 2022**, ampliou a margem do consignado para segurados do RGPS e abriu a modalidade para beneficiários do BPC e de programas federais de transferência de renda.[^44] [Planalto ↗](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/mpv/mpv1106.htm) A norma também reservou até 5% da margem para operações com cartão de crédito ou cartão consignado de benefício; posteriormente, a MP foi convertida na **Lei nº 14.431/2022**.[^47] [Planalto ↗](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14431.htm)
+- Em **25 de março de 2022**, a Instrução Normativa nº 131 passou a admitir operações com cartão consignado de benefício.[^46] [INSS ↗](https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022) Em **7 de junho**, o Master enviou ofício pedindo que seu acordo de cooperação com o INSS fosse ampliado para incluir justamente esse produto. Em **22 de junho**, foi editada a **Instrução Normativa nº 134**, detalhando a modalidade, e em **13 de julho** o INSS aprovou o termo aditivo que permitiu ao Master operá-la. Segundo levantamento da *Folha de S.Paulo*, o banco foi a **primeira instituição financeira a utilizar o novo regramento**.[^45] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/04/inss-sob-bolsonaro-alterou-regras-e-contemplou-credcesta-16-dias-apos-oficio-do-master.shtml)
+
+O efeito econômico foi enorme. Dados da Dataprev divulgados pelo próprio INSS mostram que as operações associadas ao Credcesta passaram de cerca de **104,8 mil contratos em 2022 para 2,75 milhões em 2024** — crescimento superior a 2.500% em apenas dois anos.[^58] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/02/ligado-ao-master-credcesta-chegou-a-27-mi-de-contratos-de-consignado-e-tem-padrao-de-falhas-aponta-inss.shtml) A gestão atual do INSS afirma ter identificado desconformidades nas operações associadas ao produto; a defesa de Vorcaro sustenta que o Master atuou de acordo com as normas e procedimentos vigentes.[^58] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/02/ligado-ao-master-credcesta-chegou-a-27-mi-de-contratos-de-consignado-e-tem-padrao-de-falhas-aponta-inss.shtml)
+
+O banco não dependia apenas de **dinheiro entrando** por meio dos CDBs protegidos pelo FGC. Dependia também de **mercados regulados nos quais pudesse transformar essa captação em ativos rentáveis**. Consignados de servidores, aposentados e pensionistas eram particularmente atraentes porque combinavam escala, desconto automático e risco de crédito relativamente baixo.
 
 Quando o Banco Central decretou a liquidação do conglomerado em 18 de novembro de 2025, afirmou oficialmente que a medida foi motivada por **grave crise de liquidez**, comprometimento significativo da situação econômico-financeira e graves violações às normas do Sistema Financeiro Nacional.[^3] [Banco Central do Brasil ↗](https://www.bcb.gov.br/detalhenoticia/20936/nota) Estimativas posteriores apontaram que as liquidações do conglomerado poderiam gerar cerca de **R$ 51,8 bilhões** em ressarcimentos pelo FGC — o maior desembolso da história do fundo.[^4] [DIEESE ↗](https://www.dieese.org.br/notatecnica/2026/notaTec291BancoMaster/index.html)
 
-Esse ponto é decisivo: o Master não era apenas um banco com bons contatos. Era uma instituição cujo modelo econômico dependia de confiança contínua, captação permanente e capacidade de convencer investidores e autoridades de que seus ativos valiam o que os balanços afirmavam que valiam.
+## Por que a compra pelo BRB poderia salvar o banco?
 
----
+Em março de 2025, o Banco de Brasília — BRB, controlado pelo governo do Distrito Federal — anunciou um acordo para adquirir **58% do capital total do Banco Master**, por uma operação estimada em cerca de R$ 2 bilhões.[^5] [Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm) A transação era potencialmente salvadora para o Master. Um banco público capitalizado absorveria parte importante da estrutura e daria ao grupo de Vorcaro um novo eixo de estabilidade. O problema é que o Banco Central já examinava operações envolvendo carteiras de crédito negociadas entre Master e BRB:
 
-### Por que a compra pelo BRB poderia salvar o banco?
+- A investigação que depois originou a Operação Compliance Zero passou a trabalhar com a suspeita de que o Master teria produzido ou adquirido **carteiras de crédito consignado sem lastro**, compostas por tomadores inexistentes, e repassado esses ativos ao BRB. Em novembro de 2025, a estimativa divulgada era de **R$ 12,2 bilhões** em carteiras de crédito inexistentes vendidas ao banco público.[^6] [UOL ↗](https://www.bol.uol.com.br/noticias/2025/11/18/documentos-falsos-e-fraude-de-r-122-bi-o-que-bc-mpf-e-pf-acharam-sobre-master-e-brb.htm)
+- A eventual incorporação do Master pelo BRB teria um efeito adicional: os ativos problemáticos poderiam se misturar ao balanço maior do banco público, dificultando a identificação do buraco como uma carteira específica.[^7] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/investigacao-aponta-que-master-usou-negocio-com-brb-para-esconder-carteira-falsa-de-consignado.shtml)
 
-Em março de 2025, o Banco de Brasília — BRB, controlado pelo governo do Distrito Federal — anunciou um acordo para adquirir **58% do capital total do Banco Master**, por uma operação estimada em cerca de R$ 2 bilhões.[^5] [Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
-
-A transação era potencialmente salvadora para o Master. Um banco público capitalizado absorveria parte importante da estrutura e daria ao grupo de Vorcaro um novo eixo de estabilidade. O problema é que o Banco Central já examinava operações envolvendo carteiras de crédito negociadas entre Master e BRB.
-
-A investigação que depois originou a Operação Compliance Zero passou a trabalhar com a suspeita de que o Master teria produzido ou adquirido **carteiras de crédito consignado sem lastro**, compostas por tomadores inexistentes, e repassado esses ativos ao BRB. Em novembro de 2025, a estimativa divulgada era de **R$ 12,2 bilhões** em carteiras de crédito inexistentes vendidas ao banco público.[^6] [UOL ↗](https://www.bol.uol.com.br/noticias/2025/11/18/documentos-falsos-e-fraude-de-r-122-bi-o-que-bc-mpf-e-pf-acharam-sobre-master-e-brb.htm)
-
-Segundo investigadores, a eventual incorporação do Master pelo BRB teria um efeito adicional: os ativos problemáticos poderiam se misturar ao balanço maior do banco público, dificultando a identificação do buraco como uma carteira específica.[^7] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/investigacao-aponta-que-master-usou-negocio-com-brb-para-esconder-carteira-falsa-de-consignado.shtml)
-
-O Banco Central rejeitou a compra em **3 de setembro de 2025**.[^8] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb) Pouco mais de dois meses depois, Vorcaro foi preso e o Master foi liquidado.
-
-A sequência temporal importa porque mostra que 2024 e 2025 foram anos em que Vorcaro tinha enorme incentivo para mobilizar acesso político, reputacional e institucional. Não é necessário pressupor uma grande conspiração coordenada. Para um banqueiro enfrentando risco regulatório, o simples fato de conhecer ministros, senadores, governadores, dirigentes partidários, ex-presidentes, membros do Judiciário e pessoas próximas ao Banco Central já tem valor econômico.
-
-É nesse cenário que a política deixa de ser uma história lateral e passa a fazer parte do caso.
-
----
+O Banco Central rejeitou a compra em **3 de setembro de 2025**.[^8] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb) Pouco mais de dois meses depois, Vorcaro foi preso e o Master foi liquidado. A sequência temporal importa porque mostra que 2024 e 2025 foram anos em que Vorcaro tinha enorme incentivo para mobilizar acesso político, reputacional e institucional. **Não é necessário pressupor uma grande conspiração coordenada.** Para um banqueiro enfrentando risco regulatório, o simples fato de conhecer ministros, senadores, governadores, dirigentes partidários, ex-presidentes, membros do Judiciário e pessoas próximas ao Banco Central já tem valor econômico.
 
 ### O que a Operação Compliance Zero passou a investigar?
 
@@ -91,83 +55,40 @@ Isso ajuda a separar duas perguntas que frequentemente são misturadas:
 - **O banco fraudou ou mascarou ativos?** Esse é o núcleo financeiro da investigação. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 - **O banco pagava, presenteava ou contratava pessoas influentes para obter proteção ou decisões favoráveis?** Esse é o núcleo político-institucional. [Contexto: Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
-A existência de contratos ou relações com políticos não demonstra automaticamente corrupção. Empresas contratam ex-ministros, advogados e consultores. Políticos participam de eventos e empresários financiam projetos privados. O salto jurídico ocorre quando aparece **vantagem indevida vinculada a um ato funcional**, promessa de influência, intermediação ilícita ou ocultação da verdadeira finalidade de um pagamento.
+A existência de contratos ou relações com políticos não demonstra automaticamente corrupção. Empresas contratam ex-ministros, advogados e consultores. Políticos participam de eventos e empresários financiam projetos privados. O salto jurídico ocorre quando aparece **vantagem indevida vinculada a um ato funcional**, promessa de influência, intermediação ilícita ou ocultação da verdadeira finalidade de um pagamento. No caso Master, alguns núcleos têm apenas proximidade ou contratos declarados; outros já apresentam mensagens em que os investigadores dizem enxergar uma contrapartida concreta.
 
-No caso Master, alguns núcleos têm apenas proximidade ou contratos declarados; outros já apresentam mensagens em que os investigadores dizem enxergar uma contrapartida concreta.
+## Por que Vorcaro deve ser entendido como investidor em acesso?
 
----
-
-### Por que Vorcaro deve ser entendido como investidor em acesso?
-
-<figure class="evidence-diagram network-diagram" aria-labelledby="diagram-rede-title">
-  <figcaption id="diagram-rede-title">
-    <span>Diagrama 02</span>
-    <strong>Uma rede transversal, não um vínculo partidário único</strong>
-  </figcaption>
-  <div class="network-map" role="img" aria-label="Banco Master no centro de relações com Executivo, Congresso, Judiciário, bancos públicos e projetos privados">
-    <div class="network-node network-core"><small>Núcleo</small><strong>Banco Master</strong><span>Daniel Vorcaro</span></div>
-    <div class="network-node"><small>Poder</small><strong>Executivo</strong><span>governo e ministros</span></div>
-    <div class="network-node"><small>Poder</small><strong>Congresso</strong><span>senadores e partidos</span></div>
-    <div class="network-node"><small>Poder</small><strong>Justiça</strong><span>autoridades e escritórios</span></div>
-    <div class="network-node"><small>Instituição</small><strong>BRB</strong><span>banco público</span></div>
-    <div class="network-node"><small>Projeto</small><strong>Dark Horse</strong><span>financiamento privado</span></div>
-  </div>
-  <p class="diagram-note">As linhas indicam relações documentadas de natureza desigual. Proximidade, contrato e suspeita criminal não são categorias equivalentes.</p>
-</figure>
-
-Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
-
-Esse dado muda a leitura do caso. O padrão não é ideológico. É de **diversificação de acesso**.
-
-Um banqueiro pode querer portas abertas em quatro lugares diferentes ao mesmo tempo:
+Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml) Um banqueiro pode querer portas abertas em quatro lugares diferentes ao mesmo tempo:
 
 - governo federal; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 - Congresso; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 - governos locais e bancos públicos; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 - Judiciário e sistema de Justiça. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
-Se uma relação falha, outra pode funcionar. Se muda o governo, a rede continua útil. Isso explica por que tentar reduzir o Master a “caso do PT” ou “caso do bolsonarismo” é analiticamente pobre. Há relações relevantes com ambos — e com o Centrão, o MDB, o União Brasil, o PSDB e integrantes do Judiciário.
-
-A questão correta é: **qual foi a natureza de cada relação e existe evidência de contrapartida?**
-
----
+Se uma relação falha, outra pode funcionar. Se muda o governo, a rede continua útil. Isso explica por que tentar reduzir o Master a “caso do PT” ou “caso do bolsonarismo” é analiticamente pobre. Há relações relevantes com ambos — e com o Centrão, o MDB, o União Brasil, o PSDB e integrantes do Judiciário. A questão correta é: **qual foi a natureza de cada relação e existe evidência de contrapartida?**
 
 ## O que liga o Banco Master ao governo Lula e ao PT?
 
-### O que prova a reunião de Lula com Vorcaro fora da agenda?
-
-Em **4 de dezembro de 2024**, Lula recebeu Daniel Vorcaro no Palácio do Planalto em uma reunião que não constava da agenda oficial. Vorcaro foi levado pelo ex-ministro **Guido Mantega**; também participou Gabriel Galípolo, então indicado para assumir a presidência do Banco Central.[^11] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
-
-A reunião é politicamente relevante por três motivos.
+Em **4 de dezembro de 2024**, Lula recebeu Daniel Vorcaro no Palácio do Planalto em uma reunião que não constava da agenda oficial. Vorcaro foi levado pelo ex-ministro **Guido Mantega**; também participou Gabriel Galípolo, então indicado para assumir a presidência do Banco Central.[^11] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/) A reunião é politicamente relevante por três motivos.
 
 Primeiro, porque demonstra acesso ao nível máximo do Executivo. Segundo, porque o encontro ocorreu quando o Master já buscava soluções para sua situação financeira. Terceiro, porque a presença de Galípolo colocava na sala o futuro chefe da autoridade monetária responsável por supervisionar o banco.
 
 Mas o que a reunião **prova**?
 
-Prova que Vorcaro teve acesso a Lula e Galípolo. Não prova, sozinha, que Lula interveio em favor do banco. A versão divulgada pelo governo foi justamente a contrária: Lula teria ouvido Vorcaro e afirmado que as questões eram técnicas e deveriam ser tratadas pelo Banco Central.[^12] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/lula-esteve-com-vorcaro-em-encontro-fora-da-agenda-em-dezembro-de-2024/)
+- Prova que Vorcaro teve acesso a Lula e Galípolo. Não prova, sozinha, que Lula interveio em favor do banco. A versão divulgada pelo governo foi justamente a contrária: Lula teria ouvido Vorcaro e afirmado que as questões eram técnicas e deveriam ser tratadas pelo Banco Central.[^12] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/lula-esteve-com-vorcaro-em-encontro-fora-da-agenda-em-dezembro-de-2024/)
+- Mensagens posteriores atribuídas a Vorcaro mostram que ele considerou o encontro “ótimo” e relatou à namorada que Lula chamou Galípolo e ministros para a conversa.[^13] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/amp/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml) Isso mostra a percepção de Vorcaro de que a reunião foi positiva; não demonstra que tenha obtido uma decisão ilegal.
 
-Mensagens posteriores atribuídas a Vorcaro mostram que ele considerou o encontro “ótimo” e relatou à namorada que Lula chamou Galípolo e ministros para a conversa.[^13] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/amp/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml) Isso mostra a percepção de Vorcaro de que a reunião foi positiva; não demonstra que tenha obtido uma decisão ilegal.
+### Os R$ 14 milhões pagos a Mantega são relevantes?
 
-Portanto, essa ponta deve ser classificada como **acesso político relevante, mas sem contrapartida ilícita demonstrada até o corte deste texto**.
-
----
-
-### Por que os R$ 14 milhões pagos a Mantega são relevantes?
-
-A relação com Mantega é mais concreta financeiramente. Dados fiscais divulgados pela imprensa indicam que o Master pagou **R$ 14 milhões** à Pollaris Consultoria, empresa do ex-ministro da Fazenda, entre 2024 e 2025.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
-
-Mantega afirma que prestou consultoria econômico-financeira e que não tinha conhecimento de irregularidades no banco. A contratação privada, isoladamente, é lícita.
+A relação com Mantega é mais concreta financeiramente. Dados fiscais divulgados pela imprensa indicam que o Master pagou **R$ 14 milhões** à Pollaris Consultoria, empresa do ex-ministro da Fazenda, entre 2024 e 2025.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml) Mantega afirma que prestou consultoria econômico-financeira e que não tinha conhecimento de irregularidades no banco. A contratação privada, isoladamente, é lícita.
 
 O que torna o episódio politicamente relevante é a combinação de duas funções exercidas por Mantega:
 
-1. ele era consultor remunerado do Master; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
-2. foi ele quem levou Vorcaro ao encontro com Lula. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+- Ele era consultor remunerado do Master; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
+- Foi ele quem levou Vorcaro ao encontro com Lula. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
 Essa combinação não prova tráfico de influência. Para isso seria necessário demonstrar que o pagamento tinha como finalidade remunerar a influência de Mantega sobre agentes públicos ou obter ato funcional específico. Mas ela produz uma pergunta legítima: **a consultoria era apenas econômica ou o valor do ex-ministro também estava em sua capacidade de abrir portas?**
-
-Até agora, o que existe publicamente sustenta a pergunta, não uma conclusão penal.
-
----
 
 ### O contrato da família Lewandowski criou conflito institucional?
 
@@ -181,13 +102,9 @@ Uma representação ao Tribunal de Contas da União pediu apuração do contrato
 
 Outro detalhe relevante: segundo a Folha, **Jaques Wagner** foi quem indicou Lewandowski ao banco quando Vorcaro procurava um jurista.[^14] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml) Assim, a conexão entre Master e Lewandowski também passa por um dos principais líderes do PT no Senado.
 
----
-
 ### Por que o caso de Jaques Wagner é juridicamente mais sensível?
 
-A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^16] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
-
-Segundo a investigação, estruturas ligadas ao Master teriam proporcionado ao senador:
+A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^16] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm) Segundo a investigação, estruturas ligadas ao Master teriam proporcionado ao senador:
 
 - apartamento em Salvador avaliado em aproximadamente R$ 2,5 milhões; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 - voos em aeronaves ligadas a Augusto Lima, ex-sócio de Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
@@ -201,10 +118,6 @@ Wagner nega irregularidades e já afirmou que sua relação com Vorcaro seria �
 
 Aqui a distinção jurídica é fundamental. Se os benefícios existiram, ainda é preciso responder: **qual era a contrapartida?** A corrupção não se completa apenas com um empresário pagando algo a um político; é preciso vincular a vantagem ao exercício da função pública, ainda que o ato pretendido não chegue a ser praticado.
 
-A investigação, portanto, está em um estágio mais grave do que o caso Lula/Vorcaro ou a consultoria de Mantega, mas ainda não equivale a condenação.
-
----
-
 ### Qual é a relevância da empresa da nora de Wagner?
 
 Documentos fiscais também registraram cerca de **R$ 12 milhões** pagos entre 2022 e 2025 à BN Financeira, empresa de Bonnie Bonilha, nora de Jaques Wagner.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
@@ -213,31 +126,75 @@ A empresa afirma que prestou serviços de prospecção e indicação de operaç�
 
 Esse dado deve ser tratado como **relação comercial documentada**, não como prova de corrupção. Ele ganha importância apenas quando colocado ao lado das demais suspeitas envolvendo o senador e sua família.
 
----
-
-### É correto chamar o Master de “banco do PT”?
-
-Não. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
-
-Existe uma **relação documentada com figuras centrais do campo petista e do governo Lula**: encontro com Lula; contrato milionário com Mantega; contrato com escritório da família Lewandowski durante parte do período em que ele era ministro; indicação de Lewandowski por Wagner; investigação sobre vantagens a Wagner; pagamentos a empresa de sua nora.
-
-Isso é suficiente para rejeitar a narrativa de que o caso “não chega ao PT”. Chega.
-
-Mas é insuficiente para afirmar que **“o PT comandava o esquema do Master”** ou que Lula participou de fraude bancária. Essa afirmação exigiria evidências de coordenação, benefício partidário ou decisões públicas tomadas em troca de vantagens. O material público disponível até 3 de setembro de 2026 não autoriza esse salto.
-
----
-
 ## Como a rede chegou ao bolsonarismo e ao projeto Dark Horse?
 
 ### O vínculo com o bolsonarismo começou antes do filme?
 
-O ecossistema Vorcaro já alcançava o bolsonarismo em 2022.
+Esse vínculo precisa ser dividido em **três histórias diferentes**: a expansão regulatória do crédito consignado em 2021–2022, as doações eleitorais de 2022 e, só depois, o financiamento de *Dark Horse* a partir do fim de 2024. Misturar as três como se fossem um único acordo produziria uma conclusão mais forte do que as provas permitem.
 
-**Fabiano Zettel**, cunhado de Daniel Vorcaro e apontado em investigações como operador financeiro do grupo, doou **R$ 3 milhões** para a campanha presidencial de Jair Bolsonaro e **R$ 2 milhões** para Tarcísio de Freitas em 2022.[^19] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
+- **Fabiano Zettel**, cunhado de Daniel Vorcaro e investigado na Compliance Zero, doou **R$ 3 milhões** à campanha presidencial de Jair Bolsonaro e **R$ 2 milhões** à campanha de Tarcísio de Freitas em 2022.[^19] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/)
 
-Doação eleitoral declarada é legal. O dado demonstra proximidade financeira com o campo político, não compra de decisão.
+- A doação formal foi declarada à Justiça Eleitoral. Por si só, isso não é corrupção. O significado do episódio mudou em **3 de setembro de 2026**, quando veio a público uma proposta de colaboração premiada de Vorcaro — rejeitada pela PF e pela PGR — na qual ele afirma que as doações faziam parte de um suposto **“ajuste indevido” para manter o Credcesta no governo Tarcísio**.[^42] [UOL ↗](https://noticias.uol.com.br/colunas/fabio-serapiao/2026/09/03/doacao-a-bolsonaro-e-tarcisio-foi-propina-negociada-com-kassab-diz-vorcaro.htm) Segundo essa versão, a negociação teria sido conduzida por Augusto Lima com Gilberto Kassab e envolveria, além das doações formais, outras vantagens. Tarcísio e Kassab negam irregularidades; Tarcísio afirma que nunca manteve relação com Vorcaro, e Kassab classifica o relato como fantasioso.[^43] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/04/resposta-tarcisio-vorcaro.ghtm) O ponto probatório é crucial: **a nova alegação fornece uma hipótese explícita de quid pro quo para as doações de 2022, mas não demonstra que essa mesma troca explica os milhões enviados a *Dark Horse* em 2025**. São fluxos financeiros distintos, separados por mais de dois anos.
 
-No mesmo ciclo eleitoral, **Nikolas Ferreira** utilizou durante cerca de dez dias um jato ligado a Vorcaro em uma caravana de apoio à reeleição de Bolsonaro, passando por capitais do Nordeste, Brasília e Minas Gerais.[^20] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/nikolas-ferreira-viajou-em-jato-de-vorcaro-na-campanha-de-2022)
+### Como o Credcesta foi beneficiado por mudanças regulatórias no governo Bolsonaro?
+
+O Credcesta era um cartão consignado operado pela PKL One e associado ao ecossistema Master. Em 2022, o mercado federal de consignados foi ampliado por uma sequência de atos normativos.
+
+- Em **17 de março de 2022**, Jair Bolsonaro editou a **Medida Provisória nº 1.106**, que ampliou a margem de crédito consignado do RGPS e autorizou consignados para beneficiários do BPC e de programas federais de transferência de renda.[^44] [Planalto ↗](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/mpv/mpv1106.htm)
+
+- Em **25 de março de 2022**, o INSS editou a **Instrução Normativa PRES/INSS nº 131**, alterando a disciplina dos consignados. Segundo a Folha, essa norma criou a base para o chamado cartão consignado de benefício. Em **7 de junho**, o Master enviou ofício ao INSS pedindo a inclusão dessa modalidade em seu acordo; em **22 de junho**, veio a **IN nº 134**, detalhando a operação; e, em **13 de julho**, o INSS aprovou o termo aditivo que permitiu ao Master operar o produto.[^45] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/04/inss-sob-bolsonaro-alterou-regras-e-contemplou-credcesta-16-dias-apos-oficio-do-master.shtml) A lista oficial do INSS confirma a edição da IN 131 em 25 de março.[^46] [INSS ↗](https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022)
+
+- Em **3 de agosto de 2022**, a **Lei nº 14.431**, resultante da MP 1.106, consolidou margem de até **45%** para benefícios previdenciários, reservando **5% especificamente para cartão consignado de benefício**.[^47] [Planalto ↗](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14431.htm)
+
+- Em **11 de agosto de 2022**, Bolsonaro assinou o **Decreto nº 11.170**, regulamentando descontos de empréstimos e financiamentos no então Auxílio Brasil.[^48] [Planalto ↗](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11170.htm)
+
+Esses atos **expandiram o ecossistema econômico do crédito consignado** em que o Credcesta cresceu. A Folha registrou que os contratos do produto passaram de cerca de **104,8 mil em 2022 para 2,75 milhões em 2024**.[^45] Isso é um benefício regulatório real ao setor e, de maneira especialmente importante, ao modelo explorado pelo Master.
+
+Mas há dois cuidados. Primeiro, boa parte dessas normas era **geral**, aplicável a várias instituições, e não um decreto nominalmente destinado ao Master. Segundo, tudo isso antecede o início documentado da negociação de *Dark Horse* em aproximadamente dois anos e meio. Portanto, **é contexto relevante para a relação política e econômica, mas não é, hoje, a contrapartida demonstrada do filme**.
+
+### O que aconteceu com o Credcesta em São Paulo?
+
+Em São Paulo, a PKL One já havia sido credenciada em **maio de 2022**, ainda na gestão anterior a Tarcísio. Segundo a proposta de delação de Vorcaro, a preocupação após a eleição era preservar a operação no novo governo; ele afirma que as doações eleitorais e outras vantagens seriam a contrapartida exigida para essa continuidade.[^42]
+
+A alegação possui um detalhe verificável: o Credcesta permaneceu operando no estado por mais de um ano depois da posse de Tarcísio. Isso, contudo, não demonstra por si só que a continuidade resultou de propina. Credenciamentos administrativos podem ser mantidos por razões ordinárias e a versão de Vorcaro foi rejeitada pelas autoridades por falta de elementos novos e de corroboração suficiente.[^42]
+
+Há ainda um ato com uma coincidência temporal extraordinária com *Dark Horse*: em **9 de dezembro de 2024**, Tarcísio editou o **Decreto estadual nº 69.126/2024**, alterando as regras de consignação e incluindo expressamente sociedades de crédito, financiamento e investimento autorizadas pelo Banco Central entre as possíveis consignatárias.[^49] [Governo de São Paulo ↗](https://portal.fazenda.sp.gov.br/servicos/folha/Paginas/Decreto_69.126-2024.aspx)
+
+A sequência é:
+
+- **8/12/2024:** encontro é organizado para Flávio tratar com Vorcaro do “filme do presidente”;[^24]
+- **9/12/2024:** Tarcísio assina o Decreto 69.126/2024;[^49]
+- **11/12/2024:** Mario Frias agradece a Vorcaro pelo apoio ao projeto.[^24]
+
+Isso é temporalmente chamativo, mas **não autoriza concluir que o decreto foi comprado pelo financiamento do filme**. Na verdade, a reportagem sobre a delação de Vorcaro afirma que o decreto **abriu o mercado a outras instituições**, encerrando ou reduzindo a vantagem competitiva que o Credcesta teria desfrutado anteriormente.[^42] Portanto, como hipótese de contrapartida de *Dark Horse*, o Decreto 69.126 é paradoxal: está exatamente na janela temporal, mas sua direção econômica não é obviamente favorável ao Master.
+
+
+### E o Rio de Janeiro — houve benefício público ligado ao Credcesta e ao Master?
+
+Sim, e esse eixo merece atenção porque contém **atos concretos do poder público** e, mais tarde, **aportes bilionários de um fundo estadual**.
+
+Em **27 de maio de 2021**, o governador Cláudio Castro (PL) editou o **Decreto estadual nº 47.625**, criando uma margem adicional de **20% da remuneração líquida** para operações por cartão de benefícios, fora da margem ordinária de consignação. Em **1º de junho de 2021**, menos de uma semana depois, a Casa Civil autorizou a PKL One a oferecer o Credcesta aos servidores e aposentados do Rio.[^50] [UOL ↗](https://tab.uol.com.br/noticias/redacao/2025/12/21/rj-decreto-de-castro-e-processo-sumido-beneficiaram-consignado-do-master.htm)
+
+Esse episódio é um **benefício regulatório muito concreto ao Credcesta**, mas ocorreu mais de três anos antes das tratativas de *Dark Horse*. Até o corte deste dossiê, não há prova pública ligando o decreto fluminense de 2021 ao financiamento do filme.
+
+Mais importante para a cronologia de *Dark Horse* são os investimentos do **Rioprevidência** em ativos ligados ao Master. A PF passou a investigar cerca de **R$ 3 bilhões** — e decisões judiciais chegaram a mencionar R$ 3,69 bilhões — aplicados em letras financeiras e fundos associados ao grupo.[^51] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/05/claudio-castro-e-alvo-de-busca-e-apreensao-da-pf-em-operacao-sobre-master.shtml)
+
+A investigação afirma que a proximidade entre Castro e Vorcaro teria ajudado a viabilizar os aportes. Além disso, operações intermediadas pela Planner **se intensificaram depois de dezembro de 2024 e continuaram até outubro de 2025**.[^52] [SBT News ↗](https://sbtnews.sbt.com.br/noticia/economia/master-driblou-pf-e-usou-corretora-para-negociar-com-rio-previdencia)
+
+Essa janela coincide muito melhor com o financiamento de *Dark Horse*:
+
+**dezembro de 2024 → início da aproximação financeira do filme**
+**fevereiro–maio de 2025 → US$ 10,6 milhões enviados ao Havengate**
+**ao longo de 2025 → aportes do Rioprevidência continuam**
+**setembro de 2025 → nova parcela de US$ 1,666 milhão ao filme**
+
+Por isso, **Rioprevidência é um candidato temporal relevante para qualquer investigação sobre eventual contrapartida do financiamento**. Mas o elo decisivo continua ausente: não há, no material público citado, mensagem ou documento mostrando Flávio, Eduardo ou Mario Frias prometendo ou intermediando os aportes do Rioprevidência em troca de *Dark Horse*. A suspeita de favorecimento no Rio existe em investigação própria e envolve principalmente Castro e a estrutura estadual.
+
+---
+
+### Onde Nikolas Ferreira entra nessa rede?
+
+No ciclo eleitoral de 2022, **Nikolas Ferreira** utilizou durante cerca de dez dias um jato ligado a Vorcaro em uma caravana de apoio à reeleição de Bolsonaro, passando por capitais do Nordeste, Brasília e Minas Gerais.[^20] [Agência Brasil ↗](https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/nikolas-ferreira-viajou-em-jato-de-vorcaro-na-campanha-de-2022)
 
 Em 2026, mensagens divulgadas pelo ICL e repercutidas por UOL e Folha trouxeram uma frase atribuída a Vorcaro sobre o deputado: **“Esse Nikolas, eu banquei todos os voos dele”**.[^21] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/vorcaro-nikolas-ferreira-mensagens-voos.ghtm) Nikolas admite ter usado a aeronave, mas afirma que não sabia que ela era ligada ao banqueiro e nega ter recebido dinheiro.
 
@@ -248,23 +205,6 @@ A relevância é outra: o deputado que aparecia publicamente criticando eventos 
 ---
 
 ### O que torna Dark Horse a conexão financeira mais direta?
-
-<figure class="evidence-diagram flow-diagram dark-horse-diagram" aria-labelledby="diagram-dark-horse-title">
-  <figcaption id="diagram-dark-horse-title">
-    <span>Diagrama 03</span>
-    <strong>O caminho conhecido do financiamento de Dark Horse</strong>
-  </figcaption>
-  <div class="diagram-flow" role="img" aria-label="Recursos associados a Vorcaro passam pelo fundo Havengate, chegam ao projeto Dark Horse e deixam questões sobre destino e contrapartida">
-    <div class="diagram-node"><small>Origem</small><strong>Vorcaro</strong><p>Recursos ligados ao grupo Master.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node"><small>Veículo</small><strong>Havengate</strong><p>Fundo controlado nos Estados Unidos.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node"><small>Projeto</small><strong>Dark Horse</strong><p>Produção e gastos majoritariamente nos EUA.</p></div>
-    <span class="diagram-arrow" aria-hidden="true">→</span>
-    <div class="diagram-node diagram-question"><small>Em aberto</small><strong>Destino + troca?</strong><p>Beneficiário final e eventual contrapartida.</p></div>
-  </div>
-  <p class="diagram-note">Fluxo reconstruído a partir dos documentos e reportagens citados nas notas 23, 24, 26, 30, 33 e 34.</p>
-</figure>
 
 O núcleo *Dark Horse* é diferente de quase todas as outras relações políticas porque há documentação de **negociação direta de financiamento**, cronograma de desembolsos, comprovante de remessa e cobranças feitas por Flávio Bolsonaro.
 
@@ -288,7 +228,7 @@ As primeiras revelações documentaram pelo menos **US$ 10,6 milhões** — apro
 
 O dinheiro chegou ao **Havengate Development Fund LP**, fundo registrado no Texas e administrado por pessoas ligadas a Eduardo Bolsonaro, entre elas o advogado Paulo Calixto.[^26] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/05/fundo-nos-eua-do-caso-dark-horse-e-controlado-por-aliados-de-eduardo-bolsonaro.shtml)
 
-Parte das remessas passou pela **Entre Investimentos e Participações**. Em setembro de 2026, a PGR firmou acordo de colaboração premiada com Antônio Carlos Freixo Júnior, o “Mineiro”, dono de empresa apontada pela PF como braço operacional de Vorcaro e envolvida em transferências ao Havengate.[^27] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/09/pgr-fecha-delacao-com-empresario-que-fez-pagamentos-a-fundo-que-financiaria-dark-horse.shtml)
+Parte das remessas passou pela **Entre Investimentos e Participações**. Em setembro de 2026, a PGR firmou acordo de colaboração premiada com Antônio Carlos Freixo Júnior, o “Mineiro”, dono de empresa apontada pela PF como braço operacional de Vorcaro e envolvida em transferências ao Havengate.[^27] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/09/pgr-fecha-delacao-com-empresario-que-fez-pagamentos-a-fundo-que-financiaria-dark-horse.shtml) Em 4 de setembro, a Folha revelou que Mineiro afirmou ter movimentado grandes quantias em dinheiro vivo e usado suas empresas para viabilizar operações a mando de Vorcaro; ele disse não conhecer o destino final dos recursos.[^53] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/09/empresario-que-fez-repasses-a-dark-horse-diz-que-movimentava-malas-de-dinheiro-a-mando-de-vorcaro.shtml)
 
 A estrutura é importante porque coloca três camadas entre o banqueiro e a produção:
 
@@ -331,6 +271,55 @@ Em novembro, a proximidade aparece de forma ainda mais explícita. Flávio escre
 Essas frases não provam corrupção. Elas provam algo anterior e necessário para qualquer análise séria: **a relação era pessoal, direta, financeira e persistente**.
 
 Isso contradiz declarações anteriores de Flávio, que em março de 2026 havia afirmado que a direita estava sendo falsamente vinculada ao Master e que doações relacionadas a Zettel ocorreram sem contato ou contrapartida.[^31] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/a-cnn-flavio-diz-que-doacao-a-campanha-ligada-a-vorcaro-foi-sem-contato/)
+
+---
+
+### Então, qual pode ter sido a contrapartida de *Dark Horse*?
+
+Esta é a peça que ainda falta. O lado da vantagem entregue ao círculo Bolsonaro é documentalmente forte; o lado da vantagem recebida por Vorcaro **ainda não foi ligado de modo público e convincente ao filme**.
+
+A forma correta de analisar o problema é testar cada ato favorável ao Master contra três critérios: **proximidade temporal**, **capacidade dos envolvidos de influenciá-lo** e **evidência de nexo com o financiamento**.
+
+
+| Candidato a contrapartida                                                      | O que o Master poderia ganhar                                                  | Relação temporal com*Dark Horse*                             | Evidência pública de nexo com o filme                                                                                                   | Avaliação atual                                                                                |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Acesso, gratidão e disponibilidade política futura da família Bolsonaro** | Interlocução, defesa política, portas abertas e eventual ajuda futura       | Coincide integralmente com os pagamentos                       | Mensagens mostram cobrança, prioridade e gratidão, mas não ato público específico                                                    | **Hipótese estrutural plausível; juridicamente inespecífica**                                 |
+| **Manutenção do Credcesta em São Paulo**                                    | Preservação de negócio lucrativo no funcionalismo paulista                  | Benefício alegado começa em 2023 e vai até dez. 2024        | Vorcaro vincula explicitamente a continuidade às**doações de 2022**, não ao filme; delação foi rejeitada                            | **Quid pro quo alegado, mas de outro fluxo financeiro**                                          |
+| **Decreto SP 69.126/2024, de 9/12/2024**                                       | Alteração das regras de consignação                                        | Exatamente entre o contato de 8/12 e o agradecimento de 11/12  | Nenhum elo documental com Flávio ou o filme; decreto abriu mercado a outras instituições                                               | **Coincidência temporal forte, direção econômica ambígua**                                  |
+| **Aportes do Rioprevidência no Master**                                       | Bilhões em liquidez/investimentos para ativos ligados ao grupo                | Aportes se intensificam após dez. 2024 e continuam em 2025    | PF investiga vínculo Castro–Vorcaro; não há prova pública de intermediação por Flávio/Eduardo/Frias                               | **Melhor candidato temporal entre benefícios concretos, mas nexo com o filme não demonstrado** |
+| **Compra do Master pelo BRB**                                                  | Saída societária potencialmente salvadora                                    | Anunciada em mar. 2025, durante os primeiros repasses ao filme | Reportagens atribuem a articulação principalmente a Ciro Nogueira, Antônio Rueda e relações no DF, não a Flávio[^54]               | **Benefício enorme e contemporâneo, mas ponte Bolsonaro–filme não apareceu**                 |
+| **Emenda de Ciro sobre o FGC**                                                 | Cobertura de até R$ 1 mi poderia ampliar a capacidade de captação do Master | Apresentada em ago. 2024, antes do filme                       | PF aponta outro possível fluxo de pagamentos e texto enviado pelo próprio Master; não há nexo com*Dark Horse*                         | **Outro núcleo de suposta corrupção, não a contrapartida conhecida do filme**                |
+| **MP 1.106, INSS 131/134, Lei 14.431 e Decreto 11.170 em 2022**                | Expansão do mercado federal de consignados                                    | Cerca de 2,5 anos antes do filme                               | Benefício regulatório ao setor/Credcesta, sem ligação pública com financiamento de 2025                                              | **Contexto de relacionamento; nexo temporal fraco**                                              |
+| **Decreto RJ 47.625/2021 + autorização da PKL**                              | Margem adicional de 20% e entrada do Credcesta no RJ                           | Mais de 3 anos antes do filme                                  | Benefício regulatório concreto, mas nenhum elo com*Dark Horse*                                                                          | **Muito anterior para ser tratado como contrapartida do filme sem prova adicional**              |
+| **Emendas de Mario Frias e outros a entidades ligadas à produtora**           | Recursos públicos chegam ao ecossistema empresarial da produção             | Parte dos instrumentos coincide com a montagem do projeto      | Há investigação sobre eventual uso irregular; porém o beneficiário imediato seria a estrutura ligada à produtora, não Vorcaro[^55] | **Pode revelar financiamento público paralelo, não explica o que Vorcaro recebeu**             |
+
+A operação BRB merece atenção especial porque era potencialmente existencial para o Master. Em março de 2025, justamente durante a primeira leva de pagamentos a *Dark Horse*, o BRB anunciou a compra de 58% do banco. Reportagem do UOL descreveu a operação como articulada nos bastidores por **Ciro Nogueira e Antônio Rueda**, cujas relações com o governo do Distrito Federal teriam aberto portas no banco público.[^54] [UOL ↗](https://noticias.uol.com.br/colunas/natalia-portinari/2025/04/01/venda-do-master-a-banco-estatal-passou-por-pp-e-uniao-brasil-em-brasilia.htm)
+
+Isso reduz, por enquanto, a força da hipótese **“Dark Horse foi pagamento pela operação BRB”**: o benefício e o financiamento coincidem no tempo, mas os intermediários documentados publicamente são outros. Para sustentar a troca seria necessário encontrar Flávio, Eduardo, Frias ou outro integrante do núcleo do filme atuando sobre Ibaneis, BRB, Banco Central ou articuladores da compra em razão do financiamento.
+
+Também é importante não inverter o caso das emendas parlamentares. Deputados destinaram ao menos **R$ 4,6 milhões** a entidades ligadas a Karina Gama, dona da Go Up, e Mario Frias aparece entre os autores de emendas ao Instituto Conhecer Brasil.[^55] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/05/18/parlamentares-enviaram-r-46-milhoes-para-produtora-de-filme-de-bolsonaro.amp.htm) Isso pode ser relevante para investigar se houve recursos públicos no ecossistema da produção, mas **não é, sem outra ponte, a vantagem que Vorcaro recebeu em troca dos milhões**.
+
+A hipótese que melhor explica o material público hoje, sem inventar um ato de ofício que ainda não apareceu, é que Vorcaro pode ter tratado *Dark Horse* como **investimento em acesso e obrigação política contingente**: financiar algo de enorme importância pessoal e política para a família Bolsonaro criaria gratidão e disponibilidade para pedidos futuros. Essa hipótese é coerente com as mensagens, mas continua diferente de demonstrar corrupção por um ato funcional determinado.
+
+<aside class="scholium">
+  <span class="scholium-label">Ponto central</span>
+  <p><strong>Até 4 de setembro de 2026, não há prova pública que permita escrever “Vorcaro financiou Dark Horse em troca de X”. Há vários X possíveis; nenhum foi ligado ao filme com a força documental existente no núcleo Ciro.</strong></p>
+</aside>
+
+---
+
+### O que precisaria aparecer para fechar o quid pro quo?
+
+A investigação mudaria qualitativamente se aparecesse algum dos seguintes elementos:
+
+- mensagem de Vorcaro associando uma parcela do filme a um pedido concreto sobre Credcesta, Rioprevidência, BRB, Banco Central, FGC ou outra decisão pública;
+- mensagem de Flávio, Eduardo, Frias ou intermediário prometendo atuação institucional em troca do financiamento;
+- registro de contatos desses atores com autoridades responsáveis por um ato favorável ao Master imediatamente antes ou depois de desembolsos;
+- documento, agenda, minuta ou testemunho corroborado ligando a negociação do filme a decisão pública específica;
+- prova de que um benefício estatal foi condicionado ao cumprimento do cronograma de pagamentos;
+- colaboração premiada corroborada por mensagens, documentos bancários ou atos administrativos contemporâneos.
+
+Sem uma dessas pontes, o caso pode sustentar hipóteses de ocultação, lavagem, benefício pessoal ou compra de acesso, mas **a contrapartida funcional do financiamento continua uma lacuna probatória**.
 
 ---
 
@@ -391,6 +380,8 @@ Em maio de 2026, a Polícia Federal afirmou ter encontrado no celular de Vorcaro
 A investigação acrescenta um segundo elemento: mensagens sobre pagamentos mensais de **R$ 300 mil a R$ 500 mil** ligados a uma estrutura entre empresas das famílias de Vorcaro e de Ciro. A PF apura cerca de **R$ 18 milhões** em suposta propina.[^37] [UOL ↗](https://noticias.uol.com.br/colunas/fabio-serapiao/2026/05/07/500k-ou-pago-300k-veja-mensagens-sobre-propina-para-ciro-nogueira.htm)
 
 Ciro nega ter recebido pagamentos ilícitos e nega que a proposta tenha sido redigida pelo banco; chegou a dizer que pretendia reapresentar a ideia por considerá-la benéfica aos depositantes.[^38] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/05/ciro-nogueira-nega-que-emenda-master-tenha-sido-redigida-por-banco-e-diz-que-vai-reapresentar-proposta.shtml)
+
+A emenda **não foi aprovada**. Em 10 de junho de 2026, a CCJ aprovou parecer contrário à Emenda nº 11; no sistema do Senado ela consta como **prejudicada**. A PEC 65 continuou a tramitar sem incorporar esse aumento do FGC.[^56] [Senado Federal ↗](https://www25.senado.leg.br/web/atividade/materias/-/materia/161269) Isso significa que o benefício regulatório final não se concretizou, embora a apresentação do texto continue relevante para a hipótese investigativa de troca.
 
 Este núcleo é qualitativamente diferente do encontro de Lula com Vorcaro ou da contratação de Mantega. Aqui os investigadores afirmam possuir os dois lados que uma hipótese de corrupção precisa procurar:
 
@@ -454,7 +445,7 @@ A influência política é muitas vezes acumulativa. Cada vínculo isolado pode 
 
 ### Quais fatos estão documentados com alto grau de segurança?
 
-Até 3 de setembro de 2026, é possível afirmar com segurança que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+Até 4 de setembro de 2026, é possível afirmar com segurança que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
 - o Master captou recursos oferecendo CDBs com remuneração muito superior à média e explorando comercialmente a cobertura do FGC; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - o Banco Central liquidou o conglomerado por crise de liquidez, comprometimento econômico-financeiro e violações regulatórias; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
@@ -465,6 +456,10 @@ Até 3 de setembro de 2026, é possível afirmar com segurança que: [Contexto: 
 - o escritório da família Lewandowski recebeu milhões do Master; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - a PF investiga Jaques Wagner por supostas vantagens econômicas; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - Flávio Bolsonaro negociou financiamento de aproximadamente US$ 24 milhões para *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- o governo federal ampliou em 2022 o mercado de crédito consignado por MP, lei e atos do INSS; o Master obteve aditivo para operar o cartão consignado de benefício naquele ano;[^47]
+- o Credcesta recebeu benefícios regulatórios estaduais documentados no Rio de Janeiro em 2021;[^50]
+- Vorcaro afirmou em proposta de delação rejeitada que as doações de 2022 a Bolsonaro e Tarcísio integravam uma contrapartida pela manutenção do Credcesta em São Paulo; essa afirmação é **alegação não corroborada**, contestada pelos citados;[^43]
+- a PF investiga aportes bilionários do Rioprevidência em ativos ligados ao Master, e operações se intensificaram depois de dezembro de 2024;[^52]
 - pelo menos US$ 12,3 milhões em repasses relacionados ao projeto já foram documentados; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - Eduardo Bolsonaro assinou contrato como produtor-executivo; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - o Havengate, fundo receptor, é administrado por pessoas ligadas a Eduardo; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
@@ -482,6 +477,8 @@ Há base relevante para investigar: [Contexto: UOL ↗](https://noticias.uol.com
 - se Jaques Wagner recebeu benefícios vinculados a atos públicos favoráveis ao banco; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - se contratos de consultoria serviam, total ou parcialmente, para comprar influência política; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - se o financiamento de *Dark Horse* tinha finalidade econômica genuína ou funcionava como transferência de vantagem a uma família política; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- se os pagamentos de *Dark Horse* estavam vinculados a algum ato favorável ao Master — especialmente Rioprevidência, BRB, proteção regulatória ou outra intervenção ainda não identificada;
+- se a alegada negociação do Credcesta em São Paulo, descrita por Vorcaro, foi realmente pactuada e executada;[^42]
 - se dinheiro do filme financiou despesas pessoais de Eduardo Bolsonaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - se Alexandre de Moraes interveio em órgãos de investigação ou regulação a pedido de Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - se estruturas financeiras vinculadas ao Master foram usadas para ocultar destinatários ou origem de recursos. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
@@ -496,6 +493,8 @@ Não está demonstrado, apenas com o que é público, que: [Contexto: UOL ↗](h
 - Lula ordenou ao Banco Central que favorecesse Vorcaro; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - o PT, enquanto partido, coordenou o esquema; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - Jair Bolsonaro recebeu pessoalmente o dinheiro de *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- o Credcesta, o Decreto paulista 69.126/2024, os aportes do Rioprevidência, a compra pelo BRB ou qualquer outra decisão pública tenham sido **a contrapartida específica** dos pagamentos de *Dark Horse*;
+- Flávio Bolsonaro, Eduardo Bolsonaro ou Mario Frias tenham intermediado os aportes do Rioprevidência ou a compra do Master pelo BRB em troca do financiamento do filme;
 - todo o dinheiro enviado ao Havengate foi desviado; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - Eduardo Bolsonaro usou comprovadamente recursos do Master para pagar sua mansão ou custo de vida nos EUA; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - todo contrato de consultoria do Master era falso; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
@@ -533,17 +532,22 @@ A investigação criminal precisa descobrir quais dessas relações eram apenas 
 
 ### Onde Dark Horse se encaixa nessa hipótese?
 
-*Dark Horse* é importante não porque seja a única relação política de Vorcaro, mas porque oferece uma janela rara sobre **como uma relação era construída**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+*Dark Horse* é importante não porque seja a única relação política de Vorcaro, mas porque oferece uma janela rara sobre **como uma dependência política poderia ser construída**.
 
 Há um pedido. Há um projeto que interessa pessoal e politicamente a uma família. Há cronograma. Há pressão por pagamentos. Há frases de gratidão. Há o banqueiro priorizando o desembolso. Há um fundo ligado a aliados do beneficiário. Há remessas internacionais. Há cobranças mesmo quando o banco enfrenta crise. Há contato pessoal até a véspera da prisão.
 
-Essa sequência é muito mais informativa do que uma fotografia em jantar.
+Essa sequência é muito mais informativa do que uma fotografia em jantar. Mas ela ainda deixa em branco a seta inversa:
 
-Ela ainda não fornece, sozinha, a peça que transformaria o caso em corrupção: **a contrapartida funcional específica**. Mas mostra com grande nitidez o tipo de vínculo que pode tornar uma contrapartida plausível e investigável.
+**Vorcaro → milhões para o projeto → família Bolsonaro**
+**família Bolsonaro / aliados → ? → Vorcaro**
 
-O caso Ciro Nogueira é justamente o contraponto: ali, segundo a PF, existe um possível pagamento e existe um ato legislativo cujo texto teria saído do próprio banco. É por isso que juridicamente o núcleo Ciro é, hoje, mais próximo de uma estrutura clássica de corrupção do que *Dark Horse* isoladamente.
+O levantamento dos atos públicos possíveis mostra que existem candidatos: expansão do consignado federal em 2022, manutenção alegada do Credcesta em São Paulo, decretos estaduais, aportes do Rioprevidência, articulação da venda ao BRB e outras intervenções regulatórias. O problema é que **nenhum desses atos foi publicamente ligado aos desembolsos do filme por uma mensagem, promessa ou atuação funcional do núcleo Flávio–Eduardo–Frias**.
 
-O núcleo *Dark Horse*, por sua vez, pode migrar de “financiamento privado politicamente problemático” para crime se a investigação demonstrar uma das seguintes pontes: origem ilícita dos recursos, desvio para benefício pessoal, ocultação, ato de ofício em favor do banco ou promessa de influência pública em troca do financiamento.
+O caso Ciro Nogueira continua sendo o contraponto mais claro: ali, segundo a PF, existe um possível fluxo de vantagem e um ato legislativo cujo texto teria saído do próprio banco. Mesmo a emenda não tendo sido aprovada, a hipótese de troca possui duas pontas documentais identificáveis.[^56]
+
+No núcleo *Dark Horse*, a hipótese mais parcimoniosa hoje é **compra de acesso, gratidão e disponibilidade política**, possivelmente para uso conforme as necessidades do banqueiro. Isso pode ser extremamente valioso para um empresário regulado e em crise. Porém, para converter essa hipótese em corrupção vinculada ao filme, ainda é necessário demonstrar a contrapartida funcional ou uma promessa suficientemente determinada.
+
+Também existe uma rota penal diferente: mesmo sem um quid pro quo político, o caso pode adquirir relevância criminal se se provar origem ilícita dos recursos, lavagem, desvio para benefício pessoal, fraude contratual ou ocultação deliberada de beneficiários finais. São hipóteses distintas da corrupção por troca de favores e não devem ser confundidas.
 
 ---
 
@@ -559,14 +563,18 @@ No **campo petista**, há:
 - suspeitas de vantagens a Jaques Wagner; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 - pagamentos a empresa de sua nora. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
-No **campo bolsonarista**, há:
+No **campo bolsonarista e em governos politicamente próximos**, há:
 
-- doação eleitoral relevante de Zettel; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
-- uso de aeronave ligada a Vorcaro em campanha; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
-- pedidos privados de Nikolas; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
-- captação direta de dezenas de milhões por Flávio; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
-- participação financeira e executiva de Eduardo em *Dark Horse*; [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
-- vínculos de Mario Frias e outros aliados com o projeto. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
+- expansão federal do mercado de consignados em 2022, com atos do governo Bolsonaro e do INSS que abriram espaço para o cartão consignado de benefício explorado pelo Credcesta;[^48]
+- doações eleitorais de Zettel a Bolsonaro e Tarcísio, hoje descritas por Vorcaro — em delação rejeitada — como suposta contrapartida pela continuidade do Credcesta em São Paulo;[^42]
+- decreto de Cláudio Castro em 2021 e autorização subsequente que facilitaram a entrada do Credcesta no Rio;[^50]
+- aportes bilionários do Rioprevidência em ativos ligados ao Master, investigados pela PF e temporalmente sobrepostos ao financiamento de *Dark Horse*;[^52]
+- uso de aeronave ligada a Vorcaro em campanha por Nikolas e posterior pedido privado do deputado;[^22]
+- captação direta de dezenas de milhões por Flávio para *Dark Horse*;[^24]
+- participação financeira e executiva de Eduardo no projeto;[^28]
+- emendas parlamentares destinadas a entidades ligadas à produtora do filme, inclusive por Mario Frias e outros aliados.[^55]
+
+Esses fatos **não formam automaticamente uma única cadeia causal**. Alguns pertencem a 2021–2022; outros, a 2024–2025; e a alegação de Vorcaro sobre o Credcesta em São Paulo aponta como contrapartida as doações eleitorais de 2022, não os pagamentos posteriores do filme.
 
 No **Centrão e demais partidos**, aparecem Ciro Nogueira, Antônio Rueda, Michel Temer, ACM Neto, Marconi Perillo e outros.
 
@@ -594,7 +602,7 @@ Essa fórmula permite ordenar o caso. [Contexto: UOL ↗](https://noticias.uol.c
 **Mantega:** pagamento + acesso ao presidente; falta demonstrar finalidade ilícita.
 **Wagner:** benefícios alegados + investigação sobre favorecimento; falta fechar a contrapartida.
 **Ciro:** pagamentos alegados + emenda alinhada ao banco; elo de contrapartida é muito mais concreto.
-**Flávio/Dark Horse:** financiamento enorme + proximidade e cobrança; falta identificar ato público ou outra vantagem jurídica oferecida ao banqueiro.
+**Flávio/Dark Horse:** financiamento enorme + proximidade e cobrança; existem candidatos a benefício contemporâneo — sobretudo Rioprevidência e BRB —, mas falta demonstrar que qualquer deles foi prometido ou entregue pelo núcleo do filme em troca dos pagamentos.
 **Moraes:** contrato familiar + encontros + pedidos de ajuda; falta demonstrar de forma válida e conclusiva quais pedidos foram atendidos e com que nexo financeiro.
 
 O mapa probatório não é uniforme. E justamente por isso deve ser lido ponta por ponta.
@@ -630,30 +638,48 @@ O caso Master é importante precisamente porque há material suficiente para inv
 
 ## Como o caso evoluiu no tempo?
 
-| Data | Evento | Relevância |
-|---|---|---|
-| 2019 | Vorcaro assume o Banco Máxima | Origem do ciclo de expansão |
-| 2022 | Banco passa a se chamar Master | Consolidação da nova estratégia |
-| out. 2022 | Nikolas usa jato ligado a Vorcaro em campanha pró-Bolsonaro | Relação anterior ao caso Dark Horse |
-| 2022 | Fabiano Zettel doa R$ 3 mi a Bolsonaro e R$ 2 mi a Tarcísio | Vínculo financeiro eleitoral declarado |
-| nov. 2023–jan. 2024 | Estrutura contratual de *Dark Horse* é formada; Eduardo assina como produtor-executivo | Participação formal de Eduardo |
-| dez. 2023–jan. 2024 | Aproximação Vorcaro–Moraes e contrato com escritório de Viviane | Eixo Judiciário |
-| 13 ago. 2024 | Ciro Nogueira apresenta emenda elevando FGC a R$ 1 mi | PF diz que texto veio do Master |
-| 4 dez. 2024 | Lula recebe Vorcaro fora da agenda, levado por Mantega | Acesso ao topo do Executivo |
-| 8–11 dez. 2024 | Primeiros contatos documentados de Flávio/Mario Frias com Vorcaro sobre o filme | Início da captação Master–Dark Horse |
-| jan. 2025 | Flávio e intermediários pressionam por contratos; Vorcaro prioriza o filme | Relação financeira operacional |
-| fev.–mai. 2025 | Pelo menos US$ 10,6 mi são enviados ao Havengate | Financiamento documentado |
-| 28 mar. 2025 | BRB anuncia compra de 58% do Master | Tentativa de solução societária |
-| 3 set. 2025 | Banco Central veta operação BRB–Master | Agravamento da crise |
-| 8 set. 2025 | Flávio cobra Vorcaro por atraso nos pagamentos do filme | Cobrança direta após veto do BC |
-| 16 set. 2025 | Coaf registra nova parcela de US$ 1,666 mi | Total conhecido sobe a US$ 12,3 mi |
-| 22 out. 2025 | Mensagem pergunta sobre novas “parcelas do filme” | Possível continuidade dos pagamentos |
-| 16 nov. 2025 | Flávio chama Vorcaro de “irmão” e reafirma apoio | Proximidade na véspera da prisão |
-| 17 nov. 2025 | Vorcaro é preso | Colapso operacional |
-| 18 nov. 2025 | Banco Central liquida o Master | Fim da instituição original |
-| mai. 2026 | PF mira Ciro Nogueira e descreve emenda do FGC como redigida pelo Master | Núcleo de possível contrapartida legislativa |
-| jun.–ago. 2026 | PF aprofunda investigação sobre Jaques Wagner e Dark Horse | Expansão política da Compliance Zero |
-| 1–3 set. 2026 | Novos relatórios sobre Moraes; Coaf amplia valor de Dark Horse; PGR fecha delação com “Mineiro” | Caso entra em nova fase |
+
+| Data                       | Evento                                                                                                      | Relevância                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2019                       | Vorcaro assume o Banco Máxima                                                                              | Origem do ciclo de expansão                                                                                               |
+| 27 mai. 2021               | Cláudio Castro edita o Decreto RJ 47.625                                                                   | Cria margem adicional de 20% para cartão de benefícios; benefício regulatório ao modelo Credcesta[^50]                 |
+| 1 jun. 2021                | Casa Civil do RJ autoriza a PKL One a operar Credcesta                                                      | Entrada do produto no funcionalismo fluminense[^50]                                                                        |
+| 17 mar. 2022               | Bolsonaro edita MP 1.106                                                                                    | Amplia consignado no RGPS/BPC e programas de transferência de renda[^44]                                                  |
+| 25 mar. 2022               | INSS edita IN 131                                                                                           | Abre a base normativa do cartão consignado de benefício[^46]                                                             |
+| mai. 2022                  | PKL One é credenciada em SP, ainda na gestão anterior a Tarcísio                                         | Credcesta entra no mercado paulista[^42]                                                                                   |
+| 7 jun. 2022                | Master pede ao INSS aditivo para operar cartão de benefício                                               | Pedido específico da instituição[^45]                                                                                   |
+| 22 jun. 2022               | INSS edita IN 134                                                                                           | Detalha a modalidade; 16 dias após o ofício do Master[^45]                                                               |
+| 13 jul. 2022               | INSS aprova aditivo do Master                                                                               | Banco passa a ter base operacional para o produto federal[^45]                                                             |
+| 3 ago. 2022                | Lei 14.431 cria margem específica de 5% para cartão consignado de benefício                              | Consolidação legal do novo mercado[^47]                                                                                  |
+| 11 ago. 2022               | Decreto federal 11.170 regulamenta consignado do Auxílio Brasil                                            | Expansão adicional do ambiente de consignados[^48]                                                                        |
+| 2022                       | Zettel doa R$ 3 mi a Bolsonaro e R$ 2 mi a Tarcísio                                                        | Doações legais declaradas; Vorcaro posteriormente alega contrapartida ligada ao Credcesta[^42]                           |
+| out. 2022                  | Nikolas usa jato ligado a Vorcaro em campanha pró-Bolsonaro                                                | Relação anterior a*Dark Horse*[^20]                                                                                      |
+| 2023–dez. 2024            | Credcesta permanece em SP durante início do governo Tarcísio                                              | Segundo Vorcaro, seria a contrapartida do acordo de 2022; alegação rejeitada e negada[^43]                               |
+| out. 2023–jul. 2024       | Rioprevidência aplica R$ 970 mi em letras do Master                                                        | Início documentado do eixo de investimentos públicos investigado pela PF[^51]                                            |
+| nov. 2023–jan. 2024       | Estrutura contratual de*Dark Horse* é formada; Eduardo assina como produtor-executivo                      | Participação formal de Eduardo                                                                                           |
+| dez. 2023–jan. 2024       | Aproximação Vorcaro–Moraes e contrato com escritório de Viviane                                         | Eixo Judiciário                                                                                                           |
+| jul. 2024 em diante        | PF identifica mais aportes do Rioprevidência em fundos ligados ao Master                                   | Volume investigado sobe para bilhões[^51]                                                                                 |
+| 13 ago. 2024               | Ciro apresenta Emenda 11 elevando FGC a R$ 1 mi                                                             | PF diz que texto veio do Master[^36]                                                                                       |
+| 4 dez. 2024                | Lula recebe Vorcaro fora da agenda, levado por Mantega                                                      | Acesso ao topo do Executivo                                                                                                |
+| 8 dez. 2024                | Flávio–Vorcaro: primeiro encontro documentado sobre o filme                                               | Início da captação Master–*Dark Horse*[^24]                                                                            |
+| 9 dez. 2024                | Tarcísio edita Decreto SP 69.126                                                                           | Altera regras de consignação; coincidência temporal com o início de*Dark Horse*, mas amplia concorrência[^42]         |
+| 11 dez. 2024               | Mario Frias agradece a Vorcaro pelo apoio ao filme                                                          | Confirmação da negociação[^24]                                                                                         |
+| após dez. 2024–out. 2025 | Operações do Master com Rioprevidência via Planner se intensificam e continuam                           | Principal benefício público contemporâneo ao filme que merece teste de nexo; conexão com Flávio não demonstrada[^52] |
+| jan. 2025                  | Flávio e intermediários pressionam por contratos; Vorcaro prioriza o filme                                | Relação financeira operacional                                                                                           |
+| fev.–mai. 2025            | Pelo menos US$ 10,6 mi são enviados ao Havengate                                                           | Financiamento documentado                                                                                                  |
+| 28 mar. 2025               | BRB anuncia compra de 58% do Master                                                                         | Tentativa de solução societária; articulação pública atribuída sobretudo a Ciro/Rueda[^54]                          |
+| 3 set. 2025                | Banco Central veta operação BRB–Master                                                                   | Agravamento da crise                                                                                                       |
+| 8 set. 2025                | Flávio cobra Vorcaro por atraso nos pagamentos do filme                                                    | Cobrança direta após veto do BC                                                                                          |
+| 16 set. 2025               | Coaf registra nova parcela de US$ 1,666 mi                                                                  | Total conhecido sobe a US$ 12,3 mi                                                                                         |
+| 22 out. 2025               | Mensagem pergunta sobre novas “parcelas do filme”                                                         | Possível continuidade dos pagamentos                                                                                      |
+| 16 nov. 2025               | Flávio chama Vorcaro de “irmão” e reafirma apoio                                                        | Proximidade na véspera da prisão                                                                                         |
+| 17 nov. 2025               | Vorcaro é preso                                                                                            | Colapso operacional                                                                                                        |
+| 18 nov. 2025               | Banco Central liquida o Master                                                                              | Fim da instituição original                                                                                              |
+| mai. 2026                  | PF mira Ciro e aprofunda eixo Rioprevidência/Castro                                                        | Núcleos com atos públicos concretos e possíveis vantagens[^51]                                                          |
+| 10 jun. 2026               | CCJ rejeita a Emenda 11 de Ciro                                                                             | Aumento do FGC não se concretiza[^56]                                                                                     |
+| jun.–ago. 2026            | PF aprofunda investigação sobre Wagner e*Dark Horse*                                                      | Expansão política da Compliance Zero                                                                                     |
+| 1–3 set. 2026             | Coaf amplia valor conhecido de*Dark Horse*; proposta de delação de Vorcaro sobre Credcesta vem a público | Nova hipótese explícita de quid pro quo para**2022**, não ainda para o filme[^42]                                       |
+| 4 set. 2026                | Novos detalhes da colaboração de “Mineiro” são publicados                                              | Reforça opacidade do fluxo financeiro para Havengate, sem fechar a contrapartida política[^53]                           |
 
 ---
 
@@ -667,7 +693,7 @@ O erro de um lado é usar as relações com Mantega, Wagner e Lewandowski para c
 
 A leitura mais coerente é institucional: **Daniel Vorcaro construiu uma rede ampla de acesso enquanto comandava um banco cujo modelo econômico se tornava cada vez mais dependente de confiança, regulação favorável, liquidez e uma saída para ativos problemáticos.**
 
-Em alguns pontos, essa rede pode ter sido apenas networking empresarial agressivo. Em outros, a Polícia Federal já descreve pagamentos e atos públicos que se aproximam do desenho clássico de corrupção. *Dark Horse* ocupa o meio desse espectro: o dinheiro e a proximidade estão documentados; a contrapartida pública ainda precisa ser demonstrada.
+Em alguns pontos, essa rede pode ter sido apenas networking empresarial agressivo. Em outros, a Polícia Federal já descreve pagamentos e atos públicos que se aproximam do desenho clássico de corrupção. *Dark Horse* ocupa o meio desse espectro: o dinheiro e a proximidade estão documentados; existem vários atos públicos contemporâneos ou historicamente favoráveis ao Master que podem ser testados como contrapartida, mas **nenhum foi ligado ao financiamento do filme de forma pública e convincente até 4 de setembro de 2026**.
 
 O caso só será compreendido por inteiro quando for possível ligar, com prova, **cada fluxo financeiro a cada decisão esperada**. Até lá, o trabalho mais sério é resistir tanto à absolvição automática (“era tudo privado”) quanto à condenação por associação (“conhecia Vorcaro, logo era corrupto”).
 
@@ -676,83 +702,117 @@ O caso só será compreendido por inteiro quando for possível ligar, com prova,
 # Referências e trechos-chave
 
 [^1]: **Folha de S.Paulo**, “Negociações de CDBs do Master no secundário pressionam FGC”, 16 out. 2025. https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml. Trecho-chave: “**O Master acelerou seu crescimento com estratégias agressivas**”.
-
+    
 [^2]: **Folha de S.Paulo**, “Após Master, BC quer deixar mais clara remuneração de corretoras na venda de CDBs”, 2 nov. 2025. https://www1.folha.uol.com.br/mercado/2025/11/apos-master-bc-quer-deixar-mais-clara-remuneracao-de-corretoras-na-venda-de-cdbs.shtml. Trecho-chave: “**os papéis do Master chegaram a pagar 140% do CDI**”.
-
+    
 [^3]: **Banco Central do Brasil**, “Banco Central decreta liquidação extrajudicial do Banco Master”, 18 nov. 2025. https://www.bcb.gov.br/detalhenoticia/20936/nota. Trecho-chave: “**grave crise de liquidez do Conglomerado Master**”.
-
+    
 [^4]: **DIEESE**, Nota Técnica 291, 2026. https://www.dieese.org.br/notatecnica/2026/notaTec291BancoMaster/index.html. Trecho-chave: “**o maior desembolso da história do FGC**”.
-
+    
 [^5]: **Reuters/UOL**, “Banco Central rejeita aquisição do Master pelo BRB”, 3 set. 2025. https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm. Trecho-chave: “**58% do capital total da instituição**”.
-
+    
 [^6]: **UOL**, “Documentos falsos e fraude de R$ 12,2 bi: o que BC, MPF e PF acharam sobre Master e BRB”, 18 nov. 2025. https://www.bol.uol.com.br/noticias/2025/11/18/documentos-falsos-e-fraude-de-r-122-bi-o-que-bc-mpf-e-pf-acharam-sobre-master-e-brb.htm. Trecho-chave: “**R$ 12,2 bilhões em carteiras de crédito inexistentes**”.
-
+    
 [^7]: **Folha de S.Paulo**, “Investigação aponta que Master usou negócio com BRB para esconder carteira falsa de consignado”, 18 nov. 2025. https://www1.folha.uol.com.br/mercado/2025/11/investigacao-aponta-que-master-usou-negocio-com-brb-para-esconder-carteira-falsa-de-consignado.shtml. Trecho-chave: “**a carteira que foi comprada pelo BRB [...] iria se misturar com outros ativos**”.
-
+    
 [^8]: **Agência Brasil**, “BC rejeita compra do Master pelo Banco de Brasília (BRB)”, 3 set. 2025. https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb. Trecho-chave: “**BC decidiu rejeitar a compra do Banco Master pelo Banco de Brasília**”.
-
+    
 [^9]: **Polícia Federal/Agência Gov**, “Polícia Federal deflagra 6ª fase da operação Compliance Zero”, 14 maio 2026. https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero. Trecho-chave: “**ameaça, corrupção, lavagem de dinheiro, organização criminosa**”.
-
+    
 [^10]: **Folha de S.Paulo**, “Master declarou pagamentos a Temer, Rueda, Mantega, Lewandowski e ACM Neto”, 8 abr. 2026. https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml. Trecho-chave: “**repasses milionários [...] a escritórios de advocacia e empresas ligadas**”.
-
+    
 [^11]: **UOL**, “Lula se reuniu com Vorcaro no Planalto fora da agenda no final de 2024”, 26 jan. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/. Trecho-chave: “**O encontro não consta na agenda oficial do Planalto**”.
-
+    
 [^12]: **CNN Brasil**, “Lula esteve com Vorcaro em encontro fora da agenda em dezembro de 2024”, 26 jan. 2026. https://www.cnnbrasil.com.br/politica/lula-esteve-com-vorcaro-em-encontro-fora-da-agenda-em-dezembro-de-2024/. Trecho-chave: “**as questões apresentadas pelo banqueiro eram técnicas**”.
-
+    
 [^13]: **Folha de S.Paulo**, “Vorcaro narra encontro com Galípolo e ministros em mensagens”, 5 mar. 2026. https://www1.folha.uol.com.br/amp/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml. Trecho-chave: “**o encontro com o presidente Lula [...] ‘foi ótimo’**”.
-
+    
 [^14]: **Folha de S.Paulo**, “Master pagou por consultoria de escritório de Lewandowski quando ele era ministro da Justiça”, 26 jan. 2026. https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml. Trecho-chave: “**contrato para consultoria jurídica do banco tinha o valor de R$ 250 mil mensais**”.
-
+    
 [^15]: **Folha de S.Paulo**, “TCU rejeita investigação sobre contrato do Master com escritório de Lewandowski”, 13 abr. 2026. https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/04/tcu-rejeita-investigacao-sobre-contrato-do-master-com-escritorio-de-lewandowski.shtml. Trecho-chave: “**não há indícios suficientes [...] de suposta irregularidade**”.
-
+    
 [^16]: **UOL**, “Apartamento, shows, voos em jatinho: o que liga Wagner e Master, segundo PF”, 18 jun. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm. Trecho-chave: “**‘beneficiário central’ de ‘vantagens econômicas indevidas’**”.
-
+    
 [^17]: **CNN Brasil**, “De voo à ilha a ingresso para show: PF detalha benesses do Master a Jaques”, 1 ago. 2026. https://www.cnnbrasil.com.br/politica/de-voo-a-ilha-a-ingresso-para-show-pf-detalha-benesses-do-master-a-jaques/. Trecho-chave: “**viagens em aeronaves [...] ingressos de alto valor e compra de apartamento**”.
-
+    
 [^18]: **UOL/Agência Estado**, “Depoimento de Jaques Wagner à PF no caso Master é adiado a pedido da defesa”, 7 ago. 2026. https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/07/depoimento-de-jaques-wagner-a-pf-no-caso-master-e-adiado-a-pedido-da-defesa.amp.htm. Trecho-chave: “**o senador ‘pretende falar’**”.
-
+    
 [^19]: **CNN Brasil**, “Alvo da PF doou R$ 5 mi para campanhas de Bolsonaro e Tarcísio em 2022”, 14 jan. 2026. https://www.cnnbrasil.com.br/politica/alvo-da-pf-doou-r-5-mi-para-campanhas-de-bolsonaro-e-tarcisio-em-2022/. Trecho-chave: “**R$ 3 milhões para o ex-presidente e R$ 2 milhões**”.
-
+    
 [^20]: **Agência Brasil**, “Nikolas Ferreira viajou em jato de Vorcaro na campanha de 2022”, 3 mar. 2026. https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/nikolas-ferreira-viajou-em-jato-de-vorcaro-na-campanha-de-2022. Trecho-chave: “**usaram, em outubro de 2022, um jato [...] que pertenceria a Daniel Vorcaro**”.
-
+    
 [^21]: **UOL**, “‘Esse Nikolas, eu banquei todos os voos dele’, disse Vorcaro em mensagens”, 3 set. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/vorcaro-nikolas-ferreira-mensagens-voos.ghtm. Trecho-chave: “**Esse Nikolas, eu banquei todos os voos dele**”.
-
+    
 [^22]: **Folha de S.Paulo**, “Nikolas pediu ajuda a Vorcaro para liberar minério”, 3 set. 2026. https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-ajuda-a-vorcaro-para-liberar-minerio-e-banqueiro-afirmou-bancar-voos-dele-diz-site.shtml. Trecho-chave: “**solicitado a ajuda [...] para liberar um ativo de minério**”.
-
+    
 [^23]: **Intercept Brasil**, “Eduardo Bolsonaro tinha poder sobre dinheiro do ‘Dark Horse’, revela contrato”, 15 maio 2026. https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/. Trecho-chave: “**responsabilidades e poder sobre a gestão financeira do projeto**”.
-
+    
 [^24]: **Intercept Brasil**, “Flávio Bolsonaro negociou com Vorcaro R$ 134 mi para filme sobre Jair”, 13 maio 2026. https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/. Trecho-chave: “**pelo menos 10,6 milhões de dólares [...] haviam sido pagos**”.
-
+    
 [^25]: **Intercept Brasil**, “Vorcaro priorizou pagamento de filme após cobrança de Flávio”, 2 jun. 2026. https://www.intercept.com.br/2026/06/02/mais-importante-disparado-vorcaro-bolsonaro/. Trecho-chave: “**o mais importante disparado**”.
-
+    
 [^26]: **Folha de S.Paulo**, “Fundo nos EUA do caso ‘Dark Horse’ é controlado por aliados de Eduardo Bolsonaro”, 15 maio 2026. https://www1.folha.uol.com.br/poder/2026/05/fundo-nos-eua-do-caso-dark-horse-e-controlado-por-aliados-de-eduardo-bolsonaro.shtml. Trecho-chave: “**é administrado por Paulo Calixto, advogado ligado ao ex-deputado Eduardo Bolsonaro**”.
-
+    
 [^27]: **Folha de S.Paulo**, “PGR fecha delação com empresário que fez pagamentos a fundo que financiaria ‘Dark Horse’”, 3 set. 2026. https://www1.folha.uol.com.br/poder/2026/09/pgr-fecha-delacao-com-empresario-que-fez-pagamentos-a-fundo-que-financiaria-dark-horse.shtml. Trecho-chave: “**empresa [...] agia como braço operacional de Vorcaro**”.
-
+    
 [^28]: **Folha de S.Paulo**, “Eduardo Bolsonaro pediu envio do ‘máximo possível’ de recursos para ‘Dark Horse’, diz site”, 27 maio 2026. https://www1.folha.uol.com.br/poder/2026/05/eduardo-bolsonaro-pediu-envio-do-maximo-possivel-de-recursos-para-dark-horse-diz-site.shtml. Trecho-chave: “**cargo com poder sobre o controle de orçamento e a gestão financeira**”.
-
+    
 [^29]: **Folha de S.Paulo**, “Diretor da PF defende abertura de novo inquérito para apurar uso de recursos no caso ‘Dark Horse’”, 2 jun. 2026. https://www1.folha.uol.com.br/poder/2026/06/diretor-da-pf-defende-abertura-de-novo-inquerito-para-apurar-uso-de-recursos-no-caso-dark-horse.shtml. Trecho-chave: “**desconfianças [...] de que esses recursos bancaram despesas do ex-deputado Eduardo Bolsonaro**”.
-
+    
 [^30]: **revista piauí**, “Em cartaz, a caixa-preta”, 1 set. 2026. https://piaui.uol.com.br/revista/240/caixa-preta-flavio-bolsonaro-vorcaro-dark-horse/. Trecho-chave: “**o total enviado por Vorcaro para o filme [...] sobe [...] para 12,3 milhões de dólares**”.
-
+    
 [^31]: **CNN Brasil**, “À CNN, Flávio diz que doação à campanha ligada a Vorcaro foi ‘sem contato’”, 24 mar. 2026. https://www.cnnbrasil.com.br/politica/a-cnn-flavio-diz-que-doacao-a-campanha-ligada-a-vorcaro-foi-sem-contato/. Trecho-chave: “**sem nenhuma vinculação, sem nenhuma contrapartida, sem nenhum contato pessoal**”.
-
+    
 [^32]: **Intercept Brasil**, “Fundo usado em ‘Dark Horse’ ofereceu projeto imobiliário que não saiu do papel”, 2 jul. 2026. https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/. Trecho-chave: “**foi criado originalmente [...] para a Havengate Community**”.
-
+    
 [^33]: **CNN Brasil**, “Dark Horse: perícia diz que mais de 70% dos recursos foram gastos nos EUA”, 26 ago. 2026. https://www.cnnbrasil.com.br/politica/dark-horse-pericia-diz-que-mais-de-70-dos-recursos-foram-gastos-nos-eua/. Trecho-chave: “**mais de R$ 54 milhões foram utilizados nos Estados Unidos**”.
-
+    
 [^34]: **Folha de S.Paulo**, “‘Dark Horse’ tem contradições para justificar dinheiro de Vorcaro e falta de prestação de contas”, 29 ago. 2026. https://www1.folha.uol.com.br/poder/2026/08/dark-horse-tem-contradicoes-para-justificar-dinheiro-de-vorcaro-e-falta-de-prestacao-de-contas.shtml. Trecho-chave: “**ainda não apresentou a prestação de contas nem o contrato de investimento**”.
-
+    
 [^35]: **Senado Federal**, Emenda nº 11 à PEC 65/2023, 13 ago. 2024. https://legis.senado.leg.br/sdleg-getter/documento?dm=9774194&ts=1729840562268. Trecho-chave: “**majoração [...] da garantia ordinária do FGC [...] para R$ 1.000.000,00**”.
-
+    
 [^36]: **UOL/Agência Estado**, “PF: Vorcaro entregou envelope para Ciro Nogueira com texto de emenda para favorecer Master”, 7 maio 2026. https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/07/pf-vorcaro-entregou-envelope-para-ciro-nogueira-com-texto-de-emenda-para-favorecer-master.amp.htm. Trecho-chave: “**a emenda apresentada pelo parlamentar ‘saiu exatamente como mandei’**”.
-
+    
 [^37]: **UOL**, “‘500k ou 300k?’: veja mensagens sobre suposta propina a Ciro Nogueira”, 7 maio 2026. https://noticias.uol.com.br/colunas/fabio-serapiao/2026/05/07/500k-ou-pago-300k-veja-mensagens-sobre-propina-para-ciro-nogueira.htm. Trecho-chave: “**recebia de R$ 300 mil a R$ 500 mil mensais**”.
-
+    
 [^38]: **Folha de S.Paulo**, “Ciro Nogueira nega que ‘emenda Master’ tenha sido redigida por banco”, 12 maio 2026. https://www1.folha.uol.com.br/mercado/2026/05/ciro-nogueira-nega-que-emenda-master-tenha-sido-redigida-por-banco-e-diz-que-vai-reapresentar-proposta.shtml. Trecho-chave: “**negou ter recebido pagamentos ilícitos**”.
-
+    
 [^39]: **UOL**, “Moraes analisou contrato de R$ 131 mi do escritório da esposa com Vorcaro”, 1 set. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm. Trecho-chave: “**editou a versão final de um contrato de R$ 131 milhões**”.
-
+    
 [^40]: **UOL**, “Veja as mensagens trocadas por Alexandre de Moraes e Vorcaro, segundo a PF”, 1 set. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-vorcaro-moraes.ghtm. Trecho-chave: “**tentou usar sua proximidade [...] para conter o avanço das investigações**”.
-
+    
 [^41]: **UOL**, “Menções a encontros entre Moraes e Vorcaro vão de 2023 à véspera da prisão”, 1 set. 2026. https://noticias.uol.com.br/colunas/artur-rodrigues/2026/09/01/mencoes-a-encontros-entre-moraes-e-vorcaro-vao-de-2023-a-vespera-da-prisao.ghtm. Trecho-chave: “**ao menos seis reuniões presenciais com Moraes**”.
+    
+[^42]: **UOL**, “Doação a Bolsonaro e Tarcísio foi propina negociada com Kassab, diz Vorcaro”, 3 set. 2026. https://noticias.uol.com.br/colunas/fabio-serapiao/2026/09/03/doacao-a-bolsonaro-e-tarcisio-foi-propina-negociada-com-kassab-diz-vorcaro.htm. Trecho-chave: Vorcaro chama as doações de “**contrapartidas financeiras**” pela manutenção do Credcesta; PF e PGR rejeitaram as propostas por falta de ineditismo e corroboração.
+    
+[^43]: **UOL**, “‘Beira o ridículo’, diz Tarcísio sobre acusação de propina de Vorcaro”, 4 set. 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/04/resposta-tarcisio-vorcaro.ghtm. Trecho-chave: Tarcísio nega a acusação; Kassab também nega ter negociado vantagens.
+    
+[^44]: **Presidência da República**, Medida Provisória nº 1.106, de 17 mar. 2022. https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/mpv/mpv1106.htm. Trecho-chave: amplia a margem de consignado do RGPS e autoriza operações para BPC e programas federais de transferência de renda.
+    
+[^45]: **Folha de S.Paulo**, “INSS sob Bolsonaro alterou regras e contemplou Credcesta 16 dias após ofício do Master”, 4 abr. 2026. https://www1.folha.uol.com.br/mercado/2026/04/inss-sob-bolsonaro-alterou-regras-e-contemplou-credcesta-16-dias-apos-oficio-do-master.shtml. Trecho-chave: o Master enviou pedido em 7 de junho de 2022; nova regra veio 16 dias depois e o aditivo foi aprovado em julho.
+    
+[^46]: **INSS**, “Instruções Normativas — 2022”. https://www.gov.br/inss/pt-br/centrais-de-conteudo/legislacao/instrucao-normativa/2022. Trecho-chave: registra a **IN PRES/INSS nº 131, de 25 de março de 2022**.
+    
+[^47]: **Presidência da República**, Lei nº 14.431, de 3 ago. 2022. https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14431.htm. Trecho-chave: limite de 45%, com **5% destinados ao cartão consignado de benefício**.
+    
+[^48]: **Presidência da República**, Decreto nº 11.170, de 11 ago. 2022. https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11170.htm. Trecho-chave: regulamenta descontos de empréstimos e financiamentos no âmbito do Programa Auxílio Brasil.
+    
+[^49]: **Governo do Estado de São Paulo**, Decreto nº 69.126, de 9 dez. 2024. https://portal.fazenda.sp.gov.br/servicos/folha/Paginas/Decreto_69.126-2024.aspx. Trecho-chave: inclui “**sociedade de crédito, financiamento e investimento**” entre as consignatárias habilitáveis.
+    
+[^50]: **UOL**, “RJ: decreto de Castro e processo sumido beneficiaram consignado do Master”, 21 dez. 2025. https://tab.uol.com.br/noticias/redacao/2025/12/21/rj-decreto-de-castro-e-processo-sumido-beneficiaram-consignado-do-master.htm. Trecho-chave: Decreto 47.625/2021 criou margem extra de **20%**; menos de uma semana depois, a PKL One foi autorizada a operar o Credcesta.
+    
+[^51]: **Folha de S.Paulo**, “Cláudio Castro é alvo da PF por aportes de recursos do Rioprevidência no Banco Master”, 26 maio 2026. https://www1.folha.uol.com.br/poder/2026/05/claudio-castro-e-alvo-de-busca-e-apreensao-da-pf-em-operacao-sobre-master.shtml. Trecho-chave: PF investiga **mais de R$ 3 bilhões** em aplicações; decisão cita coincidência temporal entre encontros e aportes.
+    
+[^52]: **SBT News**, “Master usou corretora para operar com RioPrevidência”, 2026. https://sbtnews.sbt.com.br/noticia/economia/master-driblou-pf-e-usou-corretora-para-negociar-com-rio-previdencia. Trecho-chave: os aportes via Planner “**se acentuaram depois de dezembro de 2024**” e seguiram até outubro de 2025.
+    
+[^53]: **Folha de S.Paulo**, “Empresário que fez repasses a ‘Dark Horse’ diz que movimentava malas de dinheiro a mando de Vorcaro”, 4 set. 2026. https://www1.folha.uol.com.br/poder/2026/09/empresario-que-fez-repasses-a-dark-horse-diz-que-movimentava-malas-de-dinheiro-a-mando-de-vorcaro.shtml. Trecho-chave: Antônio Carlos Freixo Júnior afirma ter operado grandes quantias e remessas a mando de Vorcaro, sem conhecer o destino final.
+    
+[^54]: **UOL**, “Venda do Master a banco estatal passou por PP e União Brasil em Brasília”, 1 abr. 2025. https://noticias.uol.com.br/colunas/natalia-portinari/2025/04/01/venda-do-master-a-banco-estatal-passou-por-pp-e-uniao-brasil-em-brasilia.htm. Trecho-chave: a operação BRB foi pilotada nos bastidores por dirigentes do PP e União Brasil, com papel de Ciro Nogueira e Antônio Rueda.
+    
+[^55]: **UOL**, “Deputados enviaram R$ 4,6 mi a firmas ligadas à produtora de ‘Dark Horse’”, 18 maio 2026. https://noticias.uol.com.br/politica/ultimas-noticias/2026/05/18/parlamentares-enviaram-r-46-milhoes-para-produtora-de-filme-de-bolsonaro.amp.htm. Trecho-chave: emendas foram destinadas a entidades controladas por Karina Gama, dona da produtora Go Up.
+    
+[^56]: **Senado Federal**, tramitação da PEC 65/2023, 10 jun. 2026. https://www25.senado.leg.br/web/atividade/materias/-/materia/161269. Trecho-chave: o parecer da CCJ foi **contrário à Emenda nº 11**, que consta como prejudicada.
+    
+[^57]: **Folha de S.Paulo**, “Ex-sócio do Master estrutura fundo para manter operação do Credcesta”, 10 abr. 2026. https://www1.folha.uol.com.br/mercado/2026/04/ex-socio-do-master-estrutura-fundo-para-manter-operacao-do-credcesta.shtml. Trecho-chave: segundo o balanço de 2024 do Master, o Credcesta estava presente em **24 estados e 176 municípios**.
+    
+[^58]: **Folha de S.Paulo**, “Ligado ao Master, Credcesta chegou a 2,7 mi de contratos de consignado e tem padrão de falhas, aponta INSS”, 13 fev. 2026. https://www1.folha.uol.com.br/mercado/2026/02/ligado-ao-master-credcesta-chegou-a-27-mi-de-contratos-de-consignado-e-tem-padrao-de-falhas-aponta-inss.shtml. Trecho-chave: registros do INSS mostram salto de **104,8 mil contratos em 2022 para 2,75 milhões em 2024**; o INSS apontou desconformidades e o banco afirmou ter seguido as normas.
