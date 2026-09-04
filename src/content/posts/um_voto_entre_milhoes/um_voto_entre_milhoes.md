@@ -1,6 +1,12 @@
-# O eleitor individual na democracia de massa
-
-## Decisividade, informação, elites e poder organizado
+---
+title: "O eleitor individual na democracia de massa"
+subtitle: "Decisividade, informação, elites e poder organizado"
+date: "2026-09-04"
+author: "Matheus Bento de Souza"
+tags: ["democracia", "eleições", "teoria política"]
+published: true
+excerpt: "A distância entre a igualdade formal do voto e o poder causal efetivo do eleitor individual nas democracias de massa."
+---
 
 **Resumo.** Este texto examina um problema específico da democracia de massa: a distância entre a igualdade formal do voto e o poder causal efetivo do eleitor individual. A literatura de escolha racional, *public choice*, teoria das elites e opinião pública sugere quatro mecanismos relevantes: a baixa probabilidade de um voto isolado ser decisivo; os incentivos reduzidos para adquirir informação política; a influência desproporcional de elites na seleção de candidatos, agendas e mensagens; e a vantagem organizacional de interesses concentrados sobre maiorias dispersas. A conclusão defendida aqui é mais restrita do que a tese de que "as elites controlam as eleições": o eleitorado continua capaz de arbitrar disputas e rejeitar alternativas, mas grande parte do ambiente no qual essa escolha ocorre é estruturada antes da urna por atores que dispõem de recursos, informação e capacidade de coordenação muito desiguais.
 
