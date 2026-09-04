@@ -3,7 +3,6 @@ title: "O banco que comprava proximidade"
 subtitle: "Como o caso Banco Master conecta risco financeiro, BRB, FGC, Dark Horse e uma rede suprapartidária de influência."
 date: "2026-09-03"
 author: "Matheus Bento de Souza"
-cover: "./fragilidade-financeira.png"
 tags: ["Banco Master", "Dark Horse", "instituições", "política brasileira"]
 published: true
 excerpt: "Um dossiê sobre a rede financeira e política construída em torno do Banco Master, distinguindo relações, benefícios, influência e suspeitas criminais."
@@ -21,9 +20,28 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
   </div>
 </aside>
 
+<figure class="evidence-diagram flow-diagram" aria-labelledby="diagram-modelo-title">
+  <figcaption id="diagram-modelo-title">
+    <span>Diagrama 01</span>
+    <strong>Por que acesso institucional tinha valor para o banco</strong>
+  </figcaption>
+  <div class="diagram-flow" role="img" aria-label="Captação cara pressiona a liquidez, aumenta a dependência de confiança e torna saídas institucionais mais valiosas">
+    <div class="diagram-node"><small>Entrada</small><strong>CDBs caros</strong><p>Captação contínua a taxas elevadas.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node"><small>Pressão</small><strong>Liquidez</strong><p>Ativos longos e difíceis de avaliar.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node"><small>Proteção</small><strong>FGC</strong><p>Confiança do investidor na cobertura.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node"><small>Saída</small><strong>BRB + acesso</strong><p>Solução societária e interlocução pública.</p></div>
+  </div>
+  <p class="diagram-note">O fluxo resume o incentivo econômico descrito no dossiê; não representa, sozinho, prova de crime.</p>
+</figure>
+
 ---
 
-## 1. Antes da política: que banco era o Master?
+## Como o Banco Master se tornou dependente de acesso político?
+
+### Que banco era o Master antes do escândalo?
 
 - Para entender por que Daniel Vorcaro precisava de relações políticas tão amplas, é preciso começar pelo desenho econômico do banco.
 
@@ -46,7 +64,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 2. O BRB: a tentativa de transformar um problema privado em solução institucional
+### Por que a compra pelo BRB poderia salvar o banco?
 
 - Em março de 2025, o Banco de Brasília — BRB, controlado pelo governo do Distrito Federal — anunciou um acordo para adquirir **58% do capital total do Banco Master**, por uma operação estimada em cerca de R$ 2 bilhões.[^5] [Reuters/UOL ↗](https://economia.uol.com.br/noticias/reuters/2025/09/03/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master.htm)
 
@@ -64,7 +82,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 3. O que a Compliance Zero passou a investigar
+### O que a Operação Compliance Zero passou a investigar?
 
 - A Operação Compliance Zero começou em novembro de 2025 com foco em fraudes contra o sistema financeiro, especialmente emissão e negociação de títulos de crédito falsos. Em fases posteriores, o escopo cresceu para corrupção, lavagem, organização criminosa, obtenção de informações sigilosas, invasões de dispositivos e intimidação de pessoas consideradas obstáculos aos interesses do grupo.[^9] [Polícia Federal/Agência Gov ↗](https://agenciagov.ebc.com.br/noticias/202605/pf-deflagra-6a-fase-da-operacao-compliance-zero)
 
@@ -79,9 +97,23 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 4. A melhor maneira de entender Vorcaro: não como “banqueiro de um partido”, mas como investidor em acesso
+### Por que Vorcaro deve ser entendido como investidor em acesso?
 
-![Diagrama abstrato de uma rede de influência ligada a um núcleo central](./rede-influencia.png)
+<figure class="evidence-diagram network-diagram" aria-labelledby="diagram-rede-title">
+  <figcaption id="diagram-rede-title">
+    <span>Diagrama 02</span>
+    <strong>Uma rede transversal, não um vínculo partidário único</strong>
+  </figcaption>
+  <div class="network-map" role="img" aria-label="Banco Master no centro de relações com Executivo, Congresso, Judiciário, bancos públicos e projetos privados">
+    <div class="network-node network-core"><small>Núcleo</small><strong>Banco Master</strong><span>Daniel Vorcaro</span></div>
+    <div class="network-node"><small>Poder</small><strong>Executivo</strong><span>governo e ministros</span></div>
+    <div class="network-node"><small>Poder</small><strong>Congresso</strong><span>senadores e partidos</span></div>
+    <div class="network-node"><small>Poder</small><strong>Justiça</strong><span>autoridades e escritórios</span></div>
+    <div class="network-node"><small>Instituição</small><strong>BRB</strong><span>banco público</span></div>
+    <div class="network-node"><small>Projeto</small><strong>Dark Horse</strong><span>financiamento privado</span></div>
+  </div>
+  <p class="diagram-note">As linhas indicam relações documentadas de natureza desigual. Proximidade, contrato e suspeita criminal não são categorias equivalentes.</p>
+</figure>
 
 - Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
@@ -100,9 +132,9 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE I — O EIXO PT / GOVERNO LULA
+## O que liga o Banco Master ao governo Lula e ao PT?
 
-## 5. Lula recebeu Vorcaro no Planalto fora da agenda
+### O que prova a reunião de Lula com Vorcaro fora da agenda?
 
 - Em **4 de dezembro de 2024**, Lula recebeu Daniel Vorcaro no Palácio do Planalto em uma reunião que não constava da agenda oficial. Vorcaro foi levado pelo ex-ministro **Guido Mantega**; também participou Gabriel Galípolo, então indicado para assumir a presidência do Banco Central.[^11] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/01/26/lula-encontro-vorcaro-agenda-2024-galipolo.htm/)
 
@@ -120,7 +152,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 6. Guido Mantega: R$ 14 milhões em consultoria e a ponte com Lula
+### Por que os R$ 14 milhões pagos a Mantega são relevantes?
 
 - A relação com Mantega é mais concreta financeiramente. Dados fiscais divulgados pela imprensa indicam que o Master pagou **R$ 14 milhões** à Pollaris Consultoria, empresa do ex-ministro da Fazenda, entre 2024 e 2025.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
@@ -137,7 +169,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 7. Ricardo Lewandowski: contrato com o escritório e conflito institucional
+### O contrato da família Lewandowski criou conflito institucional?
 
 - O Banco Master manteve contrato com o escritório da família de **Ricardo Lewandowski** de 2023 a agosto de 2025. Reportagens indicam remuneração de **R$ 250 mil mensais** e pelo menos R$ 6,1 milhões pagos ao escritório.[^14] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2026/01/master-pagou-por-consultoria-de-escritorio-de-lewandowski-quando-ele-era-ministro-da-justica.shtml)
 
@@ -151,7 +183,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 8. Jaques Wagner: o núcleo petista que ultrapassa simples proximidade
+### Por que o caso de Jaques Wagner é juridicamente mais sensível?
 
 - A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^16] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/06/18/apartamento-shows-voos-em-jatinho-o-que-liga-wagner-e-master-segundo-pf.ghtm)
 
@@ -173,7 +205,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 9. A empresa da nora de Wagner
+### Qual é a relevância da empresa da nora de Wagner?
 
 - Documentos fiscais também registraram cerca de **R$ 12 milhões** pagos entre 2022 e 2025 à BN Financeira, empresa de Bonnie Bonilha, nora de Jaques Wagner.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
@@ -183,7 +215,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 10. Então o Master era “do PT”?
+### É correto chamar o Master de “banco do PT”?
 
 - Não. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
@@ -195,9 +227,9 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE II — BOLSONARO, PL E DARK HORSE
+## Como a rede chegou ao bolsonarismo e ao projeto Dark Horse?
 
-## 11. A relação começa antes do filme: doações e aviões
+### O vínculo com o bolsonarismo começou antes do filme?
 
 - O ecossistema Vorcaro já alcançava o bolsonarismo em 2022.
 
@@ -215,9 +247,24 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 12. Dark Horse: a conexão financeira mais direta com a família Bolsonaro
+### O que torna Dark Horse a conexão financeira mais direta?
 
-![Diagrama abstrato de fluxos financeiros atravessando uma estrutura intermediária](./fluxo-dark-horse.png)
+<figure class="evidence-diagram flow-diagram dark-horse-diagram" aria-labelledby="diagram-dark-horse-title">
+  <figcaption id="diagram-dark-horse-title">
+    <span>Diagrama 03</span>
+    <strong>O caminho conhecido do financiamento de Dark Horse</strong>
+  </figcaption>
+  <div class="diagram-flow" role="img" aria-label="Recursos associados a Vorcaro passam pelo fundo Havengate, chegam ao projeto Dark Horse e deixam questões sobre destino e contrapartida">
+    <div class="diagram-node"><small>Origem</small><strong>Vorcaro</strong><p>Recursos ligados ao grupo Master.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node"><small>Veículo</small><strong>Havengate</strong><p>Fundo controlado nos Estados Unidos.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node"><small>Projeto</small><strong>Dark Horse</strong><p>Produção e gastos majoritariamente nos EUA.</p></div>
+    <span class="diagram-arrow" aria-hidden="true">→</span>
+    <div class="diagram-node diagram-question"><small>Em aberto</small><strong>Destino + troca?</strong><p>Beneficiário final e eventual contrapartida.</p></div>
+  </div>
+  <p class="diagram-note">Fluxo reconstruído a partir dos documentos e reportagens citados nas notas 23, 24, 26, 30, 33 e 34.</p>
+</figure>
 
 - O núcleo *Dark Horse* é diferente de quase todas as outras relações políticas porque há documentação de **negociação direta de financiamento**, cronograma de desembolsos, comprovante de remessa e cobranças feitas por Flávio Bolsonaro.
 
@@ -235,7 +282,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 13. Para onde o dinheiro foi?
+### Para onde o dinheiro foi enviado?
 
 - As primeiras revelações documentaram pelo menos **US$ 10,6 milhões** — aproximadamente R$ 61 milhões à época — transferidos entre fevereiro e maio de 2025 em seis operações.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
@@ -251,7 +298,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 14. Eduardo Bolsonaro não era apenas “a pessoa retratada”
+### Qual poder Eduardo Bolsonaro tinha sobre o projeto?
 
 - Depois das primeiras reportagens, Eduardo Bolsonaro minimizou sua participação financeira no projeto. Documentos revelados posteriormente, porém, mostraram que ele assinou contrato como **produtor-executivo** e tinha responsabilidades sobre orçamento e decisões financeiras.[^23] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/15/eduardo-bolsonaro-poder-dinheiro-dark-horse-contrato/)
 
@@ -263,7 +310,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 15. O valor conhecido aumentou: US$ 12,3 milhões
+### Quanto dinheiro conhecido chegou ao projeto?
 
 - Durante meses, o valor confirmado publicamente ficou em US$ 10,6 milhões. Isso mudou no início de setembro de 2026.
 
@@ -275,7 +322,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 16. Flávio Bolsonaro cobrava pessoalmente
+### Como Flávio Bolsonaro participou das cobranças?
 
 - Em 8 de setembro de 2025, poucos dias depois de o Banco Central vetar a compra do Master pelo BRB, Flávio enviou áudio a Vorcaro cobrando o saldo pendente e alertando que a produção poderia parar.[^24] [Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
@@ -287,7 +334,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 17. “Mas era investimento privado num filme. Onde estaria o crime?”
+### Se era investimento privado, onde poderia existir crime?
 
 - Esse é o melhor argumento defensivo e precisa ser levado a sério. [Contexto: Intercept Brasil ↗](https://www.intercept.com.br/2026/05/13/audio-flavio-negociou-vorcaro-milhoes/)
 
@@ -309,7 +356,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 18. O fundo Havengate tinha uma história anterior ao filme
+### O que o histórico do fundo Havengate acrescenta?
 
 - Outro elemento que aumenta a necessidade de escrutínio é a história do Havengate. O fundo havia sido criado originalmente para captar recursos para um projeto imobiliário no Texas chamado **Havengate Community**, avaliado em cerca de US$ 21,1 milhões e associado à possibilidade de obtenção de green card por investidores. O projeto acabou não avançando como originalmente anunciado.[^32] [Intercept Brasil ↗](https://www.intercept.com.br/2026/07/02/fundo-havengate-abandonou-projeto-antes-milhoes-vorcaro-dark-horse/)
 
@@ -319,7 +366,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 19. A prestação de contas continua insuficiente
+### O que ainda falta na prestação de contas?
 
 - Em agosto de 2026, perícia contratada pela própria produtora Go Up afirmou que o filme custou cerca de **R$ 75 milhões**, sendo aproximadamente R$ 54 milhões gastos nos Estados Unidos e R$ 20,9 milhões no Brasil. O relatório declarou que 100% do aporte teria vindo do Havengate, mas não identificou individualmente os investidores responsáveis.[^33] [CNN Brasil ↗](https://www.cnnbrasil.com.br/politica/dark-horse-pericia-diz-que-mais-de-70-dos-recursos-foram-gastos-nos-eua/)
 
@@ -329,9 +376,9 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE III — A PONTE ENTRE DINHEIRO E PODER LEGISLATIVO
+## Onde aparece a suspeita mais clara de uma contrapartida política?
 
-## 20. Ciro Nogueira e a “Emenda Master”: onde a suspeita de contrapartida é muito mais concreta
+### Por que a “Emenda Master” concentra a suspeita de contrapartida?
 
 - O caso de **Ciro Nogueira (PP-PI)** é um dos episódios mais importantes para entender a diferença entre “relação” e “possível corrupção”.
 
@@ -354,9 +401,9 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE IV — JUDICIÁRIO E SISTEMA DE JUSTIÇA
+## Como o Banco Master se aproximou do Judiciário e do sistema de Justiça?
 
-## 21. Alexandre de Moraes: contratos, encontros e mensagens
+### O que contratos, encontros e mensagens revelam sobre Alexandre de Moraes?
 
 - Em 2026, o caso Master atingiu também o STF. O escritório de **Viviane Barci de Moraes**, esposa do ministro Alexandre de Moraes, tinha contrato milionário com o banco. Reportagens e relatório policial apontaram que um contrato previa pagamentos de cerca de **R$ 3 milhões mensais**, e metadados de arquivos indicaram que o próprio ministro teria editado versão de uma minuta.[^39] [UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -370,7 +417,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 22. O caso mostra uma estratégia de proximidade, não fidelidade ideológica
+### O padrão era fidelidade ideológica ou proximidade transversal?
 
 - Quando se colocam lado a lado os eixos, aparece um padrão: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -391,9 +438,21 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE V — O QUE É FATO, O QUE É INDÍCIO E O QUE AINDA NÃO ESTÁ PROVADO
+## O que está provado — e o que ainda seria precipitado afirmar?
 
-## 23. Fatos documentados com alto grau de segurança
+<figure class="evidence-diagram proof-diagram" aria-labelledby="diagram-prova-title">
+  <figcaption id="diagram-prova-title">
+    <span>Diagrama 04</span>
+    <strong>Como ler o grau de evidência</strong>
+  </figcaption>
+  <div class="proof-scale">
+    <div><span class="proof-mark proof-solid" aria-hidden="true"></span><small>Documentado</small><strong>O fato tem registro verificável</strong><p>Pagamentos, contratos, mensagens, reuniões e operações confirmadas.</p></div>
+    <div><span class="proof-mark proof-half" aria-hidden="true"></span><small>Em investigação</small><strong>O elo ainda precisa ser demonstrado</strong><p>Finalidade do pagamento, benefício pessoal ou contrapartida pública.</p></div>
+    <div><span class="proof-mark proof-empty" aria-hidden="true"></span><small>Não demonstrado</small><strong>A evidência disponível não autoriza concluir</strong><p>Acusação que excede o material público citado.</p></div>
+  </div>
+</figure>
+
+### Quais fatos estão documentados com alto grau de segurança?
 
 - Até 3 de setembro de 2026, é possível afirmar com segurança que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -415,7 +474,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 24. Indícios fortes, mas ainda dependentes de prova e julgamento
+### Quais indícios ainda dependem de prova e julgamento?
 
 - Há base relevante para investigar: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -429,7 +488,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 25. Afirmações que o material público ainda não permite fazer com responsabilidade
+### O que as evidências públicas ainda não permitem afirmar?
 
 - Não está demonstrado, apenas com o que é público, que: [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -447,9 +506,9 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# PARTE VI — COMO AS PEÇAS SE ENCAIXAM
+## Como dinheiro, influência e decisões públicas podem se conectar?
 
-## 26. A hipótese estrutural mais plausível
+### Qual hipótese estrutural explica melhor o conjunto?
 
 - O que une FGC, BRB, Dark Horse e política é a necessidade de **sustentar um sistema financeiro que dependia de confiança**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -472,7 +531,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 27. Onde Dark Horse se encaixa nessa hipótese
+### Onde Dark Horse se encaixa nessa hipótese?
 
 - *Dark Horse* é importante não porque seja a única relação política de Vorcaro, mas porque oferece uma janela rara sobre **como uma relação era construída**. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -488,7 +547,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 28. E a comparação PT versus Bolsonaro?
+### Como comparar relações com PT e bolsonarismo sem falsa equivalência?
 
 - A comparação mais rigorosa não é “quem recebeu mais dinheiro”, porque os pagamentos têm naturezas diferentes. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -517,7 +576,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 29. A pergunta que deve orientar a investigação daqui para frente
+### Qual pergunta deve orientar a investigação daqui para frente?
 
 - A pergunta mais útil não é “Vorcaro conhecia fulano?”. Ele conhecia muita gente. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -542,7 +601,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-## 30. O que o caso Master revela sobre corrupção contemporânea
+### O que o caso Master revela sobre a corrupção contemporânea?
 
 - O caso é instrutivo porque a corrupção moderna raramente se apresenta como uma mala de dinheiro entregue imediatamente antes de uma assinatura. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
@@ -569,7 +628,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# Cronologia essencial
+## Como o caso evoluiu no tempo?
 
 | Data | Evento | Relevância |
 |---|---|---|
@@ -598,7 +657,7 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
 ---
 
-# Síntese final
+## O que o caso permite concluir até agora?
 
 - O escândalo do Banco Master não cabe confortavelmente na guerra de narrativas entre esquerda e direita. [Contexto: UOL ↗](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm)
 
