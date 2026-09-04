@@ -79,10 +79,7 @@ const next = posts[current - 1];
 
       const question = document.createElement("div");
       question.className = "question-copy";
-      const label = document.createElement("span");
-      label.className = "question-label";
-      label.textContent = "Pergunta";
-      question.append(label, heading.cloneNode(true));
+      question.append(heading.cloneNode(true));
 
       const toggle = document.createElement("span");
       toggle.className = "question-toggle";
@@ -111,17 +108,13 @@ const next = posts[current - 1];
       }
 
       const subheadings = Array.from(panel.children).filter((node) => node.tagName === "H3") as HTMLHeadingElement[];
-      subheadings.forEach((subheading, subindex) => {
+      subheadings.forEach((subheading) => {
         const section = document.createElement("section");
         section.className = "subquestion-block";
         if (subheading.id) section.setAttribute("aria-labelledby", subheading.id);
 
-        const sublabel = document.createElement("span");
-        sublabel.className = "subquestion-label";
-        sublabel.textContent = `Subpergunta ${String(subindex + 1).padStart(2, "0")}`;
-
         subheading.before(section);
-        section.append(sublabel, subheading);
+        section.append(subheading);
 
         let child = section.nextSibling;
         while (child) {
@@ -130,15 +123,6 @@ const next = posts[current - 1];
           section.appendChild(child);
           child = next;
         }
-
-        Array.from(section.children).forEach((element) => {
-          if (element.tagName !== "UL" || element.children.length !== 1) return;
-          const item = element.firstElementChild;
-          if (!item || item.tagName !== "LI") return;
-          const fragment = document.createDocumentFragment();
-          while (item.firstChild) fragment.appendChild(item.firstChild);
-          element.replaceWith(fragment);
-        });
 
         const lede = Array.from(section.children).find((element) => element.tagName === "P");
         lede?.classList.add("answer-lede");
