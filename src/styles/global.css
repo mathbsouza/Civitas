@@ -371,6 +371,10 @@ button, input { font: inherit; }
 .subquestion-block .answer-lede { margin-bottom: 1.4rem; color: var(--ink); font-size: 1.16rem; line-height: 1.67; }
 
 .article-content ul, .article-content ol { margin: 1.4rem 0 1.8rem; padding-left: 1.35rem; }
+.article-content ul { list-style: disc outside; }
+.article-content ol { list-style: decimal outside; }
+.article-content ul ul { list-style-type: circle; }
+.article-content ol ol { list-style-type: lower-alpha; }
 .article-content li { padding-left: .35rem; }
 .article-content li + li { margin-top: .7rem; }
 .article-content li::marker { color: var(--quiet); font-family: var(--sans); font-size: .78em; }

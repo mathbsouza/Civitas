@@ -49,10 +49,10 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 
     Isso, por si só, não é crime. Bancos pequenos e arriscados precisam pagar mais para captar dinheiro. O problema aparece quando se combina:
 
-    1. captação muito cara; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-    2. ativos de longo prazo, ilíquidos ou de avaliação difícil; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-    3. crescimento rápido; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
-    4. e a percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    - captação muito cara; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    - ativos de longo prazo, ilíquidos ou de avaliação difícil; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    - crescimento rápido; [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
+    - percepção do investidor de que, até determinado limite, o risco final seria absorvido pelo **Fundo Garantidor de Créditos — FGC**. [Contexto: Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/10/negociacoes-de-cdbs-do-master-no-mercado-secundario-pressionam-fgc.shtml)
 
     O FGC não é dinheiro orçamentário da União, mas um fundo privado financiado pelas instituições participantes do sistema. Ainda assim, ele altera os incentivos econômicos. Se um investidor aceita um CDB de um banco muito arriscado porque sabe que até R$ 250 mil existe cobertura, o banco consegue captar recursos em volume muito maior do que conseguiria apenas com sua reputação. No caso Master, distribuidores e assessores chegaram a usar explicitamente a combinação “rentabilidade alta + cobertura do FGC” como argumento comercial.[^2] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/mercado/2025/11/apos-master-bc-quer-deixar-mais-clara-remuneracao-de-corretoras-na-venda-de-cdbs.shtml)
 
