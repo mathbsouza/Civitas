@@ -283,6 +283,29 @@ body { padding: 4.5rem 0 0; }
 .article-content .footnotes { overflow-wrap: anywhere; }
 .article-content .footnotes ol { margin-bottom: 0; }
 
+.article-content .scholium {
+  margin: 2.5rem 0;
+  padding: 1.25rem 1.35rem 1.35rem;
+  border: 1px solid var(--ink);
+  border-radius: .35rem;
+  background: var(--soft);
+}
+
+.article-content .scholium-label {
+  display: block;
+  margin-bottom: .7rem;
+  color: var(--muted);
+  font: 600 .62rem/1 Arial, sans-serif;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+.article-content .scholium p {
+  margin: 0;
+  font-size: 1.08rem;
+  line-height: 1.6;
+}
+
 .article-content > ul a[href^="http"],
 .article-content > ol a[href^="http"] {
   display: inline-flex;
