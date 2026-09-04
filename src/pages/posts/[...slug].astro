@@ -27,6 +27,13 @@ const next = posts[current - 1];
       <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
     </header>
     {post.data.cover && <figure class="article-cover"><img src={withBase(getPostCover(post))} alt="" loading="eager" /></figure>}
+    <div class="reader-toolbar" aria-label="Controles de leitura">
+      <span class="section-count" aria-live="polite"></span>
+      <div>
+        <button type="button" data-accordion-action="open">Abrir tudo</button>
+        <button type="button" data-accordion-action="close">Fechar tudo</button>
+      </div>
+    </div>
     <div class="article-content"><Content /></div>
   </article>
   <nav class="article-nav" aria-label="Textos adjacentes">
@@ -34,3 +41,51 @@ const next = posts[current - 1];
     {next ? <a class="nav-next" href={withBase(getPostPath(next))}><small>→</small><strong>{next.data.title}</strong></a> : <span></span>}
   </nav>
 </BaseLayout>
+
+<script>
+  const content = document.querySelector<HTMLElement>(".article-content");
+  const count = document.querySelector<HTMLElement>(".section-count");
+
+  if (content) {
+    const headings = Array.from(content.children).filter((node) => node.tagName === "H2") as HTMLHeadingElement[];
+
+    headings.forEach((heading, index) => {
+      const details = document.createElement("details");
+      details.className = "article-accordion";
+      details.open = index === 0;
+
+      const summary = document.createElement("summary");
+      summary.appendChild(heading.cloneNode(true));
+      details.appendChild(summary);
+      heading.before(details);
+      heading.remove();
+
+      let sibling = details.nextSibling;
+      while (sibling) {
+        const next = sibling.nextSibling;
+        const isSectionBoundary = sibling instanceof HTMLElement && (
+          sibling.tagName === "H1" ||
+          sibling.tagName === "H2" ||
+          sibling.classList.contains("footnotes")
+        );
+        if (isSectionBoundary) break;
+        if (!(sibling instanceof HTMLElement && sibling.tagName === "HR")) details.appendChild(sibling);
+        else sibling.remove();
+        sibling = next;
+      }
+    });
+
+    const accordions = Array.from(content.querySelectorAll<HTMLDetailsElement>(".article-accordion"));
+    if (count) count.textContent = `${accordions.length} seções`;
+
+    document.querySelectorAll<HTMLButtonElement>("[data-accordion-action]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const shouldOpen = button.dataset.accordionAction === "open";
+        accordions.forEach((details) => { details.open = shouldOpen; });
+      });
+    });
+
+    const target = window.location.hash ? document.querySelector(window.location.hash) : null;
+    target?.closest("details")?.setAttribute("open", "");
+  }
+</script>

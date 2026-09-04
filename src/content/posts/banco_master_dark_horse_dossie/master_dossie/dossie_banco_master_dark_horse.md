@@ -3,12 +3,23 @@ title: "O banco que comprava proximidade"
 subtitle: "Como o caso Banco Master conecta risco financeiro, BRB, FGC, Dark Horse e uma rede suprapartidária de influência."
 date: "2026-09-03"
 author: "Matheus Bento de Souza"
+cover: "./fragilidade-financeira.png"
 tags: ["Banco Master", "Dark Horse", "instituições", "política brasileira"]
 published: true
 excerpt: "Um dossiê sobre a rede financeira e política construída em torno do Banco Master, distinguindo relações, benefícios, influência e suspeitas criminais."
 ---
 
 > **Atualização deste dossiê:** 3 de setembro de 2026, 16h (horário de Brasília). Como o caso está em rápida evolução, fatos posteriores a esse corte não estão incorporados.
+
+<aside class="case-map">
+  <span class="case-map-label">Mapa do caso</span>
+  <div class="case-map-grid">
+    <div><strong>01 · Modelo financeiro</strong><p>Captação cara, ativos difíceis de avaliar, FGC e a tentativa de venda ao BRB.</p></div>
+    <div><strong>02 · Rede de acesso</strong><p>Relações comerciais e políticas distribuídas entre partidos, governos e Poderes.</p></div>
+    <div><strong>03 · Dark Horse</strong><p>Financiamento do filme, fluxo internacional de recursos e participação da família Bolsonaro.</p></div>
+    <div><strong>04 · Grau de prova</strong><p>Separação entre fatos documentados, indícios investigados e afirmações ainda não demonstradas.</p></div>
+  </div>
+</aside>
 
 ---
 
@@ -69,6 +80,8 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 ---
 
 ## 4. A melhor maneira de entender Vorcaro: não como “banqueiro de um partido”, mas como investidor em acesso
+
+![Diagrama abstrato de uma rede de influência ligada a um núcleo central](./rede-influencia.png)
 
 - Documentos fiscais enviados à CPI do Crime Organizado mostraram pagamentos do Master a uma lista politicamente heterogênea: empresas ou escritórios ligados a **Guido Mantega, Henrique Meirelles, Ricardo Lewandowski, Michel Temer, Antônio Rueda, ACM Neto, Marconi Perillo, Fabio Wajngarten** e outros.[^10] [Folha de S.Paulo ↗](https://www1.folha.uol.com.br/poder/2026/04/master-declarou-pagamentos-a-temer-rueda-mantega-lewandowski-e-acm-neto.shtml)
 
@@ -203,6 +216,8 @@ excerpt: "Um dossiê sobre a rede financeira e política construída em torno do
 ---
 
 ## 12. Dark Horse: a conexão financeira mais direta com a família Bolsonaro
+
+![Diagrama abstrato de fluxos financeiros atravessando uma estrutura intermediária](./fluxo-dark-horse.png)
 
 - O núcleo *Dark Horse* é diferente de quase todas as outras relações políticas porque há documentação de **negociação direta de financiamento**, cronograma de desembolsos, comprovante de remessa e cobranças feitas por Flávio Bolsonaro.
 
