@@ -32,7 +32,12 @@ const next = posts[current - 1];
     <div class="reader-shell">
       <aside class="reader-rail">
         <nav class="reader-toc" aria-label="Sumário do dossiê">
-          <p class="toc-heading"><span>Sumário</span><span class="section-count" aria-live="polite"></span></p>
+          <div class="toc-desktop-head">
+            <p class="toc-heading"><span>Sumário</span><span class="section-count" aria-live="polite"></span></p>
+            <button class="toc-collapse" type="button" aria-expanded="true" aria-label="Recolher sumário" title="Recolher sumário">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6" /></svg>
+            </button>
+          </div>
           <button class="toc-mobile-toggle" type="button" aria-expanded="false" aria-controls="toc-body">
             <span>Sumário</span>
             <span class="section-count" aria-live="polite"></span>
@@ -62,6 +67,8 @@ const next = posts[current - 1];
   const counts = document.querySelectorAll<HTMLElement>(".section-count");
   const tocList = document.querySelector<HTMLOListElement>(".toc-list");
   const tocToggle = document.querySelector<HTMLButtonElement>(".toc-mobile-toggle");
+  const tocCollapse = document.querySelector<HTMLButtonElement>(".toc-collapse");
+  const article = document.querySelector<HTMLElement>(".longform-article");
   const progress = document.querySelector<HTMLElement>(".reading-progress span");
 
   if (content) {
@@ -170,6 +177,21 @@ const next = posts[current - 1];
     tocToggle?.addEventListener("click", () => {
       const isOpen = tocToggle.getAttribute("aria-expanded") === "true";
       tocToggle.setAttribute("aria-expanded", String(!isOpen));
+    });
+
+    const setTocCollapsed = (collapsed: boolean) => {
+      if (!article || !tocCollapse) return;
+      article.dataset.tocCollapsed = String(collapsed);
+      tocCollapse.setAttribute("aria-expanded", String(!collapsed));
+      tocCollapse.setAttribute("aria-label", collapsed ? "Expandir sumário" : "Recolher sumário");
+      tocCollapse.title = collapsed ? "Expandir sumário" : "Recolher sumário";
+    };
+
+    setTocCollapsed(localStorage.getItem("civitas-toc-collapsed") === "true");
+    tocCollapse?.addEventListener("click", () => {
+      const collapsed = article?.dataset.tocCollapsed !== "true";
+      setTocCollapsed(collapsed);
+      localStorage.setItem("civitas-toc-collapsed", String(collapsed));
     });
 
     const updateReaderState = () => {

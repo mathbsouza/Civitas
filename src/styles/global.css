@@ -18,8 +18,8 @@
 
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --paper: #0d0e0d;
-  --surface: #131412;
+  --paper: #000000;
+  --surface: #090a09;
   --ink: #f0eee7;
   --muted: #aaa79e;
   --quiet: #817f78;
@@ -194,7 +194,12 @@ button, input { font: inherit; }
 .arrow-mark { text-decoration: none; }
 
 /* Long-form masthead */
-.longform-article { position: relative; }
+.longform-article {
+  position: relative;
+  --toc-width: clamp(11.5rem, 16vw, 14rem);
+  --toc-left: clamp(1rem, 3vw, 3rem);
+  --reader-shift: calc((var(--toc-width) + var(--toc-left)) / 2);
+}
 .article-header {
   width: min(calc(100% - 2rem), 48rem);
   margin: 0 auto;
@@ -254,24 +259,30 @@ button, input { font: inherit; }
   margin: 0 auto;
   padding-bottom: 8rem;
 }
-.reader-column { min-width: 0; }
+.reader-column { min-width: 0; transition: transform .24s ease; }
 .reader-rail {
   position: fixed;
   top: calc(var(--header-height) + 2rem);
   bottom: 2rem;
-  left: clamp(1rem, 3vw, 3rem);
+  left: var(--toc-left);
   z-index: 30;
-  width: clamp(11.5rem, 16vw, 14rem);
+  width: var(--toc-width);
   overflow-y: auto;
   overscroll-behavior: contain;
   padding: .15rem .75rem 1rem 0;
   scrollbar-width: thin;
   scrollbar-color: var(--rule) transparent;
+  transition: width .24s ease;
 }
 .reader-rail::-webkit-scrollbar { width: 4px; }
 .reader-rail::-webkit-scrollbar-thumb { border-radius: 999px; background: var(--rule); }
-.toc-heading { margin: 0 0 1.25rem; display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; color: var(--ink); font-size: .68rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
+.reader-toc { min-height: 100%; }
+.toc-desktop-head { position: sticky; top: -.15rem; z-index: 2; margin-bottom: 1.1rem; padding: .15rem 0 .35rem; display: flex; align-items: center; gap: .55rem; background: var(--paper); }
+.toc-heading { min-width: 0; flex: 1; margin: 0; display: flex; align-items: baseline; justify-content: space-between; gap: .6rem; color: var(--ink); font-size: .68rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
 .toc-heading .section-count { color: var(--quiet); font-size: .58rem; font-weight: 500; letter-spacing: .04em; }
+.toc-collapse { width: 1.85rem; height: 1.85rem; flex: 0 0 auto; display: grid; place-items: center; border: 1px solid var(--rule); border-radius: 50%; background: var(--paper); color: var(--muted); cursor: pointer; }
+.toc-collapse:hover { border-color: var(--ink); color: var(--ink); }
+.toc-collapse svg { width: .9rem; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; transition: transform .2s ease; }
 .toc-mobile-toggle { display: none; }
 .toc-list { margin: 0; padding: 0; border-left: 1px solid var(--rule); list-style: none; }
 .toc-list li + li { margin-top: .15rem; }
@@ -299,6 +310,20 @@ button, input { font: inherit; }
   cursor: pointer;
 }
 .toc-actions button:hover { border-color: var(--ink); color: var(--ink); }
+
+@media (min-width: 1150px) {
+  .longform-article:not([data-toc-collapsed="true"]) .article-header,
+  .longform-article:not([data-toc-collapsed="true"]) .reader-column,
+  .longform-article:not([data-toc-collapsed="true"]) + .article-nav {
+    transform: translateX(var(--reader-shift));
+  }
+  .article-header, .article-nav { transition: transform .24s ease; }
+  .longform-article[data-toc-collapsed="true"] .reader-rail { width: 2.65rem; overflow: hidden; padding-right: 0; }
+  .longform-article[data-toc-collapsed="true"] .toc-heading,
+  .longform-article[data-toc-collapsed="true"] .toc-body { display: none; }
+  .longform-article[data-toc-collapsed="true"] .toc-desktop-head { justify-content: flex-start; }
+  .longform-article[data-toc-collapsed="true"] .toc-collapse svg { transform: rotate(180deg); }
+}
 
 /* Article typography */
 .article-content {
@@ -467,6 +492,9 @@ button, input { font: inherit; }
 .article-content .footnotes a { text-underline-offset: .15em; }
 
 .article-nav {
+  --toc-width: clamp(11.5rem, 16vw, 14rem);
+  --toc-left: clamp(1rem, 3vw, 3rem);
+  --reader-shift: calc((var(--toc-width) + var(--toc-left)) / 2);
   width: min(calc(100% - 2rem), 48rem);
   margin: 0 auto 6rem;
   display: grid;
@@ -485,7 +513,7 @@ button, input { font: inherit; }
 @media (max-width: 1149px) {
   .reader-shell { width: min(calc(100% - 2rem), 42rem); }
   .reader-rail { position: static; }
-  .toc-heading { display: none; }
+  .toc-desktop-head { display: none; }
   .toc-mobile-toggle {
     width: 100%;
     padding: .9rem 0;

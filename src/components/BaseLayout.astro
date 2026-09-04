@@ -42,8 +42,7 @@ const imageUrl = new URL(withBase(image), Astro.site ?? "https://example.com");
     <meta name="twitter:image" content={imageUrl.toString()} />
     <script is:inline>
       const storedTheme = localStorage.getItem("civitas-theme");
-      const preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-      document.documentElement.dataset.theme = storedTheme || preferredTheme;
+      document.documentElement.dataset.theme = storedTheme || "dark";
     </script>
   </head>
   <body>
