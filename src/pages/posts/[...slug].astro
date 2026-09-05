@@ -178,7 +178,6 @@ const next = posts[current - 1];
   const sharedTitle = shareSection?.dataset.shareTitle ?? document.title;
   const sharedAuthor = shareSection?.dataset.shareAuthor ?? "Civitas";
   const sharedUrl = window.location.href.split(/[?#]/)[0];
-  const sharedDisplayUrl = sharedUrl.replace(/^https?:\/\//, "").replace(/\/$/, "");
 
   if (whatsappLink) {
     const message = `Leia “${sharedTitle}” no Civitas:\n${sharedUrl}`;
@@ -229,24 +228,6 @@ const next = posts[current - 1];
       lines[lastIndex] = `${lines[lastIndex]}…`;
     }
     return { lines, size: 52 };
-  };
-
-  const wrapCanvasUrl = (context: CanvasRenderingContext2D, url: string, maxWidth: number) => {
-    const parts = url.split("/");
-    const lines: string[] = [];
-    let line = parts.shift() ?? "";
-
-    parts.forEach((part) => {
-      const candidate = `${line}/${part}`;
-      if (line && context.measureText(candidate).width > maxWidth) {
-        lines.push(line);
-        line = part;
-      } else {
-        line = candidate;
-      }
-    });
-    if (line) lines.push(line);
-    return lines;
   };
 
   const createShareArtwork = async (format: ShareFormat) => {
@@ -309,9 +290,8 @@ const next = posts[current - 1];
     context.font = `600 ${story ? 21 : 19}px Arial, sans-serif`;
     context.fillText("LEIA O TEXTO COMPLETO", width / 2, linkBandTop + (story ? 62 : 38));
     context.font = `400 ${story ? 21 : 18}px Arial, sans-serif`;
-    const urlLines = wrapCanvasUrl(context, sharedDisplayUrl, width - padding * 2);
     const urlTop = linkBandTop + (story ? 116 : 79);
-    urlLines.forEach((line, index) => context.fillText(line, width / 2, urlTop + index * (story ? 31 : 27)));
+    context.fillText("mathbsouza.github.io/Civitas", width / 2, urlTop);
 
     return new Promise<Blob>((resolve, reject) => {
       canvas.toBlob((blob) => blob ? resolve(blob) : reject(new Error("Falha ao gerar a imagem")), "image/png");
