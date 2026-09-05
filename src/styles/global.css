@@ -1459,9 +1459,13 @@ main, .longform-article, .article-header, .article-heading, .reader-shell, .arti
 .article-nav { transition: transform .24s ease; }
 
 @media (min-width: 1180px) {
-  body.reader-guide-open .article-heading,
-  body.reader-guide-open .reader-shell,
-  body.reader-guide-open .article-nav {
+  .longform-article:not([data-toc-collapsed="true"]) .article-header,
+  .longform-article:not([data-toc-collapsed="true"]) + .article-nav {
+    transform: none;
+  }
+  body.reader-guide-open .longform-article .article-heading,
+  body.reader-guide-open .longform-article .reader-shell,
+  body.reader-guide-open .longform-article + .article-nav {
     transform: translateX(calc(var(--reader-guide-width) / 2));
   }
 }
