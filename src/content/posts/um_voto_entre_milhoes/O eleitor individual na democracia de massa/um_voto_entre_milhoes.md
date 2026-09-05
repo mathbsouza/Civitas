@@ -5,7 +5,7 @@ subtitle: "Decisividade, informação, elites e poder organizado"
 date: "2026-09-04"
 author: "Matheus Bento de Souza"
 tags: ["democracia", "eleições", "teoria política"]
-published: true
+published: false
 excerpt: "A distância entre a igualdade formal do voto e o poder causal efetivo do eleitor individual nas democracias de massa."
 ---
 

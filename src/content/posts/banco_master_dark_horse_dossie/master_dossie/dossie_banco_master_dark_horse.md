@@ -115,7 +115,7 @@ Uma representação ao Tribunal de Contas da União pediu apuração do contrato
 
 Outro detalhe relevante: segundo a Folha, **Jaques Wagner** foi quem indicou Lewandowski ao banco quando Vorcaro procurava um jurista.[^folha-master-lewandowski-2026] Assim, a conexão entre Master e Lewandowski também passa por um dos principais líderes do PT no Senado.
 
-### A relaçaõ de Jaques Wagner com o Banco Master
+### A relação de Jaques Wagner com o Banco Master
 
 A situação de **Jaques Wagner (PT-BA)** é juridicamente mais sensível porque a Polícia Federal não fala apenas em reuniões ou contratos de terceiros. Ela o descreveu como possível **“beneficiário central” de vantagens econômicas indevidas**.[^uol-jaques-wagner-master-2026] Segundo a investigação, estruturas ligadas ao Master teriam proporcionado ao senador:
 
@@ -299,6 +299,8 @@ Ainda falta julgamento e contraditório completo. Mas, como estrutura probatóri
 ---
 
 ## Como o Banco Master se aproximou do Judiciário e do sistema de Justiça?
+
+Segundo relatório da Polícia Federal tornado público em setembro de 2026, o contato entre **Daniel Vorcaro e Alexandre de Moraes** começou a ser construído no fim de 2023 por intermédio de **Fábio Faria**, ex-ministro das Comunicações de Jair Bolsonaro. Em **26 de dezembro de 2023**, Faria compartilhou com Vorcaro um número atribuído ao ministro, salvo segundos depois na agenda do banqueiro como “Alexandre de Moraes BRASILIA”; nos dias e meses seguintes, também participou da articulação de encontros entre os dois. As mensagens ainda mostram Faria nas tratativas que antecederam o contrato do Banco Master com o escritório de **Viviane Barci de Moraes**, embora ele tenha afirmado que apenas sugeriu a banca para uma causa em São Paulo, que não se reuniu com seus integrantes e que desconhecia os valores contratados.[^cnn-fabio-faria-moraes-vorcaro-2026]
 
 ### O que contratos, encontros e mensagens revelam sobre Alexandre de Moraes?
 
@@ -564,6 +566,8 @@ O caso só será compreendido por inteiro quando for possível ligar, com prova,
     
 [^senado-pec-65-tramitacao-2026]: **Senado Federal.** tramitação da PEC 65/2023 [Internet]. 2026 jun 10 [citado 2026 set 5]. Disponível em: [https://www25.senado.leg.br/web/atividade/materias/-/materia/161269](https://www25.senado.leg.br/web/atividade/materias/-/materia/161269). Trecho-chave: o parecer da CCJ foi **contrário à Emenda nº 11**, que consta como prejudicada.
     
+[^cnn-fabio-faria-moraes-vorcaro-2026]: **CNN Brasil.** Fábio Faria aproximou Moraes e Vorcaro, diz PF [Internet]. 2026 set 1 [citado 2026 set 5]. Disponível em: <https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/fabio-faria-intermediou-contatos-entre-moraes-e-vorcaro-diz-pf/>. Trecho-chave: Faria compartilhou com Vorcaro o contato atribuído a Moraes, articulou encontros entre os dois e apareceu nas tratativas anteriores ao contrato com o escritório de Viviane Barci de Moraes.
+
 [^uol-moraes-contrato-master-2026]: **UOL.** Moraes analisou contrato de R$ 131 mi do escritório da esposa com Vorcaro [Internet]. 2026 set 1 [citado 2026 set 5]. Disponível em: <https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/moraes-editou-contrato-de-r-131-mi-do-escritorio-da-esposa-com-vorcaro.ghtm>. Trecho-chave: “**editou a versão final de um contrato de R$ 131 milhões**”.
     
 [^uol-moraes-vorcaro-mensagens-2026]: **UOL.** Veja as mensagens trocadas por Alexandre de Moraes e Vorcaro, segundo a PF [Internet]. 2026 set 1 [citado 2026 set 5]. Disponível em: [https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-vorcaro-moraes.ghtm](https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-vorcaro-moraes.ghtm). Trecho-chave: “**tentou usar sua proximidade [...] para conter o avanço das investigações**”.
