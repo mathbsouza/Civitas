@@ -10,40 +10,28 @@ export default function PostExplorer({ posts }: { posts: PostSummary[] }) {
       : posts;
   }, [posts, query]);
 
-  const groups = useMemo(() => {
-    return filtered.reduce<Record<string, PostSummary[]>>((result, post) => {
-      (result[post.folder] ??= []).push(post);
-      return result;
-    }, {});
-  }, [filtered]);
-
   return (
     <div className="explorer">
       <label className="search-row">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m16 16 5 5" /></svg>
         <span className="sr-only">Pesquisar textos</span>
-        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Pesquisar" autoComplete="off" />
+        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Pesquisar no arquivo" autoComplete="off" />
         {query && <button className="clear-button" type="button" onClick={() => setQuery("")} aria-label="Limpar pesquisa">×</button>}
       </label>
 
-      <nav className="folder-index" aria-label="Textos por pasta">
-        {Object.entries(groups).map(([folder, entries]) => (
-          <section className="folder-group" key={folder}>
-            <h2 className="folder-name">{folder}</h2>
-            <div className="vertical-index">
-              {entries.map((post, index) => (
-                <a className="index-item" href={post.url} key={post.slug}>
-                  <span className="index-number">{String(index + 1).padStart(2, "0")}</span>
-                  <span className="index-title">{post.title}</span>
-                  <time dateTime={post.date}>{post.formattedDate}</time>
-                </a>
-              ))}
-            </div>
-          </section>
-        ))}
+      <nav aria-label="Arquivo de textos">
+        <ul className="archive-list">
+          {filtered.map((post) => (
+            <li key={post.slug}>
+              <a href={post.url}>
+                <time dateTime={post.date}>{post.date.slice(0, 10)}</time>
+                <span>{post.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
       </nav>
 
-      {!filtered.length && <p className="empty-state">—</p>}
+      {!filtered.length && <p className="empty-state">Nenhum texto encontrado.</p>}
     </div>
   );
 }

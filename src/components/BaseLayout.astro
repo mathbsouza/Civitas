@@ -31,6 +31,9 @@ const imageUrl = new URL(withBase(image), Astro.site ?? "https://example.com");
     <link rel="canonical" href={canonical.toString()} />
     <link rel="icon" type="image/svg+xml" href={withBase("/images/brand/civitas-mark.svg")} />
     <link rel="alternate" type="application/rss+xml" title={`${SITE.name} RSS`} href={withBase(SITE.rssPath)} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@500;600;700&family=Inconsolata:wght@400;600&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
@@ -40,10 +43,6 @@ const imageUrl = new URL(withBase(image), Astro.site ?? "https://example.com");
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl.toString()} />
-    <script is:inline>
-      const storedTheme = localStorage.getItem("civitas-theme");
-      document.documentElement.dataset.theme = storedTheme || "dark";
-    </script>
   </head>
   <body>
     <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>

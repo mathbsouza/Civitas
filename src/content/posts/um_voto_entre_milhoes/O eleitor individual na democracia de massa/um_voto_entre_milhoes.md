@@ -1,5 +1,6 @@
 ---
 title: "O eleitor individual na democracia de massa"
+slug: "um_voto_entre_milhoes/um_voto_entre_milhoes"
 subtitle: "Decisividade, informação, elites e poder organizado"
 date: "2026-09-04"
 author: "Matheus Bento de Souza"

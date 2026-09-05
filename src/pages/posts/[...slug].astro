@@ -2,12 +2,13 @@
 import { getCollection, render } from "astro:content";
 import BaseLayout from "../../components/BaseLayout.astro";
 import PostMeta from "../../components/PostMeta.astro";
-import TagList from "../../components/TagList.astro";
 import { formatDate, getPostCover, getPostPath, getPostSlug, getPublishedPosts, getReadingTime } from "../../lib/posts";
 import { withBase } from "../../lib/site";
 
 export async function getStaticPaths() {
-  return (await getCollection("posts")).filter((post) => post.data.published).map((post) => ({ params: { slug: getPostSlug(post) }, props: { post } }));
+  return (await getCollection("posts"))
+    .filter((post) => post.data.published)
+    .map((post) => ({ params: { slug: getPostSlug(post) }, props: { post } }));
 }
 
 const { post } = Astro.props;
@@ -21,217 +22,35 @@ const next = posts[current - 1];
 <BaseLayout title={post.data.title} description={post.data.subtitle ?? post.data.excerpt} image={getPostCover(post)}>
   <article class="longform-article">
     <header class="article-header">
-      <p class="article-format">Dossiê</p>
-      <TagList tags={post.data.tags} />
-      <h1 class="article-title">{post.data.title}</h1>
-      {post.data.subtitle && <p class="article-subtitle">{post.data.subtitle}</p>}
-      <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
-    </header>
-    {post.data.cover && <figure class="article-cover"><img src={withBase(getPostCover(post))} alt="" loading="eager" /></figure>}
-    <div class="reading-progress" aria-hidden="true"><span></span></div>
-    <div class="reader-shell">
-      <aside class="reader-rail">
-        <nav class="reader-toc" aria-label="Sumário do dossiê">
-          <div class="toc-desktop-head">
-            <p class="toc-heading"><span>Sumário</span><span class="section-count" aria-live="polite"></span></p>
-            <button class="toc-collapse" type="button" aria-expanded="true" aria-label="Recolher sumário" title="Recolher sumário">
-              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6" /></svg>
-            </button>
-          </div>
-          <button class="toc-mobile-toggle" type="button" aria-expanded="false" aria-controls="toc-body">
-            <span>Sumário</span>
-            <span class="section-count" aria-live="polite"></span>
-          </button>
-          <div class="toc-body" id="toc-body">
-            <ol class="toc-list"></ol>
-            <div class="toc-actions" aria-label="Controles das perguntas">
-              <button type="button" data-accordion-action="open">Abrir todas</button>
-              <button type="button" data-accordion-action="close">Fechar todas</button>
-            </div>
-          </div>
-        </nav>
-      </aside>
-      <div class="reader-column">
-        <div class="article-content"><Content /></div>
+      <div class="article-heading">
+        <h1 class="article-title">{post.data.title}</h1>
+        {post.data.subtitle && <p class="article-subtitle">{post.data.subtitle}</p>}
+        <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
       </div>
+    </header>
+
+    {post.data.cover && <figure class="article-cover"><img src={withBase(getPostCover(post))} alt="" loading="eager" /></figure>}
+
+    <div class="reader-shell">
+      <div class="article-content"><Content /></div>
     </div>
   </article>
+
   <nav class="article-nav" aria-label="Textos adjacentes">
-    {previous ? <a href={withBase(getPostPath(previous))}><small>←</small><strong>{previous.data.title}</strong></a> : <span></span>}
-    {next ? <a class="nav-next" href={withBase(getPostPath(next))}><small>→</small><strong>{next.data.title}</strong></a> : <span></span>}
+    {previous ? <a href={withBase(getPostPath(previous))}><small>Anterior</small><strong>{previous.data.title}</strong></a> : <span></span>}
+    {next ? <a class="nav-next" href={withBase(getPostPath(next))}><small>Próximo</small><strong>{next.data.title}</strong></a> : <span></span>}
   </nav>
 </BaseLayout>
 
 <script>
   const content = document.querySelector<HTMLElement>(".article-content");
-  const counts = document.querySelectorAll<HTMLElement>(".section-count");
-  const tocList = document.querySelector<HTMLOListElement>(".toc-list");
-  const tocToggle = document.querySelector<HTMLButtonElement>(".toc-mobile-toggle");
-  const tocCollapse = document.querySelector<HTMLButtonElement>(".toc-collapse");
-  const article = document.querySelector<HTMLElement>(".longform-article");
-  const progress = document.querySelector<HTMLElement>(".reading-progress span");
+  content?.querySelectorAll<HTMLAnchorElement>('a[href^="http"]').forEach((link) => {
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    if (!link.closest(".footnotes")) link.classList.add("source-link");
+  });
 
-  if (content) {
-    const headings = Array.from(content.children).filter((node) => node.tagName === "H2") as HTMLHeadingElement[];
-
-    headings.forEach((heading, index) => {
-      const details = document.createElement("details");
-      details.className = "dossier-section";
-      details.open = index === 0;
-
-      const summary = document.createElement("summary");
-      const number = document.createElement("span");
-      number.className = "question-number";
-      number.textContent = String(index + 1).padStart(2, "0");
-
-      const question = document.createElement("div");
-      question.className = "question-copy";
-      question.append(heading.cloneNode(true));
-
-      const toggle = document.createElement("span");
-      toggle.className = "question-toggle";
-      toggle.setAttribute("aria-hidden", "true");
-      summary.append(number, question, toggle);
-      details.appendChild(summary);
-      heading.before(details);
-      heading.remove();
-
-      const panel = document.createElement("div");
-      panel.className = "accordion-panel";
-      details.appendChild(panel);
-
-      let sibling = details.nextSibling;
-      while (sibling) {
-        const next = sibling.nextSibling;
-        const isSectionBoundary = sibling instanceof HTMLElement && (
-          sibling.tagName === "H1" ||
-          sibling.tagName === "H2" ||
-          sibling.classList.contains("footnotes")
-        );
-        if (isSectionBoundary) break;
-        if (!(sibling instanceof HTMLElement && sibling.tagName === "HR")) panel.appendChild(sibling);
-        else sibling.remove();
-        sibling = next;
-      }
-
-      const subheadings = Array.from(panel.children).filter((node) => node.tagName === "H3") as HTMLHeadingElement[];
-      subheadings.forEach((subheading) => {
-        const section = document.createElement("section");
-        section.className = "subquestion-block";
-        if (subheading.id) section.setAttribute("aria-labelledby", subheading.id);
-
-        subheading.before(section);
-        section.append(subheading);
-
-        let child = section.nextSibling;
-        while (child) {
-          const next = child.nextSibling;
-          if (child instanceof HTMLElement && child.tagName === "H3") break;
-          section.appendChild(child);
-          child = next;
-        }
-
-        const lede = Array.from(section.children).find((element) => element.tagName === "P");
-        lede?.classList.add("answer-lede");
-      });
-    });
-
-    const accordions = Array.from(content.querySelectorAll<HTMLDetailsElement>(".dossier-section"));
-    counts.forEach((count) => { count.textContent = `${accordions.length} perguntas`; });
-
-    accordions.forEach((details) => {
-      const heading = details.querySelector<HTMLHeadingElement>("summary h2");
-      if (!heading || !tocList) return;
-      const item = document.createElement("li");
-      const link = document.createElement("a");
-      link.href = `#${heading.id}`;
-      link.textContent = heading.textContent;
-      link.addEventListener("click", (event) => {
-        event.preventDefault();
-        details.open = true;
-        history.replaceState(null, "", `#${heading.id}`);
-        heading.scrollIntoView({ behavior: "smooth", block: "start" });
-        if (tocToggle) tocToggle.setAttribute("aria-expanded", "false");
-      });
-      item.appendChild(link);
-      tocList.appendChild(item);
-    });
-
-    content.querySelectorAll<HTMLAnchorElement>('a[href^="http"]').forEach((link) => {
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      if (!link.closest(".footnotes")) link.classList.add("source-link");
-    });
-
-    const footnotes = content.querySelector<HTMLElement>(".footnotes");
-    const footnoteCount = footnotes?.querySelectorAll("li").length ?? 0;
-    if (footnotes && footnoteCount) footnotes.dataset.count = `${footnoteCount} fontes consultadas`;
-
-    document.querySelectorAll<HTMLButtonElement>("[data-accordion-action]").forEach((button) => {
-      button.addEventListener("click", () => {
-        const shouldOpen = button.dataset.accordionAction === "open";
-        accordions.forEach((details) => { details.open = shouldOpen; });
-      });
-    });
-
-    tocToggle?.addEventListener("click", () => {
-      const isOpen = tocToggle.getAttribute("aria-expanded") === "true";
-      tocToggle.setAttribute("aria-expanded", String(!isOpen));
-    });
-
-    const setTocCollapsed = (collapsed: boolean) => {
-      if (!article || !tocCollapse) return;
-      article.dataset.tocCollapsed = String(collapsed);
-      tocCollapse.setAttribute("aria-expanded", String(!collapsed));
-      tocCollapse.setAttribute("aria-label", collapsed ? "Expandir sumário" : "Recolher sumário");
-      tocCollapse.title = collapsed ? "Expandir sumário" : "Recolher sumário";
-    };
-
-    setTocCollapsed(localStorage.getItem("civitas-toc-collapsed") === "true");
-    tocCollapse?.addEventListener("click", () => {
-      const collapsed = article?.dataset.tocCollapsed !== "true";
-      setTocCollapsed(collapsed);
-      localStorage.setItem("civitas-toc-collapsed", String(collapsed));
-    });
-
-    const updateReaderState = () => {
-      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
-      if (progress) progress.style.transform = `scaleX(${scrollable > 0 ? window.scrollY / scrollable : 0})`;
-
-      let active = accordions[0];
-      accordions.forEach((details) => {
-        if (details.getBoundingClientRect().top <= 170) active = details;
-      });
-      const activeId = active?.querySelector("h2")?.id;
-      tocList?.querySelectorAll("a").forEach((link) => {
-        link.classList.toggle("is-active", link.getAttribute("href") === `#${activeId}`);
-      });
-    };
-
-    let ticking = false;
-    window.addEventListener("scroll", () => {
-      if (ticking) return;
-      ticking = true;
-      requestAnimationFrame(() => {
-        updateReaderState();
-        ticking = false;
-      });
-    }, { passive: true });
-
-    if (window.location.hash) {
-      const target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
-      target?.closest("details")?.setAttribute("open", "");
-      requestAnimationFrame(() => target?.scrollIntoView({ block: "start" }));
-    }
-
-    let printState: boolean[] = [];
-    window.addEventListener("beforeprint", () => {
-      printState = accordions.map((details) => details.open);
-      accordions.forEach((details) => { details.open = true; });
-    });
-    window.addEventListener("afterprint", () => {
-      accordions.forEach((details, index) => { details.open = printState[index] ?? false; });
-    });
-    updateReaderState();
-  }
+  const footnotes = content?.querySelector<HTMLElement>(".footnotes");
+  const footnoteCount = footnotes?.querySelectorAll("li").length ?? 0;
+  if (footnotes && footnoteCount) footnotes.dataset.count = `${footnoteCount} fontes consultadas`;
 </script>

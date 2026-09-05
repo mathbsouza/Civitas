@@ -33,7 +33,7 @@ export async function getPublishedPosts() {
 }
 
 export function getPostSlug(post: PostEntry) {
-  return post.id.replace(/\/index$/, "");
+  return post.data.slug ?? post.id.replace(/\/index$/, "");
 }
 
 export function getPostPath(post: PostEntry) {

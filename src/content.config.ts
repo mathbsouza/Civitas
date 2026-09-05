@@ -14,6 +14,7 @@ const posts = defineCollection({
   }),
   schema: z.object({
     title: z.string(),
+    slug: z.string().optional(),
     subtitle: z.string().optional(),
     date: z.coerce.date(),
     author: z.string().default("Matheus"),

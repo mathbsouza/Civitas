@@ -9,8 +9,26 @@ const summaries = posts.map((post) => toPostSummary(post, withBase(getPostCover(
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <section class="home-shell">
-    <h1 class="home-name">Civitas</h1>
-    <PostExplorer client:load posts={summaries} />
+  <section class="home-hero" aria-labelledby="home-title">
+    <div class="hero-lockup">
+      <h1 id="home-title">Civitas</h1>
+      <div class="ornamental-divider" aria-hidden="true"><span></span></div>
+      <p>por {SITE.author}</p>
+    </div>
+  </section>
+
+  <section class="home-welcome">
+    <div class="section-shell prose-intro">
+      <h2>Bem-vindo ao Civitas</h2>
+      <p>{SITE.description}</p>
+      <p>Ensaios para leitura lenta, consulta e debate sobre as ideias e instituições que organizam a vida comum.</p>
+    </div>
+  </section>
+
+  <section class="home-archive" id="arquivo">
+    <div class="section-shell">
+      <h2>Arquivo cronológico</h2>
+      <PostExplorer client:load posts={summaries} />
+    </div>
   </section>
 </BaseLayout>
