@@ -261,17 +261,24 @@ A hipótese que melhor explica o material público hoje, sem inventar um ato de 
 
 ### Se era investimento privado, onde poderia existir crime?
 
-Esse é o melhor argumento defensivo e precisa ser levado a sério. [^intercept-flavio-vorcaro-dark-horse-2026] Não é ilegal um empresário investir R$ 60 milhões, R$ 100 milhões ou R$ 130 milhões em um filme sobre um ex-presidente. Também não é ilegal um senador ajudar a captar investimento privado para uma produção de sua família, desde que não use indevidamente o cargo ou ofereça contrapartida pública. Portanto, **o financiamento do Dark Horse, isoladamente, não prova corrupção**. No entanto, as evidências aqui tomadas sugerem, no mínimo, que esse caso seja levado a sério.
+O argumento de que Dark Horse recebeu “apenas investimento privado” é insuficiente. Ser privado descreve a origem formal do pagamento; não demonstra que se tratava de um investimento comercial ordinário nem exclui corrupção, tráfico de influência ou lavagem. Alguns elementos tornam essa explicação particularmente incompleta:
 
-O problema jurídico depende de perguntas adicionais:
+- Flávio Bolsonaro participou diretamente da captação e das cobranças, negociando com Vorcaro aproximadamente US$ 24 milhões para um projeto de interesse político e familiar evidente.[^intercept-flavio-vorcaro-dark-horse-2026]
+- Vorcaro tratou o pagamento como prioridade excepcional, chamando-o de “o mais importante disparado”, mesmo enquanto o Master enfrentava crescente pressão financeira e regulatória.[^intercept-pagamento-dark-horse-2026]
+- O compromisso de cerca de US$ 24 milhões correspondia praticamente ao orçamento integral do filme, tornando relevante saber qual retorno econômico justificaria tamanho investimento.[^intercept-eduardo-dark-horse-contrato-2026]
+- O dinheiro chegou ao projeto por uma estrutura intermediada — Entre → Havengate → produção —, e o fundo receptor era administrado por pessoa ligada a Eduardo Bolsonaro, que possuía poder formal sobre a gestão financeira do filme.[^folha-havengate-eduardo-2026][^intercept-eduardo-dark-horse-contrato-2026]
+- Os pagamentos continuaram depois que o Banco Central rejeitou a compra do Master pelo BRB: Flávio cobrou Vorcaro em 8 de setembro de 2025 e uma nova parcela de US$ 1,67 milhão foi enviada oito dias depois.[^piaui-caixa-preta-dark-horse-2026]
+- As mensagens mostram que o financiamento produziu gratidão e proximidade política explícitas: Flávio atribuiu a Vorcaro a viabilização do projeto e, na véspera da prisão do banqueiro, chamou-o de “irmão” e prometeu estar com ele “sempre”.[^intercept-flavio-vorcaro-dark-horse-2026]
 
-1. **O dinheiro era realmente do investidor privado ou derivava de fraude bancária, desvio ou ativos sem lastro?** [^intercept-flavio-vorcaro-dark-horse-2026]
-2. **O investimento tinha expectativa econômica real ou funcionava como transferência de patrimônio para beneficiar politicamente e pessoalmente os Bolsonaro?** [^intercept-flavio-vorcaro-dark-horse-2026]
-3. **Flávio, Eduardo, Mario Frias ou outros agentes públicos ofereceram ou praticaram atos em favor de Vorcaro em troca do financiamento?** [^intercept-flavio-vorcaro-dark-horse-2026]
-4. **Parte do dinheiro foi desviada do filme para despesas pessoais ou atividade política?** [^intercept-flavio-vorcaro-dark-horse-2026]
-5. **Houve ocultação deliberada da origem, destino ou beneficiário final dos recursos?** [^intercept-flavio-vorcaro-dark-horse-2026]
+Nada disso, isoladamente, prova uma contrapartida pública. Mas mostra por que “era dinheiro privado” não encerra a questão. Um pagamento privado pode ser perfeitamente lícito; também pode funcionar como vantagem indevida se realizado em troca de atuação pública, como mecanismo de compra de influência ou como meio de ocultar a origem e o destino de recursos.
 
-É por isso que a expressão “foi só investimento privado” não encerra o caso. Ela responde apenas à pergunta mais superficial: **qual era a forma aparente do pagamento?** Corrupção e lavagem frequentemente usam contratos formalmente privados. O que importa é a causa real do pagamento e sua eventual contrapartida.
+A pergunta central, portanto, não é:
+
+> “O dinheiro era privado?”
+
+E sim:
+
+> “Por que o controlador de um banco em crise decidiu comprometer dezenas de milhões de dólares com um projeto de interesse direto de uma poderosa família política, tratou esse pagamento como prioridade absoluta, continuou pagando durante o agravamento de sua crise regulatória e o fez através de uma estrutura financeira cuja racionalidade econômica ainda não está publicamente esclarecida?”
 
 --- 
 
