@@ -816,7 +816,7 @@ html {
 }
 
 body {
-  padding-top: 0;
+  padding-top: var(--header-height);
   background: var(--paper);
   color: #333;
   font-family: var(--serif);
@@ -830,9 +830,8 @@ body.menu-open { overflow: hidden; }
 
 /* Black masthead and off-canvas navigation */
 .site-header {
-  position: sticky;
-  inset: auto;
-  top: 0;
+  position: fixed;
+  inset: 0 0 auto;
   z-index: 100;
   height: var(--header-height);
   border: 0;
@@ -1424,13 +1423,26 @@ main, .longform-article, .article-header, .article-heading, .reader-shell, .arti
   font: 400 .68rem/1 var(--mono);
 }
 .reader-guide-close {
-  margin-top: -.3rem;
-  padding: 0;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin-top: -.25rem;
+  padding: .35rem;
+  display: grid;
+  place-items: center;
   border: 0;
   background: transparent;
   color: #111;
-  font: 300 1.8rem/1 var(--serif);
   cursor: pointer;
+}
+.reader-guide-close:hover { background: #f4f4f4; }
+.reader-guide-close svg {
+  width: 1rem;
+  height: 1rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 .reader-guide-list { margin: 0; padding: 0; list-style: none; }
 .reader-guide-list li { margin: 0; border-bottom: 1px solid #ddd; }
@@ -1480,7 +1492,7 @@ main, .longform-article, .article-header, .article-heading, .reader-shell, .arti
     padding: .5rem .65rem;
   }
   .reader-guide {
-    top: 0;
+    top: var(--header-height);
     right: auto;
     bottom: 0;
     left: 0;
@@ -1505,6 +1517,7 @@ main, .longform-article, .article-header, .article-heading, .reader-shell, .arti
 }
 
 @media print {
+  body { padding-top: 0; }
   .reader-guide, .reader-guide-trigger, .reader-guide-scrim { display: none !important; }
 }
 

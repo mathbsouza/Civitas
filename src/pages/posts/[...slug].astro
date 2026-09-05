@@ -31,15 +31,17 @@ const next = posts[current - 1];
 
     {post.data.cover && <figure class="article-cover"><img src={withBase(getPostCover(post))} alt="" loading="eager" /></figure>}
 
-    <button class="reader-guide-trigger" type="button" aria-expanded="false" aria-controls="reader-guide">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" /></svg>
+    <button class="reader-guide-trigger" type="button" aria-expanded="false" aria-controls="reader-guide" aria-label="Expandir sumário">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 7 7-7 7" /></svg>
       <span>Sumário</span>
     </button>
     <button class="reader-guide-scrim" type="button" tabindex="-1" aria-label="Fechar sumário"></button>
     <aside class="reader-guide" id="reader-guide" aria-hidden="true" inert>
       <div class="reader-guide-head">
         <div><span>Neste texto</span><small class="reader-guide-count"></small></div>
-        <button class="reader-guide-close" type="button" aria-label="Recolher sumário">×</button>
+        <button class="reader-guide-close" type="button" aria-label="Recolher sumário">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 5-7 7 7 7" /></svg>
+        </button>
       </div>
       <nav aria-label="Sumário do texto">
         <ol class="reader-guide-list"></ol>
@@ -70,6 +72,7 @@ const next = posts[current - 1];
   const setGuide = (open: boolean, remember = true) => {
     document.body.classList.toggle("reader-guide-open", open);
     guideTrigger?.setAttribute("aria-expanded", String(open));
+    guideTrigger?.setAttribute("aria-label", open ? "Recolher sumário" : "Expandir sumário");
     guide?.setAttribute("aria-hidden", String(!open));
     if (guide) guide.inert = !open;
     if (remember && desktopGuide.matches) localStorage.setItem("civitas-reader-guide", open ? "open" : "closed");
