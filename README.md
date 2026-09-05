@@ -58,3 +58,15 @@ Imagens funcionam pela sintaxe Markdown. HTML pode ser usado para mídia rica:
 ```
 
 Use `.mdx` quando precisar importar componentes interativos. Textos com `published: false` ficam fora do site e do RSS.
+
+## Referências
+
+Use notas Markdown com uma tag semântica e exclusiva para cada fonte. A numeração exibida é criada automaticamente pela ordem da primeira citação, no padrão Vancouver:
+
+```md
+Uma afirmação documentada.[^folha-master-cdbs-2025]
+
+[^folha-master-cdbs-2025]: **Folha de S.Paulo.** Título da matéria [Internet]. 2025 out 16 [citado 2026 set 5]. Disponível em: <https://exemplo.com/materia>.
+```
+
+Não acrescente um segundo link depois da nota. No reader, `[1]` abre a referência completa ao passar o cursor; em telas de toque, abre ao tocar. A fonte completa contém o link externo, e a lista final mostra tanto a ordem numérica quanto a tag autoral.

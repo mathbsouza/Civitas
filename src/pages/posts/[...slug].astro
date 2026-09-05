@@ -134,6 +134,138 @@ const next = posts[current - 1];
   });
 
   const footnotes = content?.querySelector<HTMLElement>(".footnotes");
-  const footnoteCount = footnotes?.querySelectorAll("li").length ?? 0;
-  if (footnotes && footnoteCount) footnotes.dataset.count = `${footnoteCount} fontes consultadas`;
+  const footnoteItems = footnotes
+    ? Array.from(footnotes.querySelectorAll<HTMLElement>(":scope > ol > li"))
+    : [];
+  const footnoteCount = footnoteItems.length;
+
+  if (footnotes && footnoteCount) {
+    footnotes.dataset.count = `${footnoteCount} referências · ordem de citação`;
+    const label = footnotes.querySelector<HTMLElement>("#footnote-label");
+    if (label) label.textContent = "Referências";
+  }
+
+  footnoteItems.forEach((reference, index) => {
+    reference.dataset.referenceNumber = String(index + 1);
+    reference.dataset.referenceTag = decodeURIComponent(reference.id.replace(/^user-content-fn-/, ""));
+  });
+
+  if (footnotes && footnoteCount) {
+    const citationPreview = document.createElement("aside");
+    citationPreview.className = "citation-preview";
+    citationPreview.id = "citation-preview";
+    citationPreview.setAttribute("aria-hidden", "true");
+    citationPreview.innerHTML = `
+      <div class="citation-preview-head">
+        <strong class="citation-preview-label"></strong>
+        <span class="citation-preview-tag"></span>
+      </div>
+      <div class="citation-preview-body"></div>
+    `;
+    document.body.appendChild(citationPreview);
+
+    const previewLabel = citationPreview.querySelector<HTMLElement>(".citation-preview-label");
+    const previewTag = citationPreview.querySelector<HTMLElement>(".citation-preview-tag");
+    const previewBody = citationPreview.querySelector<HTMLElement>(".citation-preview-body");
+    const hoverCapable = window.matchMedia("(hover: hover) and (pointer: fine)");
+    let activeCitation: HTMLAnchorElement | null = null;
+    let closeTimer: number | undefined;
+
+    const referenceFor = (citation: HTMLAnchorElement) => {
+      const target = citation.getAttribute("href");
+      return target?.startsWith("#") ? document.getElementById(target.slice(1)) : null;
+    };
+
+    const positionPreview = () => {
+      if (!activeCitation || window.innerWidth <= 640) return;
+      const citationRect = activeCitation.getBoundingClientRect();
+      const previewRect = citationPreview.getBoundingClientRect();
+      const gutter = 12;
+      const left = Math.min(
+        window.innerWidth - previewRect.width - gutter,
+        Math.max(gutter, citationRect.left + citationRect.width / 2 - previewRect.width / 2),
+      );
+      let top = citationRect.bottom + 10;
+      if (top + previewRect.height > window.innerHeight - gutter) {
+        top = Math.max(gutter, citationRect.top - previewRect.height - 10);
+      }
+      citationPreview.style.left = `${left}px`;
+      citationPreview.style.top = `${top}px`;
+    };
+
+    const closePreview = () => {
+      if (closeTimer !== undefined) window.clearTimeout(closeTimer);
+      activeCitation?.setAttribute("aria-expanded", "false");
+      activeCitation = null;
+      citationPreview.classList.remove("is-open");
+      citationPreview.setAttribute("aria-hidden", "true");
+    };
+
+    const scheduleClose = () => {
+      closeTimer = window.setTimeout(closePreview, 180);
+    };
+
+    const openPreview = (citation: HTMLAnchorElement) => {
+      const reference = referenceFor(citation);
+      if (!reference || !previewBody) return;
+      if (closeTimer !== undefined) window.clearTimeout(closeTimer);
+
+      activeCitation?.setAttribute("aria-expanded", "false");
+      activeCitation = citation;
+      citation.setAttribute("aria-expanded", "true");
+
+      const number = citation.textContent?.trim() || reference.dataset.referenceNumber || "";
+      const tag = reference.dataset.referenceTag || "fonte";
+      if (previewLabel) previewLabel.textContent = `Referência ${number}`;
+      if (previewTag) previewTag.textContent = `#${tag}`;
+
+      const fullReference = reference.querySelector("p")?.cloneNode(true) as HTMLElement | undefined;
+      fullReference?.querySelectorAll("[data-footnote-backref]").forEach((backlink) => backlink.remove());
+      previewBody.replaceChildren(fullReference ?? reference.cloneNode(true));
+
+      citationPreview.classList.add("is-open");
+      citationPreview.setAttribute("aria-hidden", "false");
+      requestAnimationFrame(positionPreview);
+    };
+
+    const citations = Array.from(content?.querySelectorAll<HTMLAnchorElement>("a[data-footnote-ref]") ?? []);
+    citations.forEach((citation) => {
+      citation.classList.add("vancouver-citation");
+      citation.setAttribute("aria-controls", citationPreview.id);
+      citation.setAttribute("aria-expanded", "false");
+      citation.setAttribute("aria-label", `Referência ${citation.textContent?.trim()}. Passe o cursor para ver a fonte completa.`);
+      citation.addEventListener("pointerenter", () => openPreview(citation));
+      citation.addEventListener("pointerleave", scheduleClose);
+      citation.addEventListener("focus", () => openPreview(citation));
+      citation.addEventListener("blur", scheduleClose);
+      citation.addEventListener("click", (event) => {
+        if (!hoverCapable.matches) {
+          event.preventDefault();
+          activeCitation === citation && citationPreview.classList.contains("is-open")
+            ? closePreview()
+            : openPreview(citation);
+        } else {
+          closePreview();
+        }
+      });
+    });
+
+    citationPreview.addEventListener("pointerenter", () => {
+      if (closeTimer !== undefined) window.clearTimeout(closeTimer);
+    });
+    citationPreview.addEventListener("pointerleave", scheduleClose);
+    citationPreview.addEventListener("focusin", () => {
+      if (closeTimer !== undefined) window.clearTimeout(closeTimer);
+    });
+    citationPreview.addEventListener("focusout", scheduleClose);
+    document.addEventListener("pointerdown", (event) => {
+      const target = event.target as Node;
+      if (activeCitation && !citationPreview.contains(target) && !activeCitation.contains(target)) closePreview();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && activeCitation) closePreview();
+    });
+    window.addEventListener("resize", positionPreview, { passive: true });
+    window.addEventListener("scroll", closePreview, { passive: true });
+  }
 </script>
