@@ -26,6 +26,39 @@ const next = posts[current - 1];
         <h1 class="article-title">{post.data.title}</h1>
         {post.data.subtitle && <p class="article-subtitle">{post.data.subtitle}</p>}
         <PostMeta author={post.data.author} dateTime={post.data.date.toISOString()} displayDate={formatDate(post.data.date)} readingTime={getReadingTime(post.body)} />
+        <section
+          class="article-share"
+          aria-label="Compartilhar artigo"
+          data-share-title={post.data.title}
+          data-share-author={post.data.author}
+        >
+          <details class="article-share-menu">
+            <summary>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="18" cy="5" r="2.5"></circle>
+                <circle cx="6" cy="12" r="2.5"></circle>
+                <circle cx="18" cy="19" r="2.5"></circle>
+                <path d="m8.2 10.8 7.6-4.5M8.2 13.2l7.6 4.5"></path>
+              </svg>
+              <span>Compartilhar</span>
+            </summary>
+            <div class="article-share-options">
+              <a class="article-share-option" data-share-whatsapp href="#" target="_blank" rel="noopener noreferrer">
+                <span class="share-format-mark">WA</span>
+                <span><strong>WhatsApp</strong><small>Enviar o link</small></span>
+              </a>
+              <button class="article-share-option" type="button" data-share-image="feed">
+                <span class="share-format-mark share-format-feed" aria-hidden="true"></span>
+                <span><strong>Instagram Feed</strong><small>1080 × 1080 · link incluído</small></span>
+              </button>
+              <button class="article-share-option" type="button" data-share-image="story">
+                <span class="share-format-mark share-format-story" aria-hidden="true"></span>
+                <span><strong>Instagram Story</strong><small>1080 × 1920 · link incluído</small></span>
+              </button>
+              <p class="article-share-status" role="status" aria-live="polite"></p>
+            </div>
+          </details>
+        </section>
       </div>
     </header>
 
@@ -52,43 +85,6 @@ const next = posts[current - 1];
       <div class="article-content"><Content /></div>
     </div>
 
-    <section
-      class="article-share"
-      aria-label="Compartilhar artigo"
-      data-share-title={post.data.title}
-      data-share-author={post.data.author}
-    >
-      <div class="article-share-copy">
-        <span>Gostou do texto?</span>
-        <strong>Compartilhe com outras pessoas.</strong>
-      </div>
-      <details class="article-share-menu">
-        <summary>
-          <svg viewBox="0 0 24 24" aria-hidden="true">
-            <circle cx="18" cy="5" r="2.5"></circle>
-            <circle cx="6" cy="12" r="2.5"></circle>
-            <circle cx="18" cy="19" r="2.5"></circle>
-            <path d="m8.2 10.8 7.6-4.5M8.2 13.2l7.6 4.5"></path>
-          </svg>
-          <span>Compartilhar</span>
-        </summary>
-        <div class="article-share-options">
-          <a class="article-share-option" data-share-whatsapp href="#" target="_blank" rel="noopener noreferrer">
-            <span class="share-format-mark">WA</span>
-            <span><strong>WhatsApp</strong><small>Enviar o link</small></span>
-          </a>
-          <button class="article-share-option" type="button" data-share-image="feed">
-            <span class="share-format-mark share-format-feed" aria-hidden="true"></span>
-            <span><strong>Instagram Feed</strong><small>1080 × 1080 · link incluído</small></span>
-          </button>
-          <button class="article-share-option" type="button" data-share-image="story">
-            <span class="share-format-mark share-format-story" aria-hidden="true"></span>
-            <span><strong>Instagram Story</strong><small>1080 × 1920 · link incluído</small></span>
-          </button>
-          <p class="article-share-status" role="status" aria-live="polite"></p>
-        </div>
-      </details>
-    </section>
   </article>
 
   <nav class="article-nav" aria-label="Textos adjacentes">
