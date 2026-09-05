@@ -1,5 +1,5 @@
 ---
-title: "O banco que comprava proximidade"
+title: "O Escândalo do Banco Master"
 subtitle: "Como o caso Banco Master conecta risco financeiro, BRB, FGC, Dark Horse e uma rede suprapartidária de influência."
 date: "2026-09-04"
 author: "Matheus Bento de Souza"
