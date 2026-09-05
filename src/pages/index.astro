@@ -17,11 +17,9 @@ const summaries = posts.map((post) => toPostSummary(post, withBase(getPostCover(
     </div>
   </section>
 
-  <section class="home-welcome">
+  <section class="home-welcome home-disclaimer" aria-label="Nota editorial">
     <div class="section-shell prose-intro">
-      <h2>Bem-vindo ao Civitas</h2>
-      <p>{SITE.description}</p>
-      <p>Ensaios para leitura lenta, consulta e debate sobre as ideias e instituições que organizam a vida comum.</p>
+      <p class="editorial-note">Os textos contam com assistência de inteligência artificial e são revisados pelo autor.</p>
     </div>
   </section>
 
