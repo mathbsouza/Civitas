@@ -1118,7 +1118,7 @@ body.menu-open { overflow: hidden; }
   hanging-punctuation: first last;
 }
 .article-content p { margin: 0 0 1.15rem; }
-.article-content strong { color: #111; font-weight: 600; }
+.article-content strong { color: inherit; font-weight: inherit; }
 .article-content em { font-style: italic; }
 .article-content a {
   color: inherit;
@@ -1647,6 +1647,7 @@ main, .longform-article, .article-header, .article-heading, .reader-shell, .arti
   font: 650 .62em/1 var(--mono);
   letter-spacing: -.02em;
   text-decoration: none;
+  background-image: none;
   white-space: nowrap;
   cursor: pointer;
 }
