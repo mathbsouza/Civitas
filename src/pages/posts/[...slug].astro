@@ -329,53 +329,72 @@ const next = posts[current - 1];
     window.setTimeout(() => URL.revokeObjectURL(objectUrl), 1000);
   };
 
+  const sharedSlug = sharedTitle
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+  const preparedArtwork = new Map<ShareFormat, File>();
+
+  if (shareStatus) shareStatus.textContent = "Preparando as artes…";
+  const artworkJobs = Array.from(imageShareButtons).map(async (button) => {
+    const format = button.dataset.shareImage as ShareFormat;
+    button.disabled = true;
+    try {
+      const blob = await createShareArtwork(format);
+      preparedArtwork.set(format, new File([blob], `civitas-${sharedSlug}-${format}.png`, { type: "image/png" }));
+      button.disabled = false;
+    } catch {
+      button.dataset.shareError = "true";
+    }
+  });
+
+  Promise.allSettled(artworkJobs).then(() => {
+    if (!shareStatus) return;
+    shareStatus.textContent = preparedArtwork.size === imageShareButtons.length
+      ? ""
+      : "Uma das artes não pôde ser preparada neste navegador.";
+  });
+
   imageShareButtons.forEach((button) => {
-    button.addEventListener("click", async () => {
+    button.addEventListener("click", () => {
       const format = button.dataset.shareImage as ShareFormat;
       const label = format === "story" ? "Story" : "Feed";
-      const slug = sharedTitle
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-|-$/g, "");
-
-      button.disabled = true;
-      if (shareStatus) shareStatus.textContent = `Preparando a arte para ${label}…`;
-      const linkCopyPromise = navigator.clipboard?.writeText(sharedUrl)
-        .then(() => true)
-        .catch(() => false) ?? Promise.resolve(false);
-
-      try {
-        const blob = await createShareArtwork(format);
-        const file = new File([blob], `civitas-${slug}-${format}.png`, { type: "image/png" });
-        const linkCopied = await linkCopyPromise;
-        const supportsFileShare = typeof navigator.share === "function"
-          && typeof navigator.canShare === "function"
-          && navigator.canShare({ files: [file] });
-
-        if (supportsFileShare) {
-          await navigator.share({
-            title: sharedTitle,
-            text: `Leia no Civitas: ${sharedUrl}`,
-            url: sharedUrl,
-            files: [file],
-          });
-          if (shareStatus) shareStatus.textContent = `Arte para ${label} pronta${linkCopied ? " e link copiado" : ""}.`;
-        } else {
-          downloadArtwork(file);
-          if (shareStatus) shareStatus.textContent = `Arte para ${label} baixada${linkCopied ? " e link copiado" : ""}.`;
-        }
-        shareMenu?.removeAttribute("open");
-      } catch (error) {
-        if (error instanceof DOMException && error.name === "AbortError") {
-          if (shareStatus) shareStatus.textContent = "Compartilhamento cancelado.";
-        } else if (shareStatus) {
-          shareStatus.textContent = "Não foi possível preparar a imagem. Tente novamente.";
-        }
-      } finally {
-        button.disabled = false;
+      const file = preparedArtwork.get(format);
+      if (!file) {
+        if (shareStatus) shareStatus.textContent = `A arte para ${label} ainda está sendo preparada.`;
+        return;
       }
+
+      const supportsFileShare = typeof navigator.share === "function"
+        && typeof navigator.canShare === "function"
+        && navigator.canShare({ files: [file] });
+
+      if (supportsFileShare) {
+        button.disabled = true;
+        if (shareStatus) shareStatus.textContent = `Abrindo opções para compartilhar no ${label}…`;
+        navigator.share({ title: sharedTitle, files: [file] })
+          .then(() => {
+            if (shareStatus) shareStatus.textContent = `Arte para ${label} compartilhada.`;
+            shareMenu?.removeAttribute("open");
+          })
+          .catch((error) => {
+            if (error instanceof DOMException && error.name === "AbortError") {
+              if (shareStatus) shareStatus.textContent = "Compartilhamento cancelado.";
+            } else if (shareStatus) {
+              shareStatus.textContent = "O Instagram não aceitou o envio. A imagem será baixada.";
+              downloadArtwork(file);
+            }
+          })
+          .finally(() => { button.disabled = false; });
+        return;
+      }
+
+      downloadArtwork(file);
+      navigator.clipboard?.writeText(sharedUrl).catch(() => undefined);
+      if (shareStatus) shareStatus.textContent = `Arte para ${label} baixada. Abra-a no Instagram.`;
+      shareMenu?.removeAttribute("open");
     });
   });
 
